@@ -1,0 +1,38 @@
+/* Blockquote main style */
+.blockquote {
+    position: relative;
+    font-weight: 800;
+    padding: 30px 0;
+    width: 100%;
+    font-size: 1.25em;
+    margin: 10px auto 80px auto;
+    border-top: solid 1px #ff552e;
+    border-bottom: solid 1px #ff552e;
+}
+
+/* Blockquote header */
+.blockquote div {
+    position: relative;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 1;
+    margin: 0;
+}
+
+/* Blockquote right double quotes */
+.blockquote:after {
+    position: absolute;
+    content: "”";
+    color: #ff552e;
+    font-size: 10rem;
+    line-height: 0;
+    bottom: -43px;
+    right: 30px;
+}
+
+/* increase header size after 600px */
+@media all and (min-width: 600px) {
+    .blockquote div {
+        font-size: 60px;
+   }
+}
