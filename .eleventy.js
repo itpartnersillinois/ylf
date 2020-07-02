@@ -1,6 +1,3 @@
-const fs = require("fs");
-const filesize = require("file-size");
-
 module.exports = (function (eleventyConfig) {
     let options = {
         html: true,
