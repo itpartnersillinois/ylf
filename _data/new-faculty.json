@@ -1,0 +1,44 @@
+[
+    {
+        "image": "../img/faculty/ybarra.jpg",
+        "header": "Monica Gonzalez Ybarra",
+        "subheader": "Assistant Professor, Curriculum & Instruction",
+        "text": "Dr. Gonzalez Ybarra is a proud University of Illinois at Urbana-Champaign alumna. She completed her undergraduate degrees at Illinois in Latina/Latino Studies and Spanish in 2011. She then earned her master’s and doctorate degrees from the University of Utah, in 2013, and the University of Colorado Boulder, in 2018, respectively. She is a former Cultivating New Voices Fellow through the National Council of Teachers of English (NCTE) and was a recipient of the AERA Minority Dissertation Fellowship. Gonzalez Ybarra’s teaching and work with bilingual pre-service and in-service teachers seeks to create opportunities for transformative educational experiences both inside and outside of the classroom. She is committed to working with educators, students, and community members to collectively re-imagine and build educational spaces and opportunities for youth and communities of color."
+    },
+    {
+        "image": "../img/faculty/negrette.jpg",
+        "header": "Giselle Martinez Negrette",
+        "subheader": "Assistant Professor, Curriculum & Instruction",
+        "text": "Dr. Martinez Negrette completed her doctorate in Curriculum and Instruction at the University of Wisconsin-Madison in Spring 2019. She is an expert in bilingual/ESL education, sociolinguistics, and educational policy studies. She has worked as a language teacher in several different regions including Latin America, North America, Europe, Asia, and the Middle East. Her research interests are centered on issues of language, equity, and social justice, particularly in relation to the schooling of linguistically and culturally diverse children in the United States and other regions of the world. Dr. Martinez Negrette is investigating how emergent bilinguals in dual language immersion (DLI) programs perceive, enact, and negotiate the tenuous intersections of race, ethnicity, social class position, and language in American school settings. Her work has been recognized by the National Academy of Education/Spencer Foundation and the Morgridge Center for Public Service at the University of Wisconsin-Madison."
+    },
+    {
+        "image": "../img/faculty/tissenbaum.jpg",
+        "header": "Catherine Dornfeld Tissenbaum",
+        "subheader": "Assistant Professor, Curriculum & Instruction",
+        "text": "Dr. Dornfeld Tissenbaum completed her doctorate in Educational  Psychology with an emphasis on Learning Sciences at the University of Wisconsin-Madison. Her research focuses on the ways in which classrooms and museums support learning collaboration. In her research, Dr. Dornfeld Tissenbaum analyzes the dynamics of social interactions in learning contexts and looks for evidence of knowledge co-construction and learner-center pedagogy. Her primary aims are to help teachers adopt learner-centered pedagogical practices; to help parents capitalize on “learning moments” in museums; and to help museums become inclusive community spaces. She looks forward to collaborating with critical theory experts in the College of Education to further address social factors that shape collaboration and learning."
+    },
+    {
+        "image": "../img/faculty/bosch.jpg",
+        "header": "Nigel Bosch",
+        "subheader": "Assistant Professor, Educational Psychology",
+        "text": "Dr. Bosch completed his Ph.D. in Computer Science from the University of Notre Dame and most recently served as a postdoctoral researcher at the National Center for Supercomputing Applications (NCSA) on the Urbana campus. He joins the College in a joint appointment with the School of Information Sciences. His research employs statistics and machine learning to model emotion, engagement, and learning, with a special focus on the fair treatment of students who are members of underrepresented groups. Bosch’s work has included automatic emotion detection from facial expressions, measurement of emotion during computer programming education, and other topics related to learning and affective computing."
+    },
+    {
+        "image": "../img/faculty/khuri.jpg",
+        "header": "Lydia Khuri",
+        "subheader": "Clinical Associate Professor, Educational Psychology",
+        "text": "Dr. Khuri received her doctorate from the Illinois School of Professional Psychology-Chicago and has maintained a part-time independent practice for over 20 years in Champaign-Urbana. Dr. Khuri joins Counseling Psychology with more than 15 years of Illinois experience in Student Affairs, directing several multicultural and STEM livinglearning communities, and in the University’s Counseling Center, where she provided clinical services and facilitated experiential social justice education courses. Within the College of Education, in addition to leading a counseling psychology practicum for graduate students, Dr. Khuri is teaching History and Systems of Psychology, challenging students to gain awareness of the roots and contexts of their own views, as well as an understanding and appreciation of others’ theoretical orientations."
+    },
+    {
+        "image": "../img/faculty/Ruedas-Gracia.jpg",
+        "header": "Nidia Ruedas-Gracia",
+        "subheader": "Assistant Professor, Educational Psychology",
+        "text": "Dr. Ruedas-Gracia received her doctorate in Developmental and Psychological Science from Stanford University in 2019. Her research explores sociocultural factors that impact academic performance and psychological development of historically marginalized students. Currently, she is examining how diverse cultures and students across the developmental spectrum experience a sense of belonging in various contexts and how sense of belonging impacts important life outcomes. Dr. Ruedas-Gracia hopes to utilize findings from her work to inform and develop culturally-sustaining interventions for historically marginalized students such as first-generation and/or low-income students."
+    },
+    {
+        "image": "../img/faculty/hardy.jpg",
+        "header": "Jessica Hardy",
+        "subheader": "Assistant Professor, Special Education",
+        "text": "Jessica Hardy received her Ph.D. in Early Childhood Special Education from Vanderbilt University and her M.Ed. and B.A. from the University of Florida. Before arriving at Illinois, Dr. Hardy served as an assistant professor in the College of Education and Human Development at the University of Louisville, and prior to that she taught in Portland, Oregon, as a Head Start teacher and an early childhood special education teacher. She currently serves as treasurer on the executive board of the Division for Early Childhood (DEC) of the Council for Exceptional Children. Dr. Hardy’s primary research interests are evidence-based instructional practices, particularly for teaching early math and science, and early childhood coaching and professional development."
+    }
+]

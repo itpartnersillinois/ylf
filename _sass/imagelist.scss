@@ -1,0 +1,33 @@
+ul.imagelist {
+    list-style: none;
+    padding-left: 1em;
+
+    li {
+        clear: both;
+        margin-bottom: 50px;
+        max-width: 1400px;
+        margin: auto;
+
+        img {
+            float: left;
+            padding-right: 15px;
+            padding-bottom: 15px;
+            width: 300px;
+        }
+
+        .header {
+            font-size: 2em;
+            font-weight: bold;
+            color: #ff552e;
+            margin-bottom: 0;
+        }
+
+        .subheader {
+            font-size: 1em;
+            font-weight: bold;
+            border-bottom: thin solid #ff552e;
+            padding-bottom: 1em;
+            margin-top: 0;
+        }
+    }
+}

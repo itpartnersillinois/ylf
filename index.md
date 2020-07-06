@@ -7,3 +7,5 @@ This is a test site to highlight new technology to convert the [College of Educa
 Example pages:
 * [Rankings](rankings)
 * [Video Games](videogames)
+* [Faculty By The Numbers](faculty-by-numbers)
+* [Meet Our New Scholars](meet-our-new-scholars)

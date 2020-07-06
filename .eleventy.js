@@ -24,4 +24,13 @@ module.exports = (function (eleventyConfig) {
     
         return `<span>${first}</span>${last}`;
     });
+
+    eleventyConfig.addFilter("transformListWithImages", function (item) {
+      var returnValue = '<ul class="imagelist">';
+      item.forEach(element => {
+        returnValue = returnValue + `<li><img src="${element.image}" alt="${element.header}"><p class="header">${element.header}</p><p class="subheader">${element.subheader}</p>${element.text}</li>`
+      });
+      returnValue = returnValue + '</ul>'
+      return returnValue;
+  });
 });
