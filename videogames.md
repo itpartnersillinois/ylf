@@ -1,6 +1,9 @@
 ---
 layout: article.liquid
 pageTitle: Children Use Video Games To Explore Science In Two NSF-Funded Projects
+previousLink: /rankings
+nextLink: /faculty-by-numbers
+
 ---
 ![H. Chad Lane, Associate Professor, Educational Psychology](../img/h-chad-lane.png){ .top-right }Educational Psychology associate professor **H. Chad Lane** and his team of researchers believe that the future of humanity rests in the hands of scientists so young that they currently have homework assignments and bedtimes. { .large .blue }
 

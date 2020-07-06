@@ -1,0 +1,44 @@
+@import "./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "./node_modules/@fortawesome/fontawesome-free/scss/solid.scss";
+
+header {
+    background: #ff552e;
+    height: 72px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+
+    img {
+        height: 68px;
+        float: left;
+        padding: 2px 20px;
+    }
+
+    p {
+        margin: 0;
+        padding-top: 10px;
+        font-weight: bold;
+        font-size: 1.3em;
+        color: white;
+        display: inline-block;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    nav {
+        float: right;
+        padding-right: 10px;
+        font-size: 32px;
+        padding-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 500px ) {
+    header p {
+        display: none;
+    }
+}

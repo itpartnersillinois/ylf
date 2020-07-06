@@ -9,6 +9,9 @@ stats:
   - 18 State of Illinois Agency grants
   - 15 U.S. Department of Education grants 
   - 9 Major foundation grants
+previousLink: /
+nextLink: /videogames
+
 ---
 ## WORLD-CLASS PROGRAMS
 ### *2020 U.S. News & World Report* rankings for our departments and programs.

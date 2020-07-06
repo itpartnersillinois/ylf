@@ -1,7 +1,15 @@
-body { margin: 0; padding: 0; }
+body {
+    margin: 0;
+    padding: 0;
+}
 
-p,h1,h2,h3,h4,li {
-    font-family: 'Montserrat', sans-serif;
+p,
+h1,
+h2,
+h3,
+h4,
+li {
+    font-family: "Montserrat", sans-serif;
 }
 
 ul.no-bullets {
@@ -18,11 +26,11 @@ ul.no-bullets {
 }
 
 .small {
-    font-size: .75em;
+    font-size: 0.75em;
 }
 
 .x-small {
-    font-size: .5em;
+    font-size: 0.5em;
 }
 
 .orange {
@@ -31,4 +39,8 @@ ul.no-bullets {
 
 .blue {
     color: #13294b;
+}
+
+main {
+    margin-top: 72px;
 }
