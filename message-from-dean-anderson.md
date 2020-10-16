@@ -2,7 +2,7 @@
 layout: article.liquid
 pageTitle: Message from Dean Anderson
 previousLink: /
-nextLink: /
+nextLink: /2020-growth
 
 ---
 ![Dean James Anderson](../img/dean-anderson.png){ .top-left } 

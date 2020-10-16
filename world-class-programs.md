@@ -9,8 +9,8 @@ stats:
   - 11 State of Illinois Agency grants
   - 17 U.S. Department of Education grants 
   - 14 Major foundation grants
-previousLink: /
-nextLink: /
+previousLink: /college-leadership
+nextLink: /priorities-milestones
 
 ---
 ## WORLD-CLASS PROGRAMS
