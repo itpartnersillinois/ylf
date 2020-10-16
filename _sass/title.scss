@@ -1,0 +1,39 @@
+main.title {
+    width: 80%;
+    padding: 0 10%;
+    background: $cloud_base;
+    margin-top: 0;
+
+    img {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+.contents {
+    background: $cloud_base;
+    p {
+        text-align: center;
+        font-size: 4em;
+        border-top: 7px solid $orange_base;
+        border-bottom: 7px solid $orange_base;
+    }
+    ul {
+        text-align: left;
+        list-style: none;
+        font-size: 1.8em;
+        li {
+            margin-bottom: 20px;
+        }
+        a {
+            text-decoration: none;
+            font-weight: bold;
+            color: $orange_base;
+        }
+        a:hover, a:focus {
+            color: $blue_base;
+            transition: .5s;
+        }
+    }
+}

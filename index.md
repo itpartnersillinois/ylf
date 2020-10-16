@@ -1,11 +1,39 @@
 ---
-layout: main.liquid
-pageTitle: 2019 Impact Report
+layout: title.liquid
+pageTitle: 2020 Impact Report
+pageTitle2: Education
+subTitle: College of Education | University of Illinois Urbana-Champaign
 ---
-This is a test site to highlight new technology to convert the [College of Education 2019 Impact Report](https://cdn.education.illinois.edu/Impact2019/full.pdf) to a web-friendly format. As I add templates, I will add pages. 
+Table of Contents
 
-Example pages:
-* [Rankings](rankings)
-* [Video Games](videogames)
-* [Faculty By The Numbers](faculty-by-numbers)
-* [Meet Our New Scholars](meet-our-new-scholars)
+* [Message from Dean Anderson](message-from-dean-anderson)
+* [By the Numbers: 2020 Growth](2020-growth)
+* [College Leadership](college-leadership)
+* [By the Numbers: World-Class Programs](world-class-programs)
+* [Priorities & Milestones](priorities-milestones)
+* [A Brave New World: Supporting Today’s Educators and Learners](a-brave-new-world)
+* [Schools After COVID-19: Seven Steps Towards a Learning Revolution](schools-after-covid-19)
+* COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education
+* Fighting for Social Justice
+* Addressing Anti-Black Racism and the Rise of Global Protests: Is It Different This Time?
+* Inside The Psychology of Radical Healing Collective
+* Using AI to improve education, impact society
+* Studying the Challenges of Immigrant and Refugee Students
+* Assessment During a Crisis: Responding to a Global Pandemic
+* Research & Recognitions
+* By the Numbers: 2019-20 Faculty
+* New Scholars
+* By the Numbers: Undergraduate Education
+* Student Spotlight: Trey Harris
+* Student Spotlight: Ananya Tiwari
+* By the Numbers: Graduate Education
+* By the Numbers: Online Programs
+* Student Spotlight: Erin L. Gahimer
+* Outreach & Impact
+* Education Justice Project (EJP) Creates Guide For People Released from Incarceration During COVID-19
+* We CU: Empowering Students, Strengthining Community
+* 10 ways the University of Illinois at Urbana-Champaign is helping kids and families across the state
+* Donor & Alumni Impact
+* Student Spotlight: Marisol Jimenez
+* Meet Our Newest Team Member, Ashley Souk!
+* With Illinois campaign

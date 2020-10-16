@@ -16,14 +16,14 @@ ul.imagelist {
         .header {
             font-size: 2em;
             font-weight: bold;
-            color: #ff552e;
+            color: $orange_base;
             margin-bottom: 0;
         }
 
         .subheader {
             font-size: 1em;
             font-weight: bold;
-            border-bottom: thin solid #ff552e;
+            border-bottom: thin solid $orange_base;
             padding-bottom: 1em;
             margin-top: 0;
         }

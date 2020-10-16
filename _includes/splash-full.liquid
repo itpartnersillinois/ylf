@@ -3,9 +3,9 @@
     <head>
         {% include head.liquid %}
     </head>
-    <body>
+    <body class="{{ bodyClass }}">
         {% include menu.liquid %}
-        <main class="splash" style="background-image: url(../img/{{ backgroundImage }});">
+        <main class="splash" style="background-image: url(../img/backgrounds/{{ backgroundImage }});">
         <div class="full">
         <h1 class="intro-text">{{ pageTitle }} </h1>
         <ul class="stats no-bullets">

@@ -32,5 +32,15 @@ module.exports = (function (eleventyConfig) {
       });
       returnValue = returnValue + '</ul>'
       return returnValue;
-  });
+    });
+
+    eleventyConfig.addFilter("transformGridWithImages", function (item) {
+      var returnValue = '<ul class="imagegrid">';
+      item.forEach(element => {
+        returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.url}"><img src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.url}">${element.header},</a> ${element.subheader}</p></li>`
+      });
+      returnValue = returnValue + '</ul>'
+      return returnValue;
+    });
+
 });
