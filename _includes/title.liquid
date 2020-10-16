@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body>
+        <main class="title">
+            <h1 class="visuallyhidden">{{ pageTitle }}</h1>
+            <img src="/img/great_minds_title.png" alt="{{ pageTitle }}" class="titleimage" />
+            <div class="contents">
+            {{ content }}
+            </div>
+        </main>
+    </body>
+</html>
