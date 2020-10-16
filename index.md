@@ -8,9 +8,9 @@ Table of Contents
 
 * [Message from Dean Anderson](message-from-dean-anderson)
 * [By the Numbers: 2020 Growth](2020-growth)
-* College Leadership
-* By the Numbers: World-Class Programs
-* By the Numbers: Priorities & Milestones
+* [College Leadership](college-leadership)
+* [By the Numbers: World-Class Programs](world-class-programs)
+* [Priorities & Milestones](priorities-milestones)
 * A Brave New World: Supporting Today’s Educators and Learners
 * Schools After COVID-19: Seven Steps Towards a Learning Revolution
 * COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education
