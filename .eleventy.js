@@ -33,6 +33,15 @@ module.exports = (function (eleventyConfig) {
       returnValue = returnValue + '</ul>'
       return returnValue;
     });
+    
+    eleventyConfig.addFilter("transformGridWithImagesSimple", function (item) {
+      var returnValue = '<ul class="imagegrid text">';
+      item.forEach(element => {
+        returnValue = returnValue + `<li><img src="${element.image}" alt="${element.header}"><p><span style="font-weight: bold;">${element.header},</span> ${element.text}</p></li>`
+      });
+      returnValue = returnValue + '</ul>'
+      return returnValue;
+    });
 
     eleventyConfig.addFilter("transformGridWithImages", function (item) {
       var returnValue = '<ul class="imagegrid">';
