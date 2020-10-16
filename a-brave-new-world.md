@@ -5,7 +5,7 @@ previousLink: /priorities-milestones
 nextLink: /schools-after-covid-19
 
 ---
-![Cartoon image of a person thinking surrounded by options](../img/a-brave-new-world.png){ .top-right }When COVID-19 struck, the College of Education quickly pivoted to support college faculty, preK-12 teachers, and remote learners with the tools, resources, and guidance needed to navigate an educational world turned upside down by the pandemic.{ .large }
+![Cartoon image of a person thinking surrounded by options](/img/a-brave-new-world.png){ .top-right }When COVID-19 struck, the College of Education quickly pivoted to support college faculty, preK-12 teachers, and remote learners with the tools, resources, and guidance needed to navigate an educational world turned upside down by the pandemic.{ .large }
 
 WITH THE DECLARATION by Illinois Governor J.B. Pritzker that K-12 public schools in Illinois needed to move to remote learning effective April 1, school districts and teachers have had to scramble to get remote learning curricula, plans, and models in place. The College of Education at the University of Illinois Urbana-Champaign stepped immediately to the fore, coming to the aid of teachers with its LearnAway website, newsletter, and 10Talk video chats with experts.
 

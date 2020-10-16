@@ -20,4 +20,21 @@ ul.imagegrid {
         color: $blue_base;
         transition: .5s;
     }
+    
+    &.text {
+        text-align: left;
+
+        li {
+            background: $cloud_base;
+            padding: 10px;
+
+            h3 {
+                color: $orange_base;
+            }
+
+            .pi {
+                font-weight: bold;
+            }
+        }
+    }
 }

@@ -42,5 +42,13 @@ module.exports = (function (eleventyConfig) {
       returnValue = returnValue + '</ul>'
       return returnValue;
     });
-
+    
+    eleventyConfig.addFilter("transformCovid19Projects", function (item) {
+      var returnValue = '<ul class="imagegrid text">';
+      item.forEach(element => {
+        returnValue = returnValue + `<li><h3>${element.title}</h3><p class="pi">${element.pi}</p><p>${element.description}</p></li>`
+      });
+      returnValue = returnValue + '</ul>'
+      return returnValue;
+    });
 });
