@@ -14,6 +14,8 @@ main.title {
     p {
         text-align: center;
         font-size: 4em;
+        border-top: 7px solid $orange_base;
+        border-bottom: 7px solid $orange_base;
     }
     ul {
         text-align: left;

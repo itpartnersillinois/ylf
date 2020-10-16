@@ -11,7 +11,7 @@ Table of Contents
 * [College Leadership](college-leadership)
 * [By the Numbers: World-Class Programs](world-class-programs)
 * [Priorities & Milestones](priorities-milestones)
-* A Brave New World: Supporting Today’s Educators and Learners
+* [A Brave New World: Supporting Today’s Educators and Learners](a-brave-new-world)
 * Schools After COVID-19: Seven Steps Towards a Learning Revolution
 * COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education
 * Fighting for Social Justice
