@@ -27,4 +27,12 @@
             padding: 0 0 30px 30px;
         }
     }
+
+    .aside {
+        float: left;
+        width: 40%;
+        margin-right: 20px;
+        border-top: thin solid $orange_base;
+        border-bottom: thin solid $orange_base;
+    }
 }

@@ -9,7 +9,7 @@ gulp.task("webfonts", function () {
 });
 
 gulp.task("styles", function () {
-    return gulp.src(['_sass/*.scss'])
+    return gulp.src(['_sass/main.scss'])
         .pipe(sass())
         .pipe(cssmin())
         .pipe(concat("site.css"))
