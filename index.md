@@ -7,7 +7,7 @@ subTitle: College of Education | University of Illinois Urbana-Champaign
 Table of Contents
 
 * [Message from Dean Anderson](message-from-dean-anderson)
-* By the Numbers: 2020 Growth
+* [By the Numbers: 2020 Growth](2020-growth)
 * College Leadership
 * By the Numbers: World-Class Programs
 * By the Numbers: Priorities & Milestones
