@@ -13,9 +13,9 @@ Table of Contents
 * [Priorities & Milestones](priorities-milestones)
 * [A Brave New World: Supporting Today’s Educators and Learners](a-brave-new-world)
 * [Schools After COVID-19: Seven Steps Towards a Learning Revolution](schools-after-covid-19)
-* COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education
-* Fighting for Social Justice
-* Addressing Anti-Black Racism and the Rise of Global Protests: Is It Different This Time?
+* [COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education](covid-19)
+* [Fighting for Social Justice](fighting-for-social-justice)
+* [Addressing Anti-Black Racism and the Rise of Global Protests: Is It Different This Time?](addressing-anti-black-racism)
 * Inside The Psychology of Radical Healing Collective
 * Using AI to improve education, impact society
 * Studying the Challenges of Immigrant and Refugee Students

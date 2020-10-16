@@ -42,5 +42,22 @@ module.exports = (function (eleventyConfig) {
       returnValue = returnValue + '</ul>'
       return returnValue;
     });
-
+    
+    eleventyConfig.addFilter("transformCovid19Projects", function (item) {
+      var returnValue = '<ul class="imagegrid text">';
+      item.forEach(element => {
+        returnValue = returnValue + `<li><h3>${element.title}</h3><p class="pi">${element.pi}</p><p>${element.description}</p></li>`
+      });
+      returnValue = returnValue + '</ul>'
+      return returnValue;
+    });
+        
+    eleventyConfig.addFilter("transformRoundtableTopics", function (item) {
+      var returnValue = '<ul class="imagegrid text wide">';
+      item.forEach(element => {
+        returnValue = returnValue + `<li><h3>${element.speaker}</h3><p class="pi">${element.title}</p><p>${element.description}</p></li>`
+      });
+      returnValue = returnValue + '</ul>'
+      return returnValue;
+    });
 });
