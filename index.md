@@ -16,8 +16,8 @@ Table of Contents
 * [COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education](covid-19)
 * [Fighting for Social Justice](fighting-for-social-justice)
 * [Addressing Anti-Black Racism and the Rise of Global Protests: Is It Different This Time?](addressing-anti-black-racism)
-* Inside The Psychology of Radical Healing Collective
-* Using AI to improve education, impact society
+* [Inside The Psychology of Radical Healing Collective](inside-the-psychology-of-radical-heading-collective)
+* [Using AI to improve education, impact society](using-ai-to-improve-education)
 * Studying the Challenges of Immigrant and Refugee Students
 * Assessment During a Crisis: Responding to a Global Pandemic
 * Research & Recognitions
