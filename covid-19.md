@@ -1,8 +1,8 @@
 ---
 layout: article.liquid
 pageTitle: COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education
-previousLink: /
-nextLink: /
+previousLink: /schools-after-covid-19
+nextLink: /fighting-for-social-justice
 
 ---
 In response to the pandemic, the College has provided seed funding for 10 projects, all related to the impacts of COVID-19 on education and society.

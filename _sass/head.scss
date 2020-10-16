@@ -44,3 +44,13 @@ ul.no-bullets {
 main {
     margin-top: 72px;
 }
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: $orange_base;
+}
+a:hover, a:focus {
+    color: $blue_base;
+    transition: .5s;
+}
