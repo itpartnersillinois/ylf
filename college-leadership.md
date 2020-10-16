@@ -5,8 +5,8 @@ pagination:
     data: new-faculty
     size: 100
     alias: new-faculty
-previousLink: /faculty-by-numbers
-nextLink: /
+previousLink: /2020-growth
+nextLink: /world-class-programs
 ---
 
 {{ college-leadership | transformGridWithImages }}
