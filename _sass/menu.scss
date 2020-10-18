@@ -1,5 +1,9 @@
 body.blue header {
     background: $blue_base;
+
+    a:hover, a:focus {
+        color: $orange_base;
+    }    
 }
 
 header {

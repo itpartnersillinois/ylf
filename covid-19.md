@@ -13,7 +13,7 @@ The hope, Allen adds, is that these activities will turn into full-blown project
 
 “The projects show the breadth of scholarship in the College,” Allen says. “We have to think about things more holistically, looking at the grand challenges in education that we need to address.” No matter the area of research, the ultimate goal is societal impact, Allen says. “That’s what we’re looking at. How can we contribute to improving outcomes for our community now, while we also support our researchers in their careers, and support our students to continue their studies? This was the motivation for us in designing this solicitation.
 
-Allen, who also oversees the Bureau of Educatioanal Research (BER), points to the importance of the BER in driving and supporting transformative research—not just in the College of Education, but across campus.
+Allen, who also oversees the Bureau of Education Research (BER), points to the importance of the BER in driving and supporting transformative research—not just in the College of Education, but across campus.
 
 “If we want to see real societal impact, then we absolutely need to be doing more interdisciplinary research around clusters of activities, so we can look at the grand challenges of education.” — Gabrielle Allen, the College’s associate dean for research and research education {.blockquote}
 
