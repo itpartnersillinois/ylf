@@ -19,8 +19,8 @@ Table of Contents
 * [Inside The Psychology of Radical Healing Collective](inside-the-psychology-of-radical-heading-collective)
 * [Using AI to improve education, impact society](using-ai-to-improve-education)
 * [Research & Recognitions](research-and-recognitions)
-* By the Numbers: 2019-20 Faculty
-* New Scholars
+* [By the Numbers: 2019-20 Faculty](2019-20-faculty)
+* [New Scholars](new-scholars)
 * By the Numbers: Undergraduate Education
 * Student Spotlight: Trey Harris
 * Student Spotlight: Ananya Tiwari
