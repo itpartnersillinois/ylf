@@ -21,7 +21,7 @@ Table of Contents
 * [Research & Recognitions](research-and-recognitions)
 * [By the Numbers: 2019-20 Faculty](2019-20-faculty)
 * [New Scholars](new-scholars)
-* By the Numbers: Undergraduate Education
+* [By the Numbers: Undergraduate Education](undergraduate-education)
 * Student Spotlight: Trey Harris
 * Student Spotlight: Ananya Tiwari
 * By the Numbers: Graduate Education

@@ -1,0 +1,42 @@
+.numbers {
+
+    padding: 50px;
+    max-width: 1200px;
+    margin: auto;
+    
+    h1 {
+        font-family: "Fjalla One", sans-serif;
+        font-size: 3em;
+        margin-bottom: 0;
+    }
+
+    p.tagline {
+        font-size: 2em;
+    }
+
+    h2 {
+        background-color: $blue_base;
+        color: white;
+        border-bottom: thin solid $blue_base;
+        padding: 5px 20px;
+    }
+
+    .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, 350px);
+        text-align: center;
+        justify-content: space-evenly;
+
+        li {
+            padding: 1vw;
+            font-size: 1em;
+
+            span {
+                font-size: 4em;
+                font-weight: bold;
+                display: block;
+                color: $orange_base;
+            }
+        }
+    }
+}

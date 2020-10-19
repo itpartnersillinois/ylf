@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+        {% include menu.liquid %}
+        <main class="numbers">
+        <h1>{{ pageTitle }} </h1>
+        <p class="tagline">{{ tagline }} </p>
+        {{ content }}
+        <h2>2019 By The Numbers</h2>
+        <ul class="stats no-bullets">
+        {% for stat in stats %}
+            <li>{{ stat | transformStat }}</li>
+        {% endfor %}
+        </ul>
+        </main>
+    </body>
+</html>
