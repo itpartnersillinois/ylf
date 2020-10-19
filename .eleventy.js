@@ -69,6 +69,16 @@ module.exports = (function (eleventyConfig) {
       returnValue = returnValue + '</ul>';
       return returnValue;
     });
+
+        
+    eleventyConfig.addFilter("transformOutreach", function (item) {
+      var returnValue = '<ul class="imagegrid text">';
+      item.forEach(element => {
+        returnValue = returnValue + `<li><span style="font-weight: bold;">${element.title}</span> ${element.description}</li>`;
+      });
+      returnValue = returnValue + '</ul>';
+      return returnValue;
+    });
         
     eleventyConfig.addFilter("transformRoundtableTopics", function (item) {
       var returnValue = '<ul class="imagegrid text wide">';

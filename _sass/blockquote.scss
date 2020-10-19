@@ -8,6 +8,11 @@
     margin: 10px auto 80px auto;
     border-top: solid 1px $orange_base;
     border-bottom: solid 1px $orange_base;
+
+    &.nolines
+    {
+        border: none;
+    }
 }
 
 /* Blockquote header */

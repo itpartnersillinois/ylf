@@ -6,6 +6,7 @@ stats:
   - 28% Graduate students from underrepresented populations
   - number8 Best Online Graduate Programs in the nation (2020 U.S. News & World Report)
 tagline: Backed by our reputation as one of the top-ranked public universities in the world, our online and Chicago-area programs offer an affordable, flexible, and valuable investment for busy professionals.
+bodyClass: blue
 previousLink: /graduate-education
 nextLink: /erin-l-gahimer
 ---
