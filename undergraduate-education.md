@@ -8,8 +8,8 @@ stats:
   - 27% Undergraduate students from underrepresented populations
   - 26.5 Average ACT score of our incoming freshmen
 tagline: With our focus on diversity, technology, in-depth field work, and research, our graduates are prepared to succeed and lead from the classroom to the boardroom.
-previousLink: /
-nextLink: /
+previousLink: /new-scholars
+nextLink: /trey-harris
 ---
 
 ## Our Programs

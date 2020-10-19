@@ -5,7 +5,7 @@ previousLink: /using-ai-to-improve-education
 nextLink: /2019-20-faculty
 
 ---
-## Studying the Challenges of Immigrant and Refugee Students
+## Studying the Challenges of Immigrant and Refugee Students {.clear}
 
 ![Dr. Liv Thorstensson Davila](/img/faculty/liv-thorstensson-davila.png){ .top-right }Dr. Liv Thorstensson Davila uncovers the challenges immigrants face and the factors that can lead to a successful transition to their new country.{ .large }
 
@@ -13,7 +13,7 @@ nextLink: /2019-20-faculty
 
 Davila conducted a study from 2016 through 2018, funded by the Spencer Foundation, on adolescent English learners from the Democratic Republic of the Congo. The study focused on learners’ identities and learning within linguistically diverse high school classrooms in the U.S.
 
-## Assessment During a Crisis: Responding to a Global Pandemic
+## Assessment During a Crisis: Responding to a Global Pandemic{.clear}
 
 In June 2020, the National Institute for Learning Outcomes Assessment (NILOA) released a new report, “Assessment During a Crisis: Responding to a Global Pandemic,” based on a survey of more than 800 college personnel responsible for assessment.
 
@@ -23,6 +23,6 @@ In March 2020, institutions abruptly pivoted to remote instruction in response t
 
 NILOA was honored with the 2020 Contribution to Higher Education Award at the American College Personnel Association (ACPA) Annual Convention. The award recognizes individuals  and organizations that advance a broad higher education agenda through meaningful work at the institutional, regional, and national levels. 
 
-## Other Faculty Research and Recognitions
+## Other Faculty Research and Recognitions{.clear}
 
 {{ research-and-recognitions | transformListWithImagesSimple }}

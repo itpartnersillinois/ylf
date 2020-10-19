@@ -26,6 +26,11 @@ body.student {
             top: 100vh;
         }
 
+        &.bottomright {
+            top: 100vh;
+            left: 50%
+        }
+
         &.topleft {
             top: 72px;
         }
