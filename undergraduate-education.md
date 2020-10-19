@@ -1,5 +1,5 @@
 ---
-layout: by-the-numbers.liquid
+layout: numbers.liquid
 pageTitle: Undergraduate Education
 stats: 
   - 589 enrolled in the College

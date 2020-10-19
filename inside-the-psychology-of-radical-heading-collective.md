@@ -1,6 +1,6 @@
 ---
 layout: article.liquid
-pageTitle: Inside the Psychology of Radical Heading Collective
+pageTitle: Inside the Psychology of Radical Healing Collective
 previousLink: /addressing-anti-black-racism
 nextLink: /using-ai-to-improve-education
 
