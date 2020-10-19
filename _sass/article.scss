@@ -9,7 +9,10 @@
     h3,
     h4 {
         color: $blue_base;
-        clear: both;
+
+        &.clear {
+            clear: both;
+        }
     }
 
     h1 {

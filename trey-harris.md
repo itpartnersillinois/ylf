@@ -3,8 +3,8 @@ layout: student.liquid
 pageTitle: Trey Harris
 backgroundImage: trey-harris.png
 location: bottomleft
-previousLink: /
-nextLink: /
+previousLink: /undergraduate-education
+nextLink: /ananya-tiwari
 ---
 
 ## Middle Grades Education major

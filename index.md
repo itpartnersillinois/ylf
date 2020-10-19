@@ -22,10 +22,10 @@ Table of Contents
 * [By the Numbers: 2019-20 Faculty](2019-20-faculty)
 * [New Scholars](new-scholars)
 * [By the Numbers: Undergraduate Education](undergraduate-education)
-* Student Spotlight: Trey Harris
-* Student Spotlight: Ananya Tiwari
-* By the Numbers: Graduate Education
-* By the Numbers: Online Programs
+* [Student Spotlight: Trey Harris](trey-harris)
+* [Student Spotlight: Ananya Tiwari](ananya-tiwari)
+* [By the Numbers: Graduate Education](graduate-education)
+* [By the Numbers: Online Programs](online-programs)
 * Student Spotlight: Erin L. Gahimer
 * Outreach & Impact
 * Education Justice Project (EJP) Creates Guide For People Released from Incarceration During COVID-19

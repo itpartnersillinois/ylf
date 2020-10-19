@@ -16,7 +16,7 @@ module.exports = (function (eleventyConfig) {
     eleventyConfig.setLibrary("md", markdownIt);
 
     eleventyConfig.addFilter("transformStat", function (stat) {
-        first = stat.slice(0, stat.indexOf(' '));
+        first = stat.slice(0, stat.indexOf(' ')).replace('number', '#');
         last = stat.slice(stat.indexOf(' '));
 
         if (!stat.length)
