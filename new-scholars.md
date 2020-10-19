@@ -5,7 +5,7 @@ pagination:
     data: new-faculty
     size: 100
     alias: new-faculty
-previousLink: /
+previousLink: /2019-20-faculty
 nextLink: /
 ---
 
