@@ -34,4 +34,4 @@ Table of Contents
 * [Donor & Alumni Impact](donor-and-alumni-impact)
 * [Student Spotlight: Marisol Jimenez](marisol-jimenez)
 * [Meet Our Newest Team Member, Ashley Souk!](ashley-souk)
-* With Illinois campaign
+* [With Illinois campaign](with-illinois)
