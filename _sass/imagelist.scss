@@ -11,6 +11,10 @@ ul.imagelist {
             padding-right: 15px;
             padding-bottom: 15px;
             width: 300px;
+
+            &.simple {
+                width: auto;
+            }
         }
 
         .header {

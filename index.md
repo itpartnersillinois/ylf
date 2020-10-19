@@ -18,9 +18,7 @@ Table of Contents
 * [Addressing Anti-Black Racism and the Rise of Global Protests: Is It Different This Time?](addressing-anti-black-racism)
 * [Inside The Psychology of Radical Healing Collective](inside-the-psychology-of-radical-heading-collective)
 * [Using AI to improve education, impact society](using-ai-to-improve-education)
-* Studying the Challenges of Immigrant and Refugee Students
-* Assessment During a Crisis: Responding to a Global Pandemic
-* Research & Recognitions
+* [Research & Recognitions](research-and-recognitions)
 * By the Numbers: 2019-20 Faculty
 * New Scholars
 * By the Numbers: Undergraduate Education
