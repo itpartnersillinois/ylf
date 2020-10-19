@@ -26,12 +26,12 @@ Table of Contents
 * [Student Spotlight: Ananya Tiwari](ananya-tiwari)
 * [By the Numbers: Graduate Education](graduate-education)
 * [By the Numbers: Online Programs](online-programs)
-* Student Spotlight: Erin L. Gahimer
-* Outreach & Impact
-* Education Justice Project (EJP) Creates Guide For People Released from Incarceration During COVID-19
-* We CU: Empowering Students, Strengthining Community
-* 10 ways the University of Illinois at Urbana-Champaign is helping kids and families across the state
-* Donor & Alumni Impact
-* Student Spotlight: Marisol Jimenez
-* Meet Our Newest Team Member, Ashley Souk!
+* [Student Spotlight: Erin L. Gahimer](erin-l-gahimer)
+* [Outreach & Impact](outreach-and-impact)
+* [Education Justice Project (EJP) Creates Guide For People Released from Incarceration During COVID-19](education-justice-project)
+* [We CU: Empowering Students, Strengthining Community](we-cu)
+* [10 ways the University of Illinois at Urbana-Champaign is helping kids and families across the state](10-ways)
+* [Donor & Alumni Impact](donor-and-alumni-impact)
+* [Student Spotlight: Marisol Jimenez](marisol-jimenez)
+* [Meet Our Newest Team Member, Ashley Souk!](ashley-souk)
 * With Illinois campaign

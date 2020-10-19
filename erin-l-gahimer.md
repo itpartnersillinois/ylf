@@ -4,7 +4,7 @@ pageTitle: Erin L. Gahimer
 backgroundImage: erin-l-gahimer.png
 location: bottomright
 previousLink: /online-programs
-nextLink: /
+nextLink: /outreach-and-impact
 ---
 
 ## Ed.D., Global Studies 
