@@ -25,4 +25,4 @@ Yours in Orange & Blue
 Dean, College of Education
 and Edward William and Jane Marr Gutsgell Professor of Education
 
-<style> p { line-height: 1.5em; } </style>
+<style> .article p { line-height: 1.5em; } </style>
