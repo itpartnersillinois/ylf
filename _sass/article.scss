@@ -54,3 +54,11 @@
         border-bottom: thin solid $orange_base;
     }
 }
+
+@media only screen and (max-width: 800px) {
+    .article {
+        h1 {
+            font-size: 2em;
+        }
+    }
+}
