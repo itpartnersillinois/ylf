@@ -1,6 +1,8 @@
 ---
 layout: article.liquid
 pageTitle: Outreach & Impact
+titleStart: 0
+titleEnd: 8
 previousLink: /erin-l-gahimer
 nextLink: /education-justice-project
 

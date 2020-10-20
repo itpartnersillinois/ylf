@@ -6,7 +6,7 @@
     <body class="{{ bodyClass }}">
         {% include menu.liquid %}
         <main class="article">
-        <h1>{{ pageTitle }}</h1>
+        <h1>{{ pageTitle | transformTitle: titleStart, titleEnd }}</h1>
         {{ content }}
         </main>
     </body>

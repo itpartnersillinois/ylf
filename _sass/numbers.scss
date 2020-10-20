@@ -6,8 +6,12 @@
     
     h1 {
         font-family: "Fjalla One", sans-serif;
-        font-size: 3em;
+        font-size: 4em;
         margin-bottom: 0;
+        padding-top: 1em;
+        font-weight: normal;
+        text-transform: uppercase;
+        color: $blue_base;
     }
 
     p.tagline {

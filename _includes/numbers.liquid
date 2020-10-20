@@ -6,7 +6,7 @@
     <body class="{{ bodyClass }}">
         {% include menu.liquid %}
         <main class="numbers">
-        <h1>{{ pageTitle }} </h1>
+        <h1>{{ pageTitle | transformTitle: titleStart, titleEnd }} </h1>
         <p class="tagline">{{ tagline }} </p>
         {{ content }}
         <h2>2019 By The Numbers</h2>
