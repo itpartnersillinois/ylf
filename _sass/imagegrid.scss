@@ -4,6 +4,7 @@ ul.imagegrid {
     grid-template-columns: repeat(auto-fit,300px);
     text-align: center;
     grid-gap: 20px;
+    padding-left: 0;
 
     &.wide {
         grid-template-columns: repeat(auto-fit,450px);
@@ -20,7 +21,11 @@ ul.imagegrid {
 
         li {
             background: $cloud_base;
-            padding: 0;
+            padding: 10px;
+
+            &.nopadding {
+                padding: 0;
+            }
 
             h3 {
                 color: $cloud_base;
@@ -36,6 +41,16 @@ ul.imagegrid {
             p {
                 padding: 0 10px;
             }
+        }
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    ul.imagegrid {
+        display: block;
+
+        li {
+            margin-bottom: 20px;
         }
     }
 }

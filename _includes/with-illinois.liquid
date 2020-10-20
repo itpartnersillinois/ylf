@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }} with">
+        {% include menu.liquid %}
+        <main>
+        <h1 class="visuallyhidden">pageTitle</h1>
+        <div class="quote-wrapper">
+        <div class="quote">
+            {{ quote }}
+            <p class="byline"> {{ quotebyline }}</p>
+        </div>
+        </div>
+        <div class="main-wrapper">
+            <div class="information">
+                <p class="large">{{ tagline }}</p>
+                <img src="/img/fundraising-goal.png" alt="Fundraising goal of 25 million with progress of 22.6 million, making it 90% met">
+                <div class="statistic-wrapper">
+                    {% for stat in stats %}
+                       <div>{{ stat | transformStat }}</div>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="investment">
+                {{ content }}
+            </div>
+        </div>
+        </main>
+    </body>
+</html>

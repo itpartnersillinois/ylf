@@ -1,0 +1,113 @@
+.with {
+    .quote-wrapper {
+        background-color: $blue_base;
+        color: $cloud_base;
+
+        .quote {
+            padding: 20px 50px;
+            font-size: 2em;
+            font-weight: bold;
+            max-width: 800px;
+            margin: auto;
+            font-family: serif;
+            line-height: 1.5em;
+
+            .byline {
+                font-weight: normal;
+                font-size: 0.5em;
+                margin-top: 5px;
+                font-family: "Montserrat", sans-serif;
+                color: $orange_base;
+            }
+
+            .byline:before {
+                content: "\2014 \2009";
+            }
+        }
+
+        .quote:before {
+            display: inline;
+            content: "\201C";
+            font-size: 80px;
+            color: $orange_base;
+        }
+    }
+
+    .main-wrapper {
+        font-family: "Montserrat", sans-serif;
+        display: flex;
+        padding: 10px 50px;
+        font-size: 1.25em;
+
+        .information {
+            flex: 2;
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .investment {
+            flex: 1;
+            background-color: $cloud_base;
+            padding: 20px;
+            margin-left: 30px;
+
+            img {
+                width: 90%;
+                padding: 20px;
+                max-width: 90%;
+                margin-bottom: 5px;
+            }
+
+            h2 {
+                margin-top: 0;
+                padding-top: 0;
+                color: $blue_base;
+            }
+
+            strong {
+                color: $blue_base;
+            }
+        }
+
+        .statistic-wrapper {
+            display: flex;
+            vertical-align: top;
+            align-items: flex-start;
+            justify-content: space-around;
+
+            div {
+                flex: 1;
+                padding: 0 10px;
+            }
+
+            span {
+                display: block;
+                font-size: 3em;
+                text-align: center;
+                font-weight: bold;
+                color: $orange_base;
+                padding-top: 1em;
+                padding-bottom: 0.5em;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .with {
+        .main-wrapper {
+            display: block;
+            padding: 1px;
+
+            .statistic-wrapper {
+                display: block;
+            }
+            .investment {
+                margin-top: 20px;
+                margin-left: 0;
+            }
+        }
+    }
+}
