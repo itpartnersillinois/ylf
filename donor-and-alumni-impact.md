@@ -1,6 +1,8 @@
 ---
 layout: article.liquid
 pageTitle: Donor & Alumni Impact
+titleStart: 0
+titleEnd: 6
 previousLink: /10-ways
 nextLink: /marisol-jimenez
 

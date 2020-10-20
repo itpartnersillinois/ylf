@@ -1,6 +1,8 @@
 ---
 layout: numbers.liquid
 pageTitle: Graduate Education
+titleStart: 0
+titleEnd: 8
 stats: 
   - 487 On-campus graduate students
   - 103 Master's degrees awarded Summer 2019-Spring 2020

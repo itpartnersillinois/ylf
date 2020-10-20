@@ -1,6 +1,8 @@
 ---
 layout: article.liquid
 pageTitle: New Scholars
+titleStart: 0
+titleEnd: 3
 pagination:
     data: new-faculty
     size: 100

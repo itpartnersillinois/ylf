@@ -1,0 +1,20 @@
+.tenways {
+    text-decoration: none;
+    font-style: normal;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 10px 20px;
+    color: white;
+    background: $orange_base;
+    text-align: center;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+
+.tenways-body p {
+    clear: both;
+    padding: 1em;
+}

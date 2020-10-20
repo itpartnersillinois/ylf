@@ -1,6 +1,8 @@
 ---
 layout: article.liquid
 pageTitle: Priorities & Milestones
+titleStart: 0
+titleEnd: 11
 previousLink: /world-class-programs
 nextLink: /a-brave-new-world
 bodyClass: blue
