@@ -23,7 +23,7 @@ bodyClass: blue
 ### 2019-20 Milestones
 * Launched the online Ed.M. in C&I with two concentrations in Bilingual/Bi-Cultural and Digital Learning
 * Supported bilingual faculty in Campus Board applications for ground-breaking research with diverse learners
-* Received funding from the Bureau of Education to conduct cutting-edge COVID-19 research
+* Received funding from the Bureau of Educational Research to conduct cutting-edge COVID-19 research
 * Supported DELTA faculty in successful NSF grant applications
 * Designed seven new courses for the Computer Science Education endorsement
 * Implemented new course in Technology Applications for current teachers

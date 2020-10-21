@@ -1,6 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: Inside the Psychology of Radical Healing Collective
+byline: by Ashley Lawrence
 previousLink: /addressing-anti-black-racism
 nextLink: /using-ai-to-improve-education
 

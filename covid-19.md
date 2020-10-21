@@ -1,6 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education
+byline: by Tom Hanlon
 previousLink: /schools-after-covid-19
 nextLink: /fighting-for-social-justice
 

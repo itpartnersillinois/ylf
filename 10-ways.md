@@ -1,6 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: 10 ways the University of Illinois at Urbana-Champaign is helping kids and families across the state
+byline: by Allison Vance
 bodyClass: blue tenways-body
 menu: -orange
 previousLink: /we-cu
