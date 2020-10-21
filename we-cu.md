@@ -5,7 +5,7 @@ previousLink: /education-justice-project
 nextLink: /10-ways
 
 ---
-![Julia Poel](/img/julia-poel.png){ .top-right } We CU is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
+![Julia Poel](/img/julia-poel.png){ .top-left } We CU is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
 
 Julia Poel, sophomore in Elementary Education, worked with the Serve Illinois Commission on a project called Letters Against Isolation. The project involved writing
 and sending letters to self-isolating seniors in nursing homes and care centers in the community, with the goal brightening their day and mitigating feelings of loneliness and depression during the COVID-19 health crisis’ restrictions on visitors. 
@@ -25,6 +25,17 @@ With its deep understanding of community engagement at the local level, the Coll
 Emily Stone, research development manager for the College of Education and IHSI, together with Katie Shumway in the School of Social Work, are co-directors of We CU and are the driving force behind the public engagement program. Emily also credits Erin Budesheim, Gabby Drong, and Ananya Tiwari (winner of the 2020 Illinois  Innovation Prize) all Educational Psychology graduate students, for providing key leadership and student support as the program came together. 
 
 “Seeing the passion and excitement of students to volunteer and meet community needs inspires me,” says Stone. “We anticipated running a pilot of We CU with about  100 students this summer, but when 450 signed up for our information sessions we knew the program would be much larger.” 
+
+<div class="aside right">
+<h2>Community engagement is more important than ever, as organizations across our community are facing unprecedented challenges resulting from the COVID-19 pandemic.</h2>
+
+The We CU 10-week summer scholars program empowered students to respond to these challenges. Scholars were matched with community-based projects that could be completed remotely. Participating students could also apply for mini grants to offset costs associated with service activities. Students who completed at least 40  hours of service during the 10-week summer program were recognized with a We CU honor ceremony and certificate of completion. { .large }
+
+<ul class="stats no-bullets">
+<li><span>232</span> Total number of students who participated in We CU.</li>
+<li><span>4,504</span> Total number of service hours performed during the 10-week summer pilot program.</li>
+</ul>
+</div>
 
 ## Pilot Program Focused on Pandemic 
 
@@ -50,6 +61,3 @@ Stone says the group plans to continue to host service challenges, similar to th
 
 “We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s broader systemic racism” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”
 
-## Community engagement is more important than ever, as organizations across our community are facing unprecedented challenges resulting from the COVID-19 pandemic.
-
-The We CU 10-week summer scholars program empowered students to respond to these challenges. Scholars were matched with community-based projects that could be completed remotely. Participating students could also apply for mini grants to offset costs associated with service activities. Students who completed at least 40  hours of service during the 10-week summer program were recognized with a We CU honor ceremony and certificate of completion. { .large }

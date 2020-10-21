@@ -2,6 +2,14 @@ body.nofade .splash .full {
     background: none;
 }
 
+body.centered .splash .full {
+    padding: 0 30vw;
+}
+
+body.top-background .splash {
+    background-position: top;
+}
+
 .splash {
     display: flex;
     color: white;
@@ -27,16 +35,16 @@ body.nofade .splash .full {
 
         .stats {
             display: grid;
-            grid-template-columns: repeat(auto-fit, 350px);
+            grid-template-columns: repeat(auto-fit, 400px);
             text-align: center;
             justify-content: space-evenly;
 
             li {
                 padding: 1vw;
-                font-size: 1em;
+                font-size: 1.5em;
 
                 span {
-                    font-size: 4em;
+                    font-size: 5em;
                     font-weight: bold;
                     display: block;
                 }
@@ -99,6 +107,11 @@ body.nofade .splash .full {
             width: initial;
         }
     }
+
+    body.centered .splash .full {
+        padding: initial;
+    }
+   
 }
 
 @media only screen and (max-width: 500px ) {

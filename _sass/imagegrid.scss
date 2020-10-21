@@ -10,6 +10,11 @@ ul.imagegrid {
         grid-template-columns: repeat(auto-fit,450px);
     }
 
+    &.extrawide {
+        grid-template-columns: repeat(auto-fit,600px);
+        grid-gap: 50px;
+    }
+
     img {
         max-width: 80%;
         width: 80%;

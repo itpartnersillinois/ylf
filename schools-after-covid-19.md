@@ -1,6 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: Schools After COVID-19&#58; Seven Steps Towards a Learning Revolution 
+menu: -orange
 previousLink: /a-brave-new-world
 nextLink: /covid-19
 bodyClass: blue

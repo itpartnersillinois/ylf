@@ -7,9 +7,10 @@ stats:
   - number8 Best Online Graduate Programs in the nation (2020 U.S. News & World Report)
 tagline: Backed by our reputation as one of the top-ranked public universities in the world, our online and Chicago-area programs offer an affordable, flexible, and valuable investment for busy professionals.
 bodyClass: blue
+menu: -orange
 titleStart: 0
 titleEnd: 7
-previousLink: /graduate-education
+previousLink: /ananya-tiwari
 nextLink: /erin-l-gahimer
 ---
 

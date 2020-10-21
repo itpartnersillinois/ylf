@@ -22,7 +22,17 @@
         background-color: $blue_base;
         color: white;
         border-bottom: thin solid $blue_base;
-        padding: 5px 20px;
+        padding: 10px 20px;
+        margin: 2em 0;
+    }
+
+    p {
+        line-height: 1.8em;
+    }
+
+    li {
+        line-height: 1.8em;
+        margin-bottom: .4em;
     }
 
     .stats {
@@ -30,10 +40,12 @@
         grid-template-columns: repeat(auto-fit, 350px);
         text-align: center;
         justify-content: space-evenly;
+        padding-left: 0;
 
         li {
             padding: 1vw;
             font-size: 1em;
+            line-height: initial;
 
             span {
                 font-size: 4em;

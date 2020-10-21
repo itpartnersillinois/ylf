@@ -2,12 +2,13 @@
     .quote-wrapper {
         background-color: $blue_base;
         color: $cloud_base;
+        margin-top: 75px;
 
         .quote {
             padding: 20px 50px;
             font-size: 2em;
             font-weight: bold;
-            max-width: 800px;
+            max-width: 1200px;
             margin: auto;
             font-family: serif;
             line-height: 1.5em;
@@ -27,7 +28,7 @@
 
         .quote:before {
             display: inline;
-            content: "\201C";
+            content: "“";
             font-size: 80px;
             color: $orange_base;
         }
@@ -42,6 +43,11 @@
         .information {
             flex: 2;
 
+            h2 {
+                font-size: 2em;
+                color: $blue_base;
+            }
+    
             img {
                 width: 100%;
             }

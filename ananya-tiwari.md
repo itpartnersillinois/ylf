@@ -3,8 +3,8 @@ layout: student.liquid
 pageTitle: Ananya Tiwari
 backgroundImage: ananya-tiwari.png
 location: topleft
-previousLink: /trey-harris
-nextLink: /graduate-education
+previousLink: /graduate-education
+nextLink: /online-programs
 ---
 
 ## Ph.D. candidate, Educational Psychology

@@ -4,7 +4,7 @@ pageTitle: Trey Harris
 backgroundImage: trey-harris.png
 location: bottomleft
 previousLink: /undergraduate-education
-nextLink: /ananya-tiwari
+nextLink: /graduate-education
 ---
 
 ## Middle Grades Education major

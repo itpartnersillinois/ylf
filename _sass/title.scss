@@ -15,20 +15,20 @@ main.title {
     background: $cloud_base;
     p {
         text-align: center;
-        font-size: 4em;
-        border-top: 7px solid $orange_base;
-        border-bottom: 7px solid $orange_base;
+        font-size: 3.5em;
+        border-top: 3px solid $orange_base;
+        border-bottom: 3px solid $orange_base;
     }
     ul {
         text-align: left;
         list-style: none;
-        font-size: 1.8em;
+        font-size: 1.3em;
         li {
             margin-bottom: 20px;
         }
         a {
             text-decoration: none;
-            font-weight: bold;
+            font-weight: normal;
             color: $orange_base;
         }
         a:hover, a:focus {
