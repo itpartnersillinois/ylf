@@ -1,14 +1,14 @@
 ---
 layout: article.liquid
 pageTitle: We CU&#58; Empowering Students, Strengthening Community
+byline: by Ashley Lawrence
 previousLink: /education-justice-project
 nextLink: /10-ways
 
 ---
 ![Julia Poel](/img/julia-poel.png){ .top-left } We CU is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
 
-Julia Poel, sophomore in Elementary Education, worked with the Serve Illinois Commission on a project called Letters Against Isolation. The project involved writing
-and sending letters to self-isolating seniors in nursing homes and care centers in the community, with the goal brightening their day and mitigating feelings of loneliness and depression during the COVID-19 health crisis’ restrictions on visitors. 
+Julia Poel, sophomore in Elementary Education, worked with the Serve Illinois Commission on a project called Letters Against Isolation. The project involved writing and sending letters to self-isolating seniors in nursing homes and care centers in the community, with the goal of brightening their day and mitigating feelings of loneliness and depression during the COVID-19 health crisis’ restrictions on visitors.
 
 She describes the project as a fulfilling experience. “It is rewarding to know that my work on these letters will help someone else have a good day during this time of isolation,” Julia says. “By combatting loneliness, I am helping my community care for our seniors’ mental and physical health.”
 
@@ -53,11 +53,10 @@ Students who completed at least 40 hours of service during the 10-week pilot pro
 
 ## Future Directions
 
-Consistent evaluation and revision of the program is essential to its future success, says Christopher Napolitano, Educational Psychology faculty member and part of a research team assessing We CU. With the success of the 10-week pilot program, there is plenty of participation data to measure impact and help shape an improved  future experience. Madison Sewell, doctoral student in EPSY’s Developmental Sciences and part of the research team, is currently analyzing data from the pilot  program to provide insights for publications and program adjustments. 
+Consistent evaluation and revision of the program is essential to its future success, says Christopher Napolitano, Educational Psychology faculty member and part of a research team assessing We CU. With the success of the 10-week pilot program, there is plenty of participation data to measure impact and help shape an improved future experience. Madison Sewell, doctoral student in EPSY’s Developmental Sciences and part of the research team, is currently analyzing data from the pilot program to provide insights for publications and program adjustments.
 
-Additionally, Stone, along with the Chancellor’s Office, is working to leverage the summer pilot program’s success to secure additional funding to support a full  four-year We CU Community Engaged Scholars framework for all incoming students.  The full program will honor students at graduation who have completed 300-400 hours of service during their academic career.
+Additionally, Stone, along with the Chancellor’s Office, is working to leverage the summer pilot program’s success to secure additional funding to support a full four-year We CU Community Engaged Scholars framework for all incoming students. The full program will honor students at  graduation who have completed 300-400 hours of service during their academic career.
 
-Stone says the group plans to continue to host service challenges, similar to the 10-week focus on COVID-19 projects, providing more chances for students to make a difference in the community. 
+Stone says the group plans to continue to host service challenges, similar to the 10-week focus on COVID-19 projects, providing more chances for students to make a difference in the community.
 
-“We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s broader systemic racism” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”
-
+“We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s  broader systemic racism,” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”

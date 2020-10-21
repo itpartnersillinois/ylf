@@ -1,6 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: Education Justice Project (EJP) Creates Guide For People Released from Incarceration During COVID-19
+byline: by Lee Gaines, Illinois Newsroom
 previousLink: /outreach-and-impact
 nextLink: /we-cu
 

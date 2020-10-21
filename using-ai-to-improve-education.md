@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: Using AI to improve education, impact society 
-previousLink: /inside-the-psychology-of-radical-heading-collective
+previousLink: /inside-the-psychology-of-radical-healing-collective
 nextLink: /research-and-recognitions
 menu: -orange
 bodyClass: blue

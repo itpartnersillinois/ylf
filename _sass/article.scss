@@ -16,6 +16,8 @@
         font-family: "Fjalla One", sans-serif;
         font-size: 4em;
         font-weight: normal;
+        margin-bottom: 0;
+        padding-bottom: 0;
     }
 
     h2 {
@@ -24,6 +26,12 @@
 
     p {
         line-height: 1.8em;
+    }
+
+    p.byline {
+        padding-top: 0;
+        margin-top: 0;
+        padding-bottom: 1.5em;
     }
 
     li {

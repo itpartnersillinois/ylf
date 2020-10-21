@@ -1,8 +1,9 @@
 ---
 layout: article.liquid
 pageTitle: Addressing Anti-Black Racism and the Rise of Global Protests&#58; Is It Different This Time?
+byline: by Ashley Lawrence
 previousLink: /fighting-for-social-justice
-nextLink: /inside-the-psychology-of-radical-heading-collective
+nextLink: /inside-the-psychology-of-radical-healing-collective
 
 ---
 ![Top Row: James Anderson, Christopher Span, Rochelle Gutiérrez. Bottom Row: Adrienne Dixson, Rodney Hopson, William Trent](/img/addressing-anti-black-racism.png) { .full } 
