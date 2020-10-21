@@ -22,3 +22,5 @@ A **Pledge** is a promise to pay a specified amount over a set period. For examp
 **Estate Gifts**. These gifts are popular as they ensure you have the resources you need during your lifetime and then afterwards provides a meaningful gift for the benefit of the College of Education.  These gifts can be setup through a will, living trust or a beneficiary designation.
 
 **Payroll Deduction**. Many donors choose to give to their charity of choice through a payroll deduction. A charitable payroll deduction allows a donor to “spread” their gift out over the course of several years.
+
+[Give Now](https://education.illinois.edu/home/make-a-gift){ .button }

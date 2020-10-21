@@ -51,6 +51,10 @@
             img {
                 width: 100%;
             }
+
+            div {
+                line-height: 1.5em;
+            }
         }
 
         .investment {
@@ -74,6 +78,11 @@
 
             strong {
                 color: $blue_base;
+            }
+
+            p {
+                line-height: 1.5em;
+                padding-bottom: 1em;
             }
         }
 
