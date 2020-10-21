@@ -3,10 +3,20 @@ layout: article.liquid
 pageTitle: Priorities & Milestones
 titleStart: 0
 titleEnd: 11
+menu: -orange
 previousLink: /world-class-programs
 nextLink: /a-brave-new-world
 bodyClass: blue
 ---
+
+<ul class="stats no-bullets">
+<li><span>$44M</span> Active grant funding</li>
+<li><span>84</span> Active grants</li>
+<li><span>32</span> National Science Foundation grants</li>
+<li><span>11</span> State of Illinois Agency grants</li>
+<li><span>17</span> U.S. Department of Education grants </li>
+<li><span>14</span> Major foundation grants</li>
+</ul>
 
 ## Curriculum & Instruction (C&I)
 

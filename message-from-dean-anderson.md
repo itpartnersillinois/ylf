@@ -24,5 +24,3 @@ Yours in Orange & Blue
 **James D. Anderson**
 Dean, College of Education
 and Edward William and Jane Marr Gutsgell Professor of Education
-
-<style> .article p { line-height: 1.5em; } </style>

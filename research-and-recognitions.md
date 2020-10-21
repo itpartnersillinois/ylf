@@ -7,7 +7,7 @@ nextLink: /2019-20-faculty
 ---
 ## Studying the Challenges of Immigrant and Refugee Students {.clear}
 
-![Dr. Liv Thorstensson Davila](/img/faculty/liv-thorstensson-davila.png){ .top-right }Dr. Liv Thorstensson Davila uncovers the challenges immigrants face and the factors that can lead to a successful transition to their new country.{ .large }
+![Dr. Liv Thorstensson Davila](/img/faculty/liv-thorstensson-davila.png){ .top-left }Dr. Liv Thorstensson Davila uncovers the challenges immigrants face and the factors that can lead to a successful transition to their new country.{ .large }
 
 “What kids all over the world right now are experiencing because of COVID-19—like not being able to go to school, or being home with parents who can’t help them with remote learning—these are the kinds of things that most of the kids in my research have always faced,” Davila says. She argues that COVID-19 presents unique new challenges, however, including social isolation, concerns around access to health care, and parental job insecurity. 
 

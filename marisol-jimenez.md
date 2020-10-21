@@ -4,7 +4,7 @@ pageTitle: Marisol Jimenez
 backgroundImage: marisol-jimenez.png
 location: bottomright
 previousLink: /donor-and-alumni-impact
-nextLink: /ashley-souk
+nextLink: /with-illinois
 ---
 
 ## Ed.D., Global Studies

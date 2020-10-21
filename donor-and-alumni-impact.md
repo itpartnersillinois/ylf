@@ -24,9 +24,10 @@ The inner-city school she taught at was predominantly Hispanic and Black. I want
 The Jennifer Jones Alexander Scholarship was first awarded in 2018. Jarvis, who is a principal risk specialist for FINRA, a financial self-regulatory organization authorized by Congress, has had the pleasure of meeting the first two students who received the scholarship. “They give me hope for the future,” he says. “They are some of the smartest and most focused students I’ve met, and they were so thankful for the scholarship.”
 
 ### Alexis Luz Martinez, Jennifer Jones Alexander Scholarship Recipient
+
 ![Jennifer Jones Alexander and Jarvis Alexander](/img/alexis-luz-martinez.png){ .top-left } Alexis is a sophomore majoring in History and minoring in Secondary Education, Political Science, and Spanish. In high school, Alexis volunteered as a Religious Education Teacher as well as at The Field Museum. She loves seeing the smile on a child’s face when they learn something new and helping them discover the world around them. Upon graduation, her goal is to teach American History at the high school level. She hopes to empower students to believe in themselves and help them connect with their own love of learning.
 
-## Investing in Education Scholars { .clear }
+## Investing in Education Scholars { .clear .main-heading }
 
 ![John and Judy Hathaway](/img/john-judy-hathaway.png){ .top-left } For John and Judy Hathaway, the decision to set up a scholarship through the College of Education was an easy one.
 
@@ -37,7 +38,7 @@ The **Marian Van Gerpen Hathaway Scholarship** goes to one Education student per
 ### Morgan Gill, Marian Van Gerpen Hathaway Scholarship Recipient
 ![Morgan Gill](/img/morgan-gill.png){ .top-left } Morgan has been a resident of Illinois her whole life and attending the University of Illinois has always been a dream of hers. She is a sophomore majoring in Special Education. In addition to her coursework, she is involved in Greek life and plans to volunteer with special needs children at a local gymnastics company. “Thank you for creating a lasting impact on college students like me through your financial support. It means so much to attend the College of Education at the University of Illinois.”
 
-## Paving the Way to Education at Illinois { .clear }
+## Paving the Way to Education at Illinois { .clear .main-heading }
 
 ![James Gallaher and Eboni Zamani-Gallaher](/img/gallaher.png){ .top-left } **James Gallaher** and **Eboni Zamani-Gallaher** well know the value of a community college education. James, executive director of strategic initiatives, Illinois Human Resources, and a clinical assistant professor in the College of Education at the University of Illinois Urbana-Champaign, went through the Community College of the Air Force while serving in the military; Eboni, a professor in the College’s Education Policy, Organization & Leadership department, is director of the Office of Community College Research and Leadership and executive director of the Council for the Study of Community Colleges.
 
@@ -47,7 +48,7 @@ The Gallahers created an endowed scholarship specifically for community college 
 
 “It struck me that somebody who wasn’t a gazillionaire could still make room in their finances that helped me out while I was in school,” James says. “So, I thought we could do the same. Our scholarship is a way to give back to students who are coming into the College of Education.”
 
-## Keeping a Long-Held Promise { .clear }
+## Keeping a Long-Held Promise { .clear .main-heading }
 ![Pam Hove](/img/hove.png){ .top-left } Pam Hove (MS, Human Resource Development, 2008) made a vow long ago that she has fulfilled with the help of the University of Illinois Foundation. { .large } 
 
 Pam Hove is a woman of her word. Her parents paid for her college education, and told her when she had children, she could do the same. She never had children, but still wanted to meet that commitment. Enter Lissa May Mudrick, who at the time (2010) was senior director of development for the University of Illinois Foundation. Lissa met with Pam in Grand Rapids, Michigan where Pam works and lives.
@@ -62,15 +63,23 @@ Thus, the Thelma (Jamie) and Orin Hove Scholarship was born, named in honor of P
 
 ![William Chandler Bagley](/img/bagley.png){ .top-left } In 1988, the College of Education established the merit-based **William Chandler Bagley Scholars Program** to support students who demonstrate intellectual excellence and are committed to providing learning opportunities for an increasingly diverse student population. Sponsoring a Bagley Scholar requires a minimum gift of $1,000. William Chandler Bagley (1874–1946) came to the University of Illinois at Urbana-Champaign in 1908 as a professor of Education and became director of the School of Education in 1909. In his nine years at Illinois, he developed the School of Education into one of the leading institutions of its kind.
 
-### Jennifer Rodriguez-Gomez, Elementary Education major { .clear }
+{ .clear }
 
-![Jennifer Rodriguez-Gomez](/img/gomez.png){ .top-left } Jennifer plans on obtaining Bilingual and ESL endorsements. Her experiences in college, summer institutes with Golden Apple Scholars, co-teaching, and being a research assistant taught her that there are many skilled teachers who not only can teach a subject, but are able to take into context a student’s background and culture. She is thankful for the William Chandler Bagley Scholarship donors’ dedication to helping students accomplish their goals.
+![Jennifer Rodriguez-Gomez](/img/gomez.png){ .top-left } 
+
+### Jennifer Rodriguez-Gomez, Elementary Education major 
+
+Jennifer plans on obtaining Bilingual and ESL endorsements. Her experiences in college, summer institutes with Golden Apple Scholars, co-teaching, and being a research assistant taught her that there are many skilled teachers who not only can teach a subject, but are able to take into context a student’s background and culture. She is thankful for the William Chandler Bagley Scholarship donors’ dedication to helping students accomplish their goals.
 
 I am beyond thankful for the William Chandler Bagley Scholarship. Because of your generous support, I am the first in my family to attend college. Thank you for enabling me to reach my fullest professional potential. { .blockquote  .nolines }
 
-### Krystal E. Andrews, Doctoral Student, Education Policy, Organization & Leadership { .clear }
+{ .clear }
 
-![Krystal E. Andrews](/img/andrews.png){ .top-left } Krystal is a third-year doctoral student and is a research assistant in the Office of Community College Research and Leadership. Her research interests include Black women college student experiences at HBCUs and women in executive leadership positions. A native of Newport News, Virginia, Krystal is a two-time graduate of Old Dominion University. As a current student, she serves as the secretary for the Higher Education Student Association and as a mentor with the Illinois Promise scholar program.
+![Krystal E. Andrews](/img/andrews.png){ .top-left  } 
+
+### Krystal E. Andrews, Doctoral Student, Education Policy, Organization & Leadership
+
+Krystal is a third-year doctoral student and is a research assistant in the Office of Community College Research and Leadership. Her research interests include Black women college student experiences at HBCUs and women in executive leadership positions. A native of Newport News, Virginia, Krystal is a two-time graduate of Old Dominion University. As a current student, she serves as the secretary for the Higher Education Student Association and as a mentor with the Illinois Promise scholar program.
 
 Thank you for your financial support. The William Chandler Bagley Scholarship assists me in furthering my research interests and public scholarship at Illinois. { .blockquote .nolines }
 

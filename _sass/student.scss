@@ -15,49 +15,44 @@ body.student {
     margin: auto;
 
     .box {
-        background: rgba(19,41,75,.8);
+        background: rgba(19, 41, 75, 0.8);
         color: white;
         position: absolute;
         padding: 15px;
-        width: 50%;
-        max-width: 400px;
-
-        &.bottomleft {
-            top: 100vh;
-        }
-
-        &.bottomright {
-            top: 100vh;
-            left: 50%;
-            max-width: 300px;
-        }
-
-        &.topleft {
-            top: 72px;
-        }
+        left: 72%;
+        width: 25%;
+        top: 8vh;
 
         h1 {
-            font-family: 'Fjalla One';
+            font-family: "Fjalla One";
             color: $orange_base;
             margin-bottom: 0;
             padding-bottom: 0;
         }
 
         h2 {
-            font-size: .7em;
+            font-size: 1.3em;
             font-weight: bold;
             color: $orange_base;
             margin-top: 0;
         }
 
         p {
-            font-size: .7em;
+            font-size: 1.3em;
         }
 
         p.blockquote-small {
-            font-size: .9em;
             font-weight: bold;
         }
     }
 }
 
+@media only screen and (max-width: 800px) {
+    .student {
+        .box {
+            width: auto;
+            left: 0;
+            top: 80vh;
+        }
+    }
+}

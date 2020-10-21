@@ -8,7 +8,7 @@ pagination:
     size: 100
     alias: new-faculty
 previousLink: /2020-growth
-nextLink: /world-class-programs
+nextLink: /when-challenge-calls
 ---
 
 {{ college-leadership | transformGridWithImages }}

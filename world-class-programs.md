@@ -1,20 +1,14 @@
 ---
-layout: splash.liquid
-pageTitle: When Challenge Calls - Great Minds Answer
-backgroundImage: world-class-programs.png
-stats: 
-  - $47M Active grant funding
-  - 84 Active grants
-  - 32 National Science Foundation grants
-  - 11 State of Illinois Agency grants
-  - 17 U.S. Department of Education grants 
-  - 14 Major foundation grants
-previousLink: /college-leadership
+layout: splash-full.liquid
+pageTitle: World-Class Programs
+backgroundImage: 2020-growth.png
+bodyClass: nofade centered
+previousLink: /when-challenge-calls
 nextLink: /priorities-milestones
 
 ---
-## WORLD-CLASS PROGRAMS
-### *2021 U.S. News & World Report* rankings for our departments and programs.
+
+## *2021 U.S. News & World Report* rankings for our departments and programs.
 * #9 Special Education
 * #10 Curriculum & Instruction
 * #13 Educational Psychology
@@ -25,7 +19,7 @@ nextLink: /priorities-milestones
 * #22 Education Policy
 { .no-bullets .large }
 
-### Curriculum & Instruction 
+## Curriculum & Instruction 
 * Curriculum, Aesthetics, & Teacher Education
 * Digital Environments for Learning, Teaching, & Agency
 * Early Childhood Education Plus Teaching Licensure
@@ -36,23 +30,20 @@ nextLink: /priorities-milestones
 * Secondary Education: Mathematics Plus Teaching Licensure
 * Secondary Education: Science Plus Teaching Licensure
 * Secondary Education: Social Studies Plus Teaching Licensure
-{ .small }
 
-### Educational Psychology 
+## Educational Psychology 
 * Child Development
 * Cognitive Science of Teaching & Learning
 * Counseling Psychology
 * Quantitative Methodology, Measurement & Evaluation
-{ .small }
 
-### Special Education 
+## Special Education 
 * Special Education
 * Infancy & Early Childhood Special Education
 * Learning Behavior Specialist I
 * Learning & Behavior Specialist II in Multiple Disabilities
-{ .small }
 
-### Education Policy, Organization & Leadership 
+## Education Policy, Organization & Leadership 
 * Diversity & Equity in Education
 * Educational Administration & Leadership/Principal Preparation
 * Global Studies in Education
@@ -65,4 +56,3 @@ nextLink: /priorities-milestones
 * School Executive Leadership | Superintendent Endorsement
 * Social Sciences & Education Policy
 * Teacher Leader Specialization
-{ .small }

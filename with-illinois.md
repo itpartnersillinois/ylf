@@ -7,7 +7,7 @@ tagline: Our final push during the With Illinois campaign is to raise 60 new und
 stats: 
   - 38% In 2018-19, 38% of undergraduate students enrolled in the College of Education had unmet financial need totaling over $1,600,000.
   - 21% In 2018-19, there were 608 undergraduate and 499 graduate students enrolled in the College. Of those, 21% received scholarship support. With your help, we can increase the number of students who receive scholarship support in the College of Education.
-previousLink: /ashley-souk
+previousLink: /marisol-jimenez
 nextLink: /
 
 ---

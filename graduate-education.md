@@ -10,8 +10,8 @@ stats:
   - 16% International student populations
   - 29% Graduate students from underrepresented populations
 tagline: We offer Certificate of Advanced Study, Master of Education, Master of Science, Master of Arts, Doctorate of Education, and Doctorate of Philosophy degrees. Our graduate students exemplify leadership in educational research and practice across disciplines.
-previousLink: /ananya-tiwari
-nextLink: /online-programs
+previousLink: /trey-harris
+nextLink: /ananya-tiwari
 ---
 
 ## Our Programs
