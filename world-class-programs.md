@@ -1,7 +1,7 @@
 ---
 layout: splash-full.liquid
 pageTitle: World-Class Programs
-backgroundImage: 2020-growth.png
+backgroundImage: blue-vertical.png
 bodyClass: nofade centered
 previousLink: /when-challenge-calls
 nextLink: /priorities-milestones

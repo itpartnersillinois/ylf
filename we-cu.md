@@ -12,8 +12,6 @@ Julia Poel, sophomore in Elementary Education, worked with the Serve Illinois Co
 
 She describes the project as a fulfilling experience. “It is rewarding to know that my work on these letters will help someone else have a good day during this time of isolation,” Julia says. “By combatting loneliness, I am helping my community care for our seniors’ mental and physical health.”
 
-![Rainbow picture with text saying Things work out best for those who make the best of how things work out by John Wooden](/img/letters-against-isolation.png) { .full }
-
 We CU has been supported at the outset by the Office of the Chancellor, Center for Social and Behavioral Science (CSBS), Interdisciplinary Health Sciences Institute (IHSI), School of Social Work, Siebel Center for Design, and the College of Education. New campus sponsors include the Humanities Research Institute, College of Liberal Arts and Sciences, and the University of Illinois Alumni Association.
 
 The initiative was conceptualized in response to priorities identified during the university’s “The Next 150” strategic planning process— specifically, that public engagement become a formalized part of the Illinois student experience. The program’s goal is to develop Illinois students to be future leaders who grasp the unique commitments, traditions, and challenges of distinct communities by facilitating service learning and volunteering opportunities with campus and offcampus organizations.
@@ -60,3 +58,5 @@ Additionally, Stone, along with the Chancellor’s Office, is working to leverag
 Stone says the group plans to continue to host service challenges, similar to the 10-week focus on COVID-19 projects, providing more chances for students to make a difference in the community.
 
 “We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s  broader systemic racism,” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”
+
+![Rainbow picture with text saying Things work out best for those who make the best of how things work out by John Wooden](/img/letters-against-isolation.png) { .full }

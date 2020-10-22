@@ -66,3 +66,12 @@ a:hover, a:focus {
     color: $blue_base;
     transition: .5s;
 }
+
+.lines {
+    border-top: thin solid $blue_base;
+    border-bottom: thin solid $blue_base;
+    padding-top: 10px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
