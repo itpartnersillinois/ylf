@@ -7,6 +7,8 @@ menu: -orange
 bodyClass: blue
 
 ---
+![Left to Right: Michael Tissenbaum, Denice Hood, Raya Hegeman-Davis](/img/using-ai.png) { .full } 
+
 ## The College of Education is taking part in multiple new artificial intelligence institutes to explore how AI can impact education and society.
 
 The College of Education is involved in two of the seven new national artificial intelligence institutes, which are being funded by the National Science Foundation and the U.S. Department of Agriculture’s National Institute of Food and Agriculture.
@@ -15,7 +17,11 @@ Two of those seven AI institutes are led from the University of Illinois Urbana-
 
 “It reflects the strength of the University of Illinois,” says Gabrielle Allen, associate dean for research and research education in the College of  Education. “The fact that we are leading two institutes shows the faith the NSF has in the university to be able to carry out not just the research and the  science, but in our ability to bring the institutional support to execute these large and complex projects.”
 
-{{ ai | transformGridWithImagesSimple }}
+**Michael Tissenbaum**, assistant professor in Curriculum & Instruction, is part of the AI Institute for Student-AI Teaming, centered at the University of Colorado Boulder, which will explore the role that artificial intelligence can play in the future of education.
+
+**Denice Hood**, teaching associate professor in Education Policy, Organization & Leadership is involved in AIFARMS. As program evaluator, I am affiliated with the Center for Culturally Responsive Evaluation & Assessment (CREA) at the College of Education. This project is an excellent opportunity to support the AI institute team in determining the how the goals are accomplished and to provide technical support related to evaluation.
+
+**Raya Hegeman-Davis**, also with with AIFARMS will recruit high school teachers to go through the College’s Computer Science Teacher Endorsement Program and then create a support and collaboration network for those newly-endorsed teachers.
 
 “One of the really exciting things about this funding is it is allowing us to expand the work we are already doing with I-STECS,” Hegeman-Davis says.  (I-STECS is the Illinois Secondary Teacher Education and Computer Science initiative established to certify high school computer science teachers.)
 

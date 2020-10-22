@@ -37,19 +37,24 @@ Still, some negatives for teachers and learners have arisen from the pandemic, a
 
 One of those inequities surrounds equal access to technology. “Not all students have access to online learning,” says **Lisa Monda-Amaya**, associate dean for undergraduate programs. “There’s a concern about how teachers are going to be able to reach those students. There’s also a concern about students with disabilities, how they’re going to be able to access content. Another significant concern has to do with how students with severe disabilities are gaining access to appropriate services.” Remote learning, says Span, “has become the great exacerbator of the inequalities we have in society.” He mentions a school district in Chicago that had to have 100,000 devices distributed to students. “There are 400,000 kids in Chicago Public Schools, and that tells me that at least 25 percent require some kind of device to aid and assist them in their learning in the wake of COVID-19.” And he points out that even if you have a device, “that doesn’t necessarily mean you have the other kinds of things that need to go with it—the connectivity to engage in remote learning, a structure to understand what it means, some type of facilitation between the teacher and the school district to enhance that learning.”
 
-<div class="aside">
-<h2>Rapid Response to COVID-19</h2>
+<div class="lines">
+<div style="display: flex;">
+<img src="/img/learn-away-computer.png" alt="Cartoon of Learnaway Computer" style="width: 25%;">
+<div>
+<h2 style="font-size: 2em; margin-top: 10px;">Rapid Response to COVID-19</h2>
 <ul><li>March 17, 2020: Council on Teacher Education and the College of Education discuss the need for a website in immediate response to the COVID-19 crisis to assist educators with remote teaching and learning.</li>
 <li>March 31, 2020: LearnAway website launches with 450 resources, curriculum ideas, and tips for online teaching and learning.</li>
 <li>April 2020: 10Talk expert videos launch on YouTube.</li>
 <li>June 2020: LearnAway weekly newsletter is distributed.</li>
 </ul>
-
-<p>As of September 2020, LearnAway has produced:</p>
-<ul><li>1746 Curriculum Resources</li>
-<li>583 Educator Resources</li>
-<li>19 10Talk Videos</li>
-<li>13 LearnAway Newsletters</li>
+</div>
+</div>
+<p style="font-size: 2em; font-weight: bold;">As of September 2020, LearnAway has produced:</p>
+<ul class="stats no-bullets" style="grid-template-columns: repeat(auto-fit,340px);">
+<li><span>1746</span> Curriculum Resources</li>
+<li><span>583</span> Educator Resources</li>
+<li><span>19</span> 10Talk Videos</li>
+<li><span>13</span> LearnAway Newsletters</li>
 </ul>
 </div>
 
