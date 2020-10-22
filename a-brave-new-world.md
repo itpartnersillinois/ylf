@@ -49,7 +49,7 @@ One of those inequities surrounds equal access to technology. “Not all student
 </ul>
 </div>
 </div>
-<p style="font-size: 2em; font-weight: bold;">As of September 2020, LearnAway has produced:</p>
+<h2 style="font-size: 2em;">As of September 2020, LearnAway has produced:</h2>
 <ul class="stats no-bullets" style="grid-template-columns: repeat(auto-fit,340px);">
 <li><span>1746</span> Curriculum Resources</li>
 <li><span>583</span> Educator Resources</li>
