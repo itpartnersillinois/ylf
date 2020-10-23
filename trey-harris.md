@@ -2,7 +2,8 @@
 layout: student.liquid
 pageTitle: Trey Harris
 backgroundImage: trey-harris.png
-location: bottomleft
+backgroundPosition: right top
+location: topleft
 previousLink: /undergraduate-education
 nextLink: /graduate-education
 ---

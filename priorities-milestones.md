@@ -9,6 +9,10 @@ nextLink: /a-brave-new-world
 bodyClass: blue
 ---
 
+## 2019-20 RESEARCH FUNDING & GRANTS { .xx-large }
+
+This represents all funds awarded from sponsored activity and grants from July 1, 2019 – June 30, 2020.
+
 <ul class="stats no-bullets">
 <li><span>$44M</span> Active grant funding</li>
 <li><span>84</span> Active grants</li>

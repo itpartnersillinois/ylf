@@ -7,6 +7,11 @@ body.centered .splash .full {
     font-size: 2em;
 }
 
+body.narrow .splash .full .stats {
+    max-width: 800px;
+    margin: auto;
+}
+
 body.top-background .splash {
     background-position: top;
 }
@@ -30,7 +35,7 @@ body.top-background .splash {
         }
 
         .intro-text {
-            font-size: 3em;
+            font-size: 5vw;
             font-family: 'Fjalla One', sans-serif;
         }
 

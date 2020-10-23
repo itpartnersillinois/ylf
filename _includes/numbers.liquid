@@ -8,13 +8,13 @@
         <main class="numbers">
         <h1>{{ pageTitle | transformTitle: titleStart, titleEnd }} </h1>
         <p class="tagline">{{ tagline }} </p>
-        {{ content }}
         <h2>2019 By The Numbers</h2>
         <ul class="stats no-bullets">
         {% for stat in stats %}
             <li>{{ stat | transformStat }}</li>
         {% endfor %}
         </ul>
+        {{ content }}
         </main>
     </body>
 </html>

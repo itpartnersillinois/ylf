@@ -4,7 +4,7 @@
         color: $cloud_base;
         margin-top: 75px;
 
-        .quote {
+        .blockquote {
             padding: 20px 50px;
             font-size: 2em;
             font-weight: bold;
@@ -24,13 +24,6 @@
             .byline:before {
                 content: "\2014 \2009";
             }
-        }
-
-        .quote:before {
-            display: inline;
-            content: "“";
-            font-size: 80px;
-            color: $orange_base;
         }
     }
 

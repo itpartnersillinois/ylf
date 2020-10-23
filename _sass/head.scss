@@ -22,7 +22,14 @@ ul.no-bullets {
 }
 
 .main-heading {
-    padding-top: 2em;
+    padding-top: 1em;
+    margin-top: 1em;
+    border-top: 2px solid $orange_base;
+}
+
+
+.xx-large {
+    font-size: 2.5em;
 }
 
 .x-large {
@@ -74,4 +81,10 @@ a:hover, a:focus {
     margin-top: 2em;
     padding-bottom: 1em;
     margin-bottom: 2em;
+}
+
+.caption {
+    font-size: .8em;
+    font-style: italic;
+    text-align: right;
 }
