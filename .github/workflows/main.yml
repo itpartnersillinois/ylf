@@ -16,4 +16,4 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: us-east-2
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync ./_site/ s3://impactreport.education.illinois.edu/content --delete
+      run: aws s3 sync ./_site/ s3://impactreport.education.illinois.edu/content --delete --acl bucket-owner-full-control
