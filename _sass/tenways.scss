@@ -1,18 +1,18 @@
 .tenways {
     text-decoration: none;
     font-style: normal;
-    font-size: 2em;
-    font-weight: bold;
-    padding: 10px 20px;
-    color: white;
-    background: $orange_base;
-    text-align: center;
+    font-size: 1.8em;
+    font-weight: 700;
+    line-height: 1.6em;
+    padding: 5px;
+    background: #FF552E;
     border-radius: 50%;
     float: left;
+    height: 50px;
+    width: 50px;
     margin-right: 20px;
-    margin-bottom: 10px;
-    margin-top: -10px;
-    min-width: 30px;
+    color: white;
+    text-align: center;
 }
 
 .tenways-body .article p {

@@ -4,7 +4,7 @@ pageTitle: Undergraduate Education
 titleStart: 0
 titleEnd: 13
 stats: 
-  - 589 enrolled in the College
+  - 589 Undergraduate students enrolled in the College
   - 134 Education bachelor’s degrees awarded
   - 59 Secondary education minors awarded
   - 27% Undergraduate students from underrepresented populations

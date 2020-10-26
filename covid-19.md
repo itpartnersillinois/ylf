@@ -16,7 +16,8 @@ The hope, Allen adds, is that these activities will turn into full-blown project
 
 Allen, who also oversees the Bureau of Education Research (BER), points to the importance of the BER in driving and supporting transformative research—not just in the College of Education, but across campus.
 
-“If we want to see real societal impact, then we absolutely need to be doing more interdisciplinary research around clusters of activities, so we can look at the grand challenges of education.” — Gabrielle Allen, the College’s associate dean for research and research education {.blockquote}
+**“If we want to see real societal impact, then we absolutely need to be doing more interdisciplinary research around clusters of activities, so we can look at the grand challenges of education.”**
+— Gabrielle Allen, the College’s associate dean for research and research education {.blockquote}
 
 ## COVID-19 Seed-Funded Research Projects:
 

@@ -2,6 +2,7 @@
 layout: student.liquid
 pageTitle: Ananya Tiwari
 backgroundImage: ananya-tiwari.png
+backgroundPosition: center top
 location: topleft
 previousLink: /graduate-education
 nextLink: /online-programs

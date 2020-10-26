@@ -35,14 +35,14 @@ The Jennifer Jones Alexander Scholarship was first awarded in 2018. Jarvis, who 
 
 The **Marian Van Gerpen Hathaway Scholarship** goes to one Education student per academic year. “Education remains a core ingredient for a more peaceful and equitable society, and for more meaningful and prosperous lives,” he adds. “I’m sure we were helped here and there by people as we went along, so if we can give  back, particularly with students at the University of Illinois, and help them continue toward their goals, that’s great.”
 
-### Morgan Gill, Marian Van Gerpen Hathaway Scholarship Recipient
+### Morgan Gill, Marian Van Gerpen Hathaway Scholarship Recipient { .clear }
 ![Morgan Gill](/img/morgan-gill.png){ .top-left } Morgan has been a resident of Illinois her whole life and attending the University of Illinois has always been a dream of hers. She is a sophomore majoring in Special Education. In addition to her coursework, she is involved in Greek life and plans to volunteer with special needs children at a local gymnastics company. “Thank you for creating a lasting impact on college students like me through your financial support. It means so much to attend the College of Education at the University of Illinois.”
 
 ## Paving the Way to Education at Illinois { .clear .main-heading }
 
 ![James Gallaher and Eboni Zamani-Gallaher](/img/gallaher.png){ .top-left } **James Gallaher** and **Eboni Zamani-Gallaher** well know the value of a community college education. James, executive director of strategic initiatives, Illinois Human Resources, and a clinical assistant professor in the College of Education at the University of Illinois Urbana-Champaign, went through the Community College of the Air Force while serving in the military; Eboni, a professor in the College’s Education Policy, Organization & Leadership department, is director of the Office of Community College Research and Leadership and executive director of the Council for the Study of Community Colleges.
 
-“We both value how community colleges can create a pipeline to further education and greater mobility,” Eboni says. “When I dug into looking at the number of  community college transfer students in the College, I knew we had to do something, given how few there were. Especially when there’s a need to have more diversity in our preservice teacher pool. Community colleges enroll a critical mass of first-generation students of color.”
+“We both value how community colleges can create a pipeline to further education and greater mobility,” Eboni says. “When I dug into looking at the number of community college transfer students in the College, I knew we had to do something, given how few there were. Especially when there’s a need to have more diversity in our preservice teacher pool. Community colleges enroll a critical mass of first-generation students of color.”
 
 The Gallahers created an endowed scholarship specifically for community college students transferring into the College of Education—the **Gallaher Transfer Gateways Scholarship**. They paid one-fourth of the total gift in a lump sum, with the rest made each year by monthly payroll deduction through 2024.
 
@@ -59,7 +59,7 @@ Lissa explained that you don’t need a lot of money to give, and helped Pam set
 
 Thus, the Thelma (Jamie) and Orin Hove Scholarship was born, named in honor of Pam’s parents, “because they gave me the love of learning,” she says. After Pam had the estate gift set up, she decided she wanted to give more, so she had the Foundation set up an annual “current use” gift, to be used at the College of Education’s discretion for a student in need. “I just leave it in the College’s capable hands,” she says. “They make it incredibly easy.”
 
-## An Affordable Way to Support Gifted Scholars { .clear }
+## An Affordable Way to Support Gifted Scholars { .clear .main-heading }
 
 ![William Chandler Bagley](/img/bagley.png){ .top-left } In 1988, the College of Education established the merit-based **William Chandler Bagley Scholars Program** to support students who demonstrate intellectual excellence and are committed to providing learning opportunities for an increasingly diverse student population. Sponsoring a Bagley Scholar requires a minimum gift of $1,000. William Chandler Bagley (1874–1946) came to the University of Illinois at Urbana-Champaign in 1908 as a professor of Education and became director of the School of Education in 1909. In his nine years at Illinois, he developed the School of Education into one of the leading institutions of its kind.
 
@@ -71,7 +71,7 @@ Thus, the Thelma (Jamie) and Orin Hove Scholarship was born, named in honor of P
 
 Jennifer plans on obtaining Bilingual and ESL endorsements. Her experiences in college, summer institutes with Golden Apple Scholars, co-teaching, and being a research assistant taught her that there are many skilled teachers who not only can teach a subject, but are able to take into context a student’s background and culture. She is thankful for the William Chandler Bagley Scholarship donors’ dedication to helping students accomplish their goals.
 
-I am beyond thankful for the William Chandler Bagley Scholarship. Because of your generous support, I am the first in my family to attend college. Thank you for enabling me to reach my fullest professional potential. { .blockquote  .nolines }
+**"I am beyond thankful for the William Chandler Bagley Scholarship. Because of your generous support, I am the first in my family to attend college. Thank you for enabling me to reach my fullest professional potential."** { .blockquote  .nolines }
 
 { .clear }
 
@@ -81,5 +81,5 @@ I am beyond thankful for the William Chandler Bagley Scholarship. Because of you
 
 Krystal is a third-year doctoral student and is a research assistant in the Office of Community College Research and Leadership. Her research interests include Black women college student experiences at HBCUs and women in executive leadership positions. A native of Newport News, Virginia, Krystal is a two-time graduate of Old Dominion University. As a current student, she serves as the secretary for the Higher Education Student Association and as a mentor with the Illinois Promise scholar program.
 
-Thank you for your financial support. The William Chandler Bagley Scholarship assists me in furthering my research interests and public scholarship at Illinois. { .blockquote .nolines }
+**"Thank you for your financial support. The William Chandler Bagley Scholarship assists me in furthering my research interests and public scholarship at Illinois."** { .blockquote .nolines }
 

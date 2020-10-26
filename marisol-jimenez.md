@@ -2,7 +2,8 @@
 layout: student.liquid
 pageTitle: Marisol Jimenez
 backgroundImage: marisol-jimenez.png
-location: bottomright
+backgroundPosition: center top
+location: bottomleft
 previousLink: /donor-and-alumni-impact
 nextLink: /with-illinois
 ---

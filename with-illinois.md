@@ -1,7 +1,7 @@
 ---
 layout: with-illinois.liquid
 pageTitle: With Illinois
-quote: A well-designed gift plan helps ensure each donor is maximizing the philanthropic impact of their gifts while also ensuring their financial needs are considered. The University of Illinois Foundation Office of Gift Planning and Trust Services’ primary mission is to support each university in working with donors and their advisors to align their philanthropic interests with their personal financial objectives. We seek to provide donors with critical information to help them in evaluating the many assets and giving alternatives that can be utilized to structure a charitable gift to support the College of Education.
+quote: "A well-designed gift plan helps ensure each donor is maximizing the philanthropic impact of their gifts while also ensuring their financial needs are considered. The University of Illinois Foundation Office of Gift Planning and Trust Services’ primary mission is to support each university in working with donors and their advisors to align their philanthropic interests with their personal financial objectives. We seek to provide donors with critical information to help them in evaluating the many assets and giving alternatives that can be utilized to structure a charitable gift to support the College of Education."
 quotebyline: Meg Cline, Vice President for Gift Planning and Trust Services, University of Illinois Foundation
 tagline: Our final push during the With Illinois campaign is to raise 60 new undergraduate scholarships and 4 new graduate fellowships in the next 24 months.
 stats: 

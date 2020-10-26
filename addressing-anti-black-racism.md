@@ -6,7 +6,7 @@ previousLink: /fighting-for-social-justice
 nextLink: /inside-the-psychology-of-radical-healing-collective
 
 ---
-![Top Row: James Anderson, Christopher Span, Rochelle Gutiérrez. Bottom Row: Adrienne Dixson, Rodney Hopson, William Trent](/img/addressing-anti-black-racism.png) { .full } 
+![Top Row: James Anderson, Christopher Span, Rochelle Gutiérrez. Bottom Row: Adrienne Dixson, Rodney Hopson, William Trent](/img/addressing-anti-black-racism.png) Top Row: James Anderson, Christopher Span, Rochelle Gutiérrez. Bottom Row: Adrienne Dixson, Rodney Hopson, William Trent{ .full .caption } 
 
 Nationally-recognized thought leaders in social justice, equality, and the study of systemic racism shared their perspectives in a recent Virtual Town Hall Meeting. { .large }
 
@@ -24,6 +24,6 @@ Organized and moderated by Yoon Pak, Department Head of Education Policy, Organi
 
 {{ roundtable-discussion-topics | transformRoundtableTopics }}
 
-“We have to work on doing the scholarship that produces the insights and the understanding that help us not harm ourselves by internalizing any of this  poison, as people of color. And work on preventing the expansion of and continued embedding of negative master narratives in our schools, in our literature, and in our workplaces,” said Trent. {.blockquote}
+**“We have to work on doing the scholarship that produces the insights and the understanding that help us not harm ourselves by internalizing any of this  poison, as people of color. And work on preventing the expansion of and continued embedding of negative master narratives in our schools, in our literature, and in our workplaces,” said Trent.** {.blockquote}
 
-View the Virtual Town Hall on the [College’s YouTube channel](https://www.youtube.com/user/educationatillinois).
+View the [Virtual Town Hall](https://www.youtube.com/watch?v=Xw6YOOlMmro&t=28s) on the [College’s YouTube channel](https://www.youtube.com/user/educationatillinois). { .large }
