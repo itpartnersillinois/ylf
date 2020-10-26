@@ -35,7 +35,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformListWithImages", function (item) {
     var returnValue = '<ul class="imagelist">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><img src="${element.image}" alt="${element.header}"><p class="header">${element.header}</p><p class="subheader">${element.subheader}</p>${element.text}</li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="${element.image}" alt="${element.header}"></a><p class="header"><a href="https://education.illinois.edu/faculty/${element.username}">${element.header}</a></p><p class="subheader">${element.subheader}</p>${element.text}</li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -44,7 +44,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformListWithImagesSimple", function (item) {
     var returnValue = '<ul class="imagelist">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><img class="simple" src="${element.image}" alt="${element.header}"><p><span style="font-weight: bold;">${element.header}</span>, ${element.text}</li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img class="simple" src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header}</span></a>, ${element.text}</li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -53,7 +53,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformGridWithImagesSimple", function (item) {
     var returnValue = '<ul class="imagegrid text">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><img src="${element.image}" alt="${element.header}"><p><span style="font-weight: bold;">${element.header},</span> ${element.text}</p></li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header},</span></a> ${element.text}</p></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
