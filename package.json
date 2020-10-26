@@ -19,7 +19,7 @@
   },
   "scripts": {
     "gulp": "gulp",
-    "eleventy": "eleventy --formats=\"html,md,liquid,gif,jpg,png,css,svg,ttf,woff,woff2\"",
+    "eleventy": "eleventy --formats=\"html,md,liquid,gif,jpg,png,css,svg,ttf,woff,woff2,pdf\"",
     "all": "npm run gulp && npm run eleventy"
   },
   "author": "Bryan Jonker, jonker@illinois.edu",
