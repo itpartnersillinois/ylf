@@ -2,7 +2,7 @@
 
 ## Summary: 
 
-Sample for the impact report, using a site generator
+Sample for the Youth Literature Festival report, using a site generator
 
 ## Production location: 
 

@@ -1,0 +1,141 @@
+main {
+    padding: 30px;
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+
+    h1,
+    h2,
+    h3,
+    h4 {
+        color: $blue_base;
+        line-height: 1.7em;
+    }
+
+    h1 {
+        font-size: 4em;
+        font-weight: normal;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    h2 {
+        margin-top: 1.5em;
+    }
+
+    p {
+        line-height: 1.8em;
+    }
+
+    p.byline {
+        padding-top: 0;
+        margin-top: 0;
+        padding-bottom: 1.5em;
+    }
+
+    li {
+        line-height: 1.8em;
+        margin-bottom: .4em;
+    }
+
+    p.full img {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    img {
+        max-width: 50%;
+
+        &.full {
+            width: 100%;
+            max-width: 100%;
+        }
+
+        &.left {
+            float: left;
+            padding: 30px 30px 30px 0;
+        }
+
+        &.right {
+            float: right;
+            padding: 30px 0 30px 30px;
+        }
+
+        &.top-left {
+            float: left;
+            padding: 0 30px 30px 0;
+        }
+
+        &.top-right {
+            float: right;
+            padding: 0 0 30px 30px;
+        }
+    }
+
+    .aside {
+        float: left;
+        width: 40%;
+        margin-right: 20px;
+        padding-right: 20px;
+        border-right: thin solid $orange_base;
+
+        &.right {
+            float: right;
+            margin-right: 0;
+            padding-right: 0;
+            margin-left: 20px;
+            padding-left: 20px;
+            border-left: thin solid $orange_base;
+            border-right: none;
+        }
+    }
+
+    .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, 400px);
+        text-align: center;
+        justify-content: space-evenly;
+
+        li {
+            padding: 1vw;
+            font-size: 1.5em;
+
+            span {
+                font-size: 5em;
+                font-weight: bold;
+                display: block;
+                color: $orange_base;
+                line-height: initial;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .article {
+        h1 {
+            font-size: 2em;
+        }
+
+        .aside {
+            float: none;
+            width: 100%;
+            margin-right: 0;
+            padding-right: 0;
+            border-top: thin solid $orange_base;
+            border-bottom: thin solid $orange_base;
+            border-right: none;
+            background-color: $cloud_base;
+    
+            &.right {
+                float: none;
+                margin-right: 0;
+                padding-right: 0;
+                margin-left: 0;
+                padding-left: 0;
+                border-left: none;
+                border-right: none;
+            }
+        }
+    }
+}

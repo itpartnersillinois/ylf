@@ -1,31 +1,68 @@
 ---
-layout: title.liquid
-pageTitle: 2020 Impact Report
-pageTitle2: Education
-subTitle: College of Education | University of Illinois Urbana-Champaign
+layout: main.liquid
+pageTitle: March 28-30, 2019
 ---
-Table of Contents
+The Youth Literature Festival brings award-winning authors of youth literature to area schools in a three-day event, culminating in a Community Day Celebration with author panels, activities for kids, and performances to share with the whole family. A bi-annual event, the Festival is provided without cost to participants or school districts thanks to volunteers and generous sponsors.
 
-* [Message from Dean Anderson](/message-from-dean-anderson/index.html)
-* [By the Numbers: 2020 Growth](/2020-growth/index.html)
-* [College Leadership](/college-leadership/index.html)
-* [By the Numbers: Programs](/world-class-programs/index.html)
-* [Priorities & Milestones](/priorities-milestones/index.html)
-* [A Brave New World: Supporting Today’s Educators and Learners](/a-brave-new-world/index.html)
-* [Schools After COVID-19: Seven Steps Towards a Learning Revolution](/schools-after-covid-19/index.html)
-* [COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education](/covid-19/index.html)
-* [Fighting for Social Justice](/fighting-for-social-justice/index.html)
-* [Addressing Anti-Black Racism and the Rise of Global Protests: Is It Different This Time?](/addressing-anti-black-racism/index.html)
-* [Inside The Psychology of Radical Healing Collective](/inside-the-psychology-of-radical-healing-collective/index.html)
-* [Using AI to improve education, impact society](/using-ai-to-improve-education/index.html)
-* [Research & Recognitions](/research-and-recognitions/index.html)
-* [By the Numbers: 2019-20 Faculty](/2019-20-faculty/index.html)
-* [New Scholars](/new-scholars/index.html)
-* [By the Numbers: Undergraduate Education](/undergraduate-education/index.html)
-* [By the Numbers: Graduate Education](/ananya-tiwari/index.html)
-* [By the Numbers: Online Programs](/online-programs/index.html)
-* [Outreach & Impact](/outreach-and-impact/index.html)
-* [Donor & Alumni Impact](/donor-and-alumni-impact/index.html)
-* [With Illinois Campaign Progress](/with-illinois/index.html)
+## Literature is at the heart of our lives
 
-[Download the 2020 Impact Report as a PDF](/2020-impact-report.pdf)
+The mission of The Youth Literature Festival is to place literature, and all the arts, at the heart of youths' lives. Started by the College of Education at the University of Illinois at Urbana-Champaign in 2008, the event celebrates the value of literature in the lives of youth by bringing together nationally known authors, illustrators, poets, and storytellers to share their stories, their craft, and their enthusiasm for books with children and teens.
+
+The Festival, held every two years since 2008, leads off with authors visiting numerous area schools. The popular and free-to-the-public Community Day celebration caps the event. Festivities during Community Day include author presentations and panels, hands-on activities, puppetry, storytelling, and musical performances.
+
+## Sponsors make the magic happen
+
+The Youth Literature Festival is supported by the College of Education and the University Library at the University of Illinois at Urbana-Champaign, and happens thanks to the generosity of various businesses and individuals.
+
+Because of these generous sponsors, the Youth Literature Festival is a reality for thousands of K-12 students throughout central Illinois. Bringing this experience to directly to students would not otherwise be possible. Please join us in patronizing and recognizing our Festival sponsors.
+
+## Thank you for the amazing people who joined the 2019 Youth Literature Festival Committees   
+
+### 2019 Core Committee 
+
+* Carol Scharlau
+* Karla Jean Moller
+* Linda Tammen
+* Nancy O'Brien
+* Victor H Perez
+* Violet J Harris
+* Vivian Felicio Dixon
+* William Trent
+ 
+### 2019 Planning Committee 
+
+Community Day	
+
+* Diane Gustafson
+* Kathy Bennett 
+* Betsy Su, retired Library 
+* Shih-Mei Carmody
+
+Hospitality	
+
+* Nancy O’Brien
+* Lekisha Hall
+
+School Engagement / Preparedness	
+
+* Christine Cahill
+* Tiffanie Bui
+* Melissa Payne
+
+School Scheduling and Volunteer Drivers	
+
+* Linda Tammen
+* Deb Newell  
+* Alexandra Bell
+ 
+Entertainment
+	
+* Mike Rogalla 
+* Kathie Kading
+* Amanda Raklovits
+
+Publicity & Marketing	
+
+* Kimberlie Ann Kranich 
+* Elaine Bearden
+* Ashley Lawrence
