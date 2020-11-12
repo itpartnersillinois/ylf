@@ -5,7 +5,7 @@ headerImage: /img/header/header-engage.jpg
 ---
 Community participation is key to the Festival's success. {.byline}
 
-When you were younger, what was a favorite book? Did someone read bedtime stories to you? Did you experience the excitement that reading books brought to your life?
+*When you were younger, what was a favorite book? Did someone read bedtime stories to you? Did you experience the excitement that reading books brought to your life?*
 
 Simple things matter! Join us in supporting our children to build great experiences and memories around reading and writing. Together, let's create and cultivate a love of reading in the lives of children and youth around central Illinois' schools and communities.
 
@@ -19,19 +19,21 @@ The Youth Literature Festival offers a variety of opportunities to engage with s
 
 Volunteers are needed for the March 30, 2019, Community Day Celebration at the I Hotel and Conference Center. Two shifts of individuals or groups are needed to help attendees navigate the program of author presentations, hands-on activities, performances, puppetry, storytelling, and music.
 
-Saturday, March 30, 2019
+Saturday, March 30, 2019{ .noindent }
+
 * First Shift: 9 a.m.–12:30 p.m.
 * Second Shift: 12 p.m.–3:30 p.m.
-Community Day Celebration at the I Hotel and Conference Center
-1900 S. First Street, Champaign, Illinois, 61820
 
-**Logistics**
+Community Day Celebration at the I Hotel and Conference Center
+1900 S. First Street, Champaign, Illinois, 61820{ .noindent }
+
+**Logistics** { .noindent }
 
 * Set up time: 8:30 – 9:45 a.m.
 * Event time: 10 a.m. – 3 p.m.
 * Public Opening: 10 a.m.
 
-We expect approximately 1,500+ people to attend
+We expect approximately 1,500+ people to attend{ .noindent }
 
 ![Craft table with kids](/img/engage/dsc.jpg)
 
