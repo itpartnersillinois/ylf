@@ -49,7 +49,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("authorList", function (author) {
     var returnValue = '<ul class="authorlist">';
     author.forEach(element => {
-      returnValue = returnValue + `<li><img src="${element.image}" alt="${element.header}"></a><p class="header"><a href="${element.link}">${element.name}</a></p><p class="subheader">${element.subheader}</p>${element.text}</li>`;
+      returnValue = returnValue + `<li><img src="${element.image}" alt="${element.name}" data-info="${element.biography}" onmouseover="authorOver(this)" onmouseout="authorOut(this)"></a><p class="header"><a href="${element.url}">${element.name}</a></p><p class="subheader">${element.title}</p></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;

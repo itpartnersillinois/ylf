@@ -11,3 +11,15 @@ function circleOut(el) {
     el.children[1].style.display = 'none';
     el.children[2].style.display = 'none';
 }
+
+function authorOver(el) {
+    el.children[0].style.display = 'none';
+    el.children[1].style.display = '';
+    el.children[2].style.display = '';
+}
+
+function authorOut(el) {
+    el.children[0].style.display = '';
+    el.children[1].style.display = 'none';
+    el.children[2].style.display = 'none';
+}
