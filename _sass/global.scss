@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background: $background;
 }
 
 p,
@@ -20,13 +21,6 @@ ul.no-bullets {
 .clear {
     clear: both;
 }
-
-.main-heading {
-    padding-top: 1em;
-    margin-top: 1em;
-    border-top: 2px solid $orange_base;
-}
-
 
 .xx-large {
     font-size: 2.5em;
@@ -60,10 +54,6 @@ ul.no-bullets {
     font-weight: bold;
 }
 
-main {
-    margin-top: 72px;
-}
-
 a {
     text-decoration: none;
     font-weight: bold;
@@ -72,15 +62,6 @@ a {
 a:hover, a:focus {
     color: $blue_base;
     transition: .5s;
-}
-
-.lines {
-    border-top: thin solid $blue_base;
-    border-bottom: thin solid $blue_base;
-    padding-top: 1em;
-    margin-top: 2em;
-    padding-bottom: 1em;
-    margin-bottom: 2em;
 }
 
 .caption {

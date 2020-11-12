@@ -1,0 +1,40 @@
+aside {
+    .wrapper {
+        display: flex;
+        flex-direction: row;
+        margin: auto 30px 30px 18px;
+        padding-bottom: 10px;
+
+        .eventDate {
+            display: flex;
+            align-items: center;
+            width: 27%;
+            height: 90px;
+            background-color: #13294B;
+            box-shadow: -2px 2px 2px black;
+            color: white;
+            text-align: center;
+            justify-content: center;
+            float: left;
+            margin: 0px 10px 0px 0px;
+
+            .eD {
+                font-size: 1.2em;
+                font-weight: bold;
+
+                span {
+                    font-size: 1.8em;
+                }
+            }
+
+            hr {
+                margin: .2em;
+            }
+        }
+
+        .eventInfo {
+            font-size: 1.4em;
+        }
+        
+    }
+}

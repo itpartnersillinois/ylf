@@ -1,0 +1,27 @@
+.main main .sponsorsgrid {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit,minmax(200px,400px));
+    justify-items: center;
+    align-items: center;
+
+    div {
+        font-size: 1.5em;
+        font-weight: bold;
+        padding: 10px;
+        display: flex;
+        align-self: center;
+
+        &.sponsortext {
+            border: thin solid #ccc;
+            text-align: center;
+            padding: 10px;
+
+        }
+
+        img {
+            margin-left: 0;
+        }
+    }
+
+}

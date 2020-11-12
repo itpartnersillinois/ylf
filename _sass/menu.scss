@@ -1,50 +1,40 @@
-body.blue header {
-    background: $blue_base;
-
-    a:hover, a:focus {
-        color: $orange_base;
-    }    
-}
-
-header {
-    background: $orange_base;
-    height: 72px;
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-    z-index: 9999;
-
-    img {
-        height: 46px;
-        float: left;
-        padding: 12px 20px;
-    }
-
-    p {
+nav {
+    ul {
+        list-style: none;
         margin: 0;
-        padding-top: 10px;
-        font-weight: bold;
-        font-size: 1.3em;
-        color: white;
-        display: inline-block;
-    }
+        padding: 0;
+        display: flex;
+        justify-content: space-evenly;
+        background: $white_base;
 
-    a {
-        text-decoration: none;
-        color: white;
-    }
+        li {
+            width: 100%;
 
-    nav {
-        float: right;
-        padding-right: 10px;
-        font-size: 32px;
-        padding-top: 15px;
-    }
-}
+            a {
+                display: flex;
+                font-size: 1.5em;
+                background: $orange_base;
+                color: $white_base;
+                font-weight: bold;
+                height: 75px;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                margin: 0 2px;
+            }
 
-@media only screen and (max-width: 500px ) {
-    header p {
-        display: none;
+            a:hover, a:focus {
+                background: $blue_base;
+                color: $white_base;
+            }
+        }
+
+        li:first-child a {
+            margin-left: 0;
+        }
+
+        li:last-child a {
+            margin-right: 0;
+        }
     }
 }

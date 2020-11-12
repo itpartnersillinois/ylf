@@ -1,0 +1,50 @@
+.circlecol {
+    position: absolute;
+    padding-left: 50px;
+    top: 5px;
+    z-index: 100;
+    margin-top: 125px;
+
+    .circle {
+        color: $white_base;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        font-size: 1.5em;
+        display: block;
+        margin: 12px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: $blue_base;
+
+        &.orange {
+            background: $orange_base;
+        }
+    }
+
+    .circle-highlighted-text {
+        font-size: 1.4em;
+        font-weight: bold;
+    }
+
+    span.number {
+        font-size: 1.7em;
+        display: block;
+    }
+
+    .flyout1 {
+        position: absolute;
+        left: 110%;
+        margin: 0px;
+        width: 275%;
+        background: #fff;
+        padding: 12px;
+        border: 1px solid #e84a27;
+        font-size: 1em;
+        line-height: 1.35em;
+        color: black;
+    }
+}

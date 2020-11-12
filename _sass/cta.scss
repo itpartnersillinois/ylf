@@ -1,0 +1,38 @@
+ul.cta {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    background: $orange_base;
+
+    li {
+        width: 100%;
+        margin: 30px;
+        a {
+            display: flex;
+            font-size: 1.5em;
+            background: $white_base;
+            color: $orange_base;
+            font-weight: bold;
+            height: 75px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            margin: 0 5px;
+        }
+
+        a:hover, a:focus {
+            background: $blue_base;
+            color: $white_base;
+        }
+    }
+
+    li:first-child a {
+        margin-left: 0;
+    }
+
+    li:last-child a {
+        margin-right: 0;
+    }
+}

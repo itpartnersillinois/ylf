@@ -4,12 +4,14 @@
         {% include head.liquid %}
     </head>
     <body class="{{ bodyClass }}">
-        <div class="bannerPhoto homeBannerImage"> </div>
+        <header>
+        {% include header.liquid %}
+            <div class="bannerPhoto" style="background-image: url({{ headerImage }});"> </div>
+        </header>
         {% include menu.liquid %}
         <div class="main">
         <main>
         <h1>{{ pageTitle }} </h1>
-        <p class="tagline">{{ tagline }} </p>
         {{ content }}
         </main>
         <aside>

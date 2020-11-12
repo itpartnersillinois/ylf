@@ -1,8 +1,10 @@
 a.button {
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
     display: block;
     padding: .75em 1em;
+    border-radius: 5px;
+    text-transform: uppercase;
     background: $orange_base;
     color: #fff;
     text-align: center;
