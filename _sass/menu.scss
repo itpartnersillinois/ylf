@@ -38,3 +38,13 @@ nav {
         }
     }
 }
+
+@media only screen and (max-width: 1000px) {
+    nav ul { 
+        display: block; 
+
+        li a {
+            margin: 0;
+        }
+    }
+  }

@@ -22,7 +22,8 @@ ul.cta {
             margin: 0 5px;
         }
 
-        a:hover, a:focus {
+        a:hover,
+        a:focus {
             background: $blue_base;
             color: $white_base;
         }
@@ -34,5 +35,21 @@ ul.cta {
 
     li:last-child a {
         margin-right: 0;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    ul.cta {
+        display: block;
+        padding: 10px;
+
+        li {
+            width: 80%;
+            margin: 10px auto;
+
+            a {
+                margin: 0;
+            }
+        }
     }
 }

@@ -16,15 +16,16 @@
     p {
         margin-left: 0;
         text-indent: 0;
+        line-height: initial;
     }
 }
 
 @media only screen and (max-width: 800px) {
-    ul.imagegrid {
+    .main main ul.authorlist {
         display: block;
 
         li {
-            margin-bottom: 20px;
+            margin-bottom: 50px;
         }
     }
 }

@@ -18,7 +18,7 @@ body.sponsors .main main h2 {
         
         h1 {
             color: $blue_base;
-            font-size: 4em;
+            font-size: calc(2em + 2vw);
             margin: 0;
             padding-bottom: 0;
             text-align: center;
@@ -26,18 +26,18 @@ body.sponsors .main main h2 {
 
         h2 {
             color: $lightblue_base;
-            line-height: 1.97em;
+            line-height: calc(1em + 1vw);
             font-size: 1.75em;
             text-align: center;
         }
 
         p {
             line-height: 1.76em;
-            font-size: 1.25em;
+            font-size: calc(.8em + .8vw);
             text-indent: 40px;
 
             &.byline {
-                font-size: 4em;
+                font-size: calc(2em + 2vw);
                 line-height: 1.25em;
                 text-align: center;
                 color: $lightblue_base;
@@ -131,30 +131,22 @@ body.sponsors .main main h2 {
 }
 
 @media only screen and (max-width: 800px) {
-    .article {
-        h1 {
-            font-size: 2em;
+    .main {
+        display: block;
+        padding: 10px 0;
+
+        main {
+            width: 100%;
+
+            p {
+                text-indent: 0;
+            }
         }
 
-        .aside {
-            float: none;
+        aside {
             width: 100%;
-            margin-right: 0;
-            padding-right: 0;
-            border-top: thin solid $orange_base;
-            border-bottom: thin solid $orange_base;
-            border-right: none;
-            background-color: $cloud_base;
-
-            &.right {
-                float: none;
-                margin-right: 0;
-                padding-right: 0;
-                margin-left: 0;
-                padding-left: 0;
-                border-left: none;
-                border-right: none;
-            }
+            margin: 0;
+            padding: 20px 0;
         }
     }
 }
