@@ -18,8 +18,24 @@ This button will direct you to a donation page for the College of Education. Ple
 
 ## Premier Circle $10,000-$19,999
 
-{{ festivalPremier | formatSponsors }}
+{{ premier | formatSponsors }}
 
 ## Bestseller $2,500-$4999
 
-{{ festivalBestseller | formatSponsors }}
+{{ bestseller | formatSponsors }}
+
+## Community Leader $1,000-$2,499
+
+{{ communityLeader | formatSponsors }}
+
+## Community Supporter $500-$999
+
+{{ communitySupporter | formatSponsors }}
+
+## Book Lover $250-$499
+
+{{ bookLover | formatSponsors }}
+
+## Book Reader $249 or less
+
+{{ bookReader | formatSponsors }}

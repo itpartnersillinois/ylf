@@ -13,10 +13,11 @@
         align-self: center;
 
         &.sponsortext {
-            border: thin solid #ccc;
             text-align: center;
             padding: 10px;
-
+            min-height: 50px;
+            display: flex;
+            align-items: center;
         }
 
         img {
