@@ -1,0 +1,46 @@
+[
+    { 
+        "name": "Amazon Publishing",
+        "img": "amazon-publishing_300px.png"
+    },
+    { 
+        "name": "Chronicle Books",
+        "img": "cb_kids_logo_300px.jpg"
+    },
+    { 
+        "name": "Simon & Schuster Children's Publishing",
+        "img": "sands-childrens-publishing-logo_200px.png"
+    },
+    { 
+        "name": "Rosen Publishing",
+        "img": "rosen_publishing-200.jpg"
+    },
+    { 
+        "name": "U of I Community Credit Union",
+        "img": "uiccu_horiz-cmyk.png"
+    },
+    { 
+        "name": "MTD Champaign-Urbana Mass Transit District",
+        "img": "cumtd-logo-with-name-copy-200.jpg"
+    },
+    { 
+        "name": "Arte Public Press",
+        "img": "app_horizontal_book-lover.jpg"
+    },
+    { 
+        "name": "Rare Bird",
+        "img": "rare-bird-logo_200px.jpg"
+    },
+    { 
+        "name": "Champaign West Rotary",
+        "img": "champaign-west-rotary-200.png"
+    },
+    { 
+        "name": "Cinco Puntos Press",
+        "img": "cincopuntospress_250px.jpg"
+    },
+    { 
+        "name": "Dr. Chia-Chun Chang",
+        "img": ""
+    }
+]
