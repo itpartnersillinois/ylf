@@ -1,0 +1,54 @@
+[
+    { 
+        "name": "Christie Clinic",
+        "img": "christie-clinic_200px.jpg"
+    },
+    {
+        "name": "Charlesbridge",
+        "img": "charlesbridge-logo_200px.png"
+    },
+    {
+        "name": "Disney Publishing Worldwide",
+        "img": "disney-publishing_300.png"
+    },
+    {
+        "name": "Candlewick Press",
+        "img": "c-flame_300px.jpg"
+    },
+    {
+        "name": "Creston Books",
+        "img": "creston_publishing-250.jpg"
+    },
+    {
+        "name": "Busey Bank",
+        "img": "busey-bank-logo.jpg"
+    },
+    {
+        "name": "Harper Collins Publishers",
+        "img": "harper-colllins-publishers.png"
+    },
+    {
+        "name": "Kiwanis",
+        "img": "kiwanis_logo-250.png"
+    },
+    {
+        "name": "Kalah L. Babbs",
+        "img": ""
+    },
+    {
+        "name": "Dr. W.C. & Kathryn L. Pettus",
+        "img": ""
+    },
+    {
+        "name": "Margaret P. Stillwell",
+        "img": ""
+    },
+    {
+        "name": "Linda M. Tammen",
+        "img": ""
+    },
+    {
+        "name": "Prof. William Trent",
+        "img": ""
+    }
+]
