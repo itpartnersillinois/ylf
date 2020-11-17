@@ -1,3 +1,11 @@
-﻿il-header, il-footer {
+﻿il-header, il-footer, il-menu {
     --il-content-max-width: none;
+}
+
+il-menu, il-mobilemenu {
+    --il-menu-size: 1.5em;
+    --il-menu-background: var(--il-orange);
+    --il-menu-backgroundframe: #fff;
+    --il-menu-color: #fff;
+    --il-menu-hover: #fff;
 }
