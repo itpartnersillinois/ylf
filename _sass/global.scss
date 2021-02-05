@@ -4,13 +4,21 @@ body {
     background: $background;
 }
 
-p,
 h1,
 h2,
 h3,
-h4,
-li {
+h4, 
+h1 a, 
+h2 a, 
+h3 a, 
+h4 a {
     font-family: "Montserrat", sans-serif;
+}
+
+p,
+li,
+a {
+    font-family: "Source Sans Pro", sans-serif;
 }
 
 ul.no-bullets {
