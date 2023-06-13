@@ -1,0 +1,31 @@
+.main main ul.authorlist {
+    display: grid;
+    list-style: none;
+    grid-template-columns: repeat(auto-fit,300px);
+    text-align: center;
+    grid-gap: 20px;
+    padding-left: 0;
+    margin: 3em 0 0 0;
+
+    img {
+        max-width: 100%;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    p {
+        margin-left: 0;
+        text-indent: 0;
+        line-height: initial;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .main main ul.contactlist {
+        display: block;
+
+        li {
+            margin-bottom: 50px;
+        }
+    }
+}
