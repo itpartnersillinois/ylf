@@ -1,6 +1,6 @@
 ---
 layout: secondary.liquid
-pageTitle: Authors
+pageTitle: 2019 Authors
 headerImage: /img/header/header-authors.jpg
 ---
 
