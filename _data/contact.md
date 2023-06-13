@@ -1,9 +1,1 @@
-[
-    {
-        "url": "https://education.illinois.edu/people/victor-perez",
-        "name": "Victor Perez",
-        "image": "/img/vhperez.jpeg",
-        "title": "Director, Center for Education in Small Urban Communities"
-    },
-    {
-    ]
+
