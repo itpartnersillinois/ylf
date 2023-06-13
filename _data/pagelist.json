@@ -26,5 +26,8 @@
     { 
         "name": "News and Resources",
         "url": "/news/index.html"
-    }
+    },
+    { 
+        "name": "Contact Us",
+        "url": "/contact/index.html"
 ]
