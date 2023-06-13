@@ -1,5 +1,5 @@
 ---
 layout: secondary.liquid
-pageTitle: Contacr
+pageTitle: Contact
 headerImage: /img/header/header-contact.jpg
 ---
