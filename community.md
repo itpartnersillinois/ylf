@@ -1,22 +1,21 @@
 ---
 layout: secondary.liquid
-pageTitle: School Visits
+pageTitle: Community Day Celebration
 headerImage: /img/header/header-community.jpg
 ---
-Saturday, March 30, 2019 
-10 a.m. - 3 p.m. {.byline}
+2024 Date Coming Soon 
 
 ## A fun day for the entire family!
 
 Champaign-Urbana and surrounding area families and community members are invited to celebrate youth literature at the Festival's Community Day Celebration, a free event, open to the public. Author readings, book signings, puppet shows, live music, art displays, and a variety of hands-on activities for children will all be part of the fun!
 
-The I Hotel and Conference Center
-1900 S. First Street
-Champaign, IL, 61820 {.noindent}
+Dates and Venue will be announced soon!
 
 ![Community Day Schedule](/img/community/schedule-sessions-draft-12-revised_3-21-19.png)
 
 [View, download, and print the 2019 Community Day schedule PDF](/docs/schedule-sessions-draft-12-revised_3-21-19.pdf).
+
+## See below for setails on last event's entertainment! 
 
 {{ "https://www.youtube.com/embed/_KRXBz_VxQM" || addVideo }}
 
@@ -25,7 +24,7 @@ Champaign, IL, 61820 {.noindent}
 ![Girls holding portaits down](/img/community/vivian-dixon-2016-oct_-dsc01498.jpg?sfvrsn=57121188_0)
 
 
-## Dan Wild will be at the 2019 Youth Literature Festival. 
+## Dan Wild
 
 Dan Wild is a published illustrator, award winning designer, and caricaturist with 15 years of experience in the fields of advertising, marketing and commercial art. Come to the Youth Literature Festival on Saturday, March 30th, Dan Wild would love to do your caricature! 
 
