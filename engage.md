@@ -21,13 +21,10 @@ The Youth Literature Festival offers a variety of opportunities to engage with s
 
 Volunteers are needed for the Community Day Celebration. Two shifts of individuals or groups are needed to help attendees navigate the program of author presentations, hands-on activities, performances, puppetry, storytelling, and music.
 
-Saturday, March 30, 2019{ .noindent }
+Saturday, Date TBD { .noindent }
 
 * First Shift: 9 a.m.–12:30 p.m.
 * Second Shift: 12 p.m.–3:30 p.m.
-
-Community Day Celebration at the I Hotel and Conference Center
-1900 S. First Street, Champaign, Illinois, 61820{ .noindent }
 
 **Logistics** { .noindent }
 
@@ -64,7 +61,7 @@ Public Transportation: For travel information, visit the [CU MTD website](https:
 
 Not all of our public schools have funds available to purchase books and make them available for students. In order to support schools and make sure that students have books available to read before the author visits, we count to the support of donations of friends and sponsors. 
 
-If you or organization would like to make a donation of books to the Festival or to our schools, please email Franne Davis, at fadavis@illinois.edu at the Illini Bookstore. You can find the list of books for 2019 at the [Illini Bookstore website](https://bookstore.illinois.edu/shop_product_list.asp?catalog_group_id=Mg&catalog_group_name=R2VuZXJhbCBCb29rcw&catalog_id=470&catalog_name=WW91dGggTGl0IEZlc3Q). You can also [make a gift online](http://go.illinois.edu/giveYLF) (scroll down to Youth Literature Festival Fund) and we will purchase books for you. 
+If you or organization would like to make a donation of books to the Festival or to our schools, please email Franne Davis, at fadavis@illinois.edu at the Illini Bookstore. You can also [make a gift online](http://go.illinois.edu/giveYLF) (scroll down to Youth Literature Festival Fund) and we will purchase books for you. 
 
 ### Donate Gifts to Raffle
 
