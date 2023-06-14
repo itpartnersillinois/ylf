@@ -3,19 +3,18 @@ layout: secondary.liquid
 pageTitle: Community Day Celebration
 headerImage: /img/header/header-community.jpg
 ---
-2024 Date Coming Soon 
+2024 Dates Coming Soon* 
 
 ## A fun day for the entire family!
 
 Champaign-Urbana and surrounding area families and community members are invited to celebrate youth literature at the Festival's Community Day Celebration, a free event, open to the public. Author readings, book signings, puppet shows, live music, art displays, and a variety of hands-on activities for children will all be part of the fun!
 
-Dates and Venue will be announced soon!
 
 ![Community Day Schedule](/img/community/schedule-sessions-draft-12-revised_3-21-19.png)
 
 [View, download, and print the 2019 Community Day schedule PDF](/docs/schedule-sessions-draft-12-revised_3-21-19.pdf).
 
-## See below for setails on last event's entertainment! 
+## See below for details on last event's entertainment! 
 
 {{ "https://www.youtube.com/embed/_KRXBz_VxQM" || addVideo }}
 
@@ -90,10 +89,7 @@ For more information about the Kim Sheahan, [visit the website](https://www.kims
 
 ![Students sitting around a table talking about the IDEA store](/img/community/2016-community-day-5.jpg)
 
-If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Vivian Dixon at felicio@illinois.edu or call (217) 300-3191. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs.
+If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs.
 
 {{ "https://www.youtube.com/embed/R9WtDCXzJsM" | addVideo }}
 
-## Community Day: I Hotel Map
-
-![I Hotel Map](/img/community/i-hotel-map-pict.png) 
