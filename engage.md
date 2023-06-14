@@ -47,9 +47,7 @@ To join us in hosting a literacy-related Activity Table, [click here](https://fo
 
 You can volunteer by driving an author during the school visits. Interested? [Click Here](https://forms.illinois.edu/sec/1081886971). 
 
-Please, [contact us](https://education.illinois.edu/smallurban/staff-directory) to place your name to our waiting list! 
-
-Parking: Free Parking is available at the I Hotel and Conference Center
+Parking: Details TBA
 
 Public Transportation: For travel information, visit the [CU MTD website](https://www.cumtd.com/).
 
