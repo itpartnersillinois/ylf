@@ -16,7 +16,7 @@ headerImage: /img/header/header-news.jpg
 
 ![Ted Sanders](/img/news/ted-sanders-author-spotlight.jpg)
 
-## Thank you for the amazing people who joined the 2019 Youth Literature Festival Committees   
+## Thank you to the amazing people who joined the 2019 Youth Literature Festival Planning Committees   
 
 2019 Core Committee 
 * Carol Scharlau
