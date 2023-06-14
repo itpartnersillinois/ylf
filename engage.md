@@ -3,6 +3,7 @@ layout: secondary.liquid
 pageTitle: Engage & Volunteer
 headerImage: /img/header/header-engage.jpg
 ---
+
 Community participation is key to the Festival's success. {.byline}
 
 *When you were younger, what was a favorite book? Did someone read bedtime stories to you? Did you experience the excitement that reading books brought to your life?*
@@ -20,7 +21,7 @@ The Youth Literature Festival offers a variety of opportunities to engage with s
 
 ## Volunteer During the Community Day Celebration
 
-Volunteers are needed for the March 30, 2019, Community Day Celebration at the I Hotel and Conference Center. Two shifts of individuals or groups are needed to help attendees navigate the program of author presentations, hands-on activities, performances, puppetry, storytelling, and music.
+Volunteers are needed for the Community Day Celebration. Two shifts of individuals or groups are needed to help attendees navigate the program of author presentations, hands-on activities, performances, puppetry, storytelling, and music.
 
 Saturday, March 30, 2019{ .noindent }
 
@@ -44,15 +45,12 @@ We expect approximately 1,500+ people to attend{ .noindent }
 
 Advertise your business or organization and support schools, children and their families. Organizations, small business, clubs, and community friends are invited to host an engaging activity table during the Community Day Celebration, on Saturday, March 30, 2019.
 
-To join us in hosting a literacy-related Activity Table, follow the link above. *Spaces are limited, first-come, first-served. 
+To join us in hosting a literacy-related Activity Table, [click here](https://forms.illinois.edu/sec/1081886971). *Spaces are limited, first-come, first-served. 
 
-**All Spaces are taken for the 2019 Youth Literature Festival.**
-
-Please, [contact us](https://education.illinois.edu/smallurban/staff-directory) to place your name to our waiting list! 
 
 ## Drive an Author to School
 
-You can volunteer by driving an author during the school visits on March 28 and/or March 29, 2019 from 8 a.m.– 3:30 p.m. Interested? Click on the link below and let us know your preferences. 
+You can volunteer by driving an author during the school visits. Interested? [Click Here](https://forms.illinois.edu/sec/1081886971). 
 
 Please, [contact us](https://education.illinois.edu/smallurban/staff-directory) to place your name to our waiting list! 
 
