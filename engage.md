@@ -4,7 +4,8 @@ pageTitle: Engage & Volunteer
 headerImage: /img/header/header-engage.jpg
 ---
 
-Community participation is key to the Festival's success. {.byline}
+
+## Community Participation is Key to the Festival's Success
 
 *When you were younger, what was a favorite book? Did someone read bedtime stories to you? Did you experience the excitement that reading books brought to your life?*
 
