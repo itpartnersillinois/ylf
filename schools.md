@@ -3,7 +3,7 @@ layout: secondary.liquid
 pageTitle: School Visits
 headerImage: /img/header/header-schools.jpg
 ---
-March 28-29, 2019 {.byline}
+2024 Dates Coming Soon {.byline}
 
 School visits are a huge part of the Youth Literature Festival. These visits reach thousands of children in area schools and form a unique aspect of the Festival that is particularly important to our community.
 
@@ -23,9 +23,9 @@ Making literature accessible to all is a driving motivation behind the Festival.
 
 ![Children's artwork inspired by YLF](/img/schools/ylf_47.jpg)
 
-## NEW TO THE FESTIVAL: Students' work Display 
+Students' Work Display 
 
-During the 2019 Youth Literature Festival, school will select up to 5 students’ work to be displayed in the authors’ room at the I Hotel during the Community Day Celebration, on March 30th.
+During the 2024 Youth Literature Festival, schools will select up to 5 students’ work to be displayed during the Community Day Celebration.
 
 By student's work we mean any material that students create in response to their engagement with the author’s book assigned to their school (e.g., artwork, poem, drawing, or stories inspired by the authors’ book).
 
