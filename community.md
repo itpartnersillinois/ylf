@@ -15,13 +15,16 @@ Champaign-Urbana and surrounding area families and community members are invited
 ## Parking Information
 Free Saturday parking will be available in [Lot B1](https://www.parking.illinois.edu/maps/campus-parking-map) or at the [Campus Center Public Parking Deck](https://www.google.com/maps/place/Campus+Center+Public+Parking+Deck/@40.1113784,-88.2311801,15z/data=!4m6!3m5!1s0x880cd740a7e4a0ff:0xfdda8ab72b1e1da4!8m2!3d40.1113784!4d-88.2311801!16s%2Fg%2F11bw66brrt?entry=ttu). Both are nearby within walking distance to the Campus Instrucional Facility. 
 
+## Community Day Schedule of Events
 
 The 2024 Community Day schedule at the Campus Instructional Facility will be released closer to the event. Please see below for details of the 2019 schedule of events at the I-Hotel. 
 
 ![Community Day Schedule](/img/community/schedule-sessions-draft-12-revised_3-21-19.png)
 
 
-## See below for details on last event's entertainment! 
+## Entertainment 
+
+Details on the 2024 event entertainment will be available soon. See below for details on last event's entertainment! 
 
 {{ "https://www.youtube.com/embed/_KRXBz_VxQM" || addVideo }}
 
