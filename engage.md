@@ -22,7 +22,7 @@ The Youth Literature Festival offers a variety of opportunities to engage with s
 
 Volunteers are needed for the Community Day Celebration. Two shifts of individuals or groups are needed to help attendees navigate the program of author presentations, hands-on activities, performances, puppetry, storytelling, and music.
 
-Saturday, Date TBD { .noindent }
+Saturday, October 5th, 2024 { .noindent }
 
 * First Shift: 9 a.m.–12:30 p.m.
 * Second Shift: 12 p.m.–3:30 p.m.
@@ -31,7 +31,7 @@ Saturday, Date TBD { .noindent }
 
 * Set up time: 8:30 – 9:45 a.m.
 * Event time: 10 a.m. – 3 p.m.
-* Public Opening: 10 a.m.
+* Public Opening: 9:30 a.m.
 
 We expect approximately 1,500+ people to attend{ .noindent }
 
@@ -48,7 +48,7 @@ To join us in hosting a literacy-related Activity Table, [click here](https://fo
 
 You can volunteer by driving an author during the school visits. Interested? [Click Here](https://forms.illinois.edu/sec/1081886971). 
 
-Parking: Details TBA
+Parking: Free Saturday parking in [Lot B1](https://www.parking.illinois.edu/maps/campus-parking-map), or in the [Campus Center Public Parking Deck](https://www.google.com/maps/place/Campus+Center+Public+Parking+Deck/@40.1113784,-88.2311801,15z/data=!4m6!3m5!1s0x880cd740a7e4a0ff:0xfdda8ab72b1e1da4!8m2!3d40.1113784!4d-88.2311801!16s%2Fg%2F11bw66brrt?entry=ttu) 
 
 Public Transportation: For travel information, visit the [CU MTD website](https://www.cumtd.com/).
 
@@ -60,7 +60,7 @@ Public Transportation: For travel information, visit the [CU MTD website](https:
 
 Not all of our public schools have funds available to purchase books and make them available for students. In order to support schools and make sure that students have books available to read before the author visits, we count to the support of donations of friends and sponsors. 
 
-If you or organization would like to make a donation of books to the Festival or to our schools, please email Franne Davis, at fadavis@illinois.edu at the Illini Bookstore. You can also [make a gift online](http://go.illinois.edu/giveYLF) (scroll down to Youth Literature Festival Fund) and we will purchase books for you. 
+If you or your organization would like to make a donation of books to the Festival or to our schools, please email Franne Davis, at fadavis@illinois.edu at the Illini Bookstore. You can also [make a gift online](http://go.illinois.edu/giveYLF) (scroll down to Youth Literature Festival Fund) and we will purchase books for you. 
 
 ### Donate Gifts to Raffle
 
