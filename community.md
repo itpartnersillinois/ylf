@@ -5,6 +5,8 @@ headerImage: /img/header/header-community.jpg
 ---
 Saturday October 5, 2024 {.byline}
 
+
+
 ## A fun day for the entire family!
 
 Champaign-Urbana and surrounding area families and community members are invited to celebrate youth literature at the Festival's Community Day Celebration, a free event, open to the public. Author readings, book signings, puppet shows, live music, art displays, and a variety of hands-on activities for children will all be part of the fun!
