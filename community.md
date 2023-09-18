@@ -39,7 +39,6 @@ Dan Wild is a published illustrator, award winning designer, and caricaturist wi
 
  For more information about the Dan Wild, [visit the website](http://www.danwild.com/caricature.html).
 
-## Community Day Entertainment
 
 ### Banks Bridgewater Lewis (BBL) Fine Arts Academy Performance
 
