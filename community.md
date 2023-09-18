@@ -12,7 +12,8 @@ Saturday October 5, 2024 {.byline}
 
 Champaign-Urbana and surrounding area families and community members are invited to celebrate youth literature at the Festival's Community Day Celebration, a free event, open to the public. Author readings, book signings, puppet shows, live music, art displays, and a variety of hands-on activities for children will all be part of the fun!
 
-Parking Information {.byline}
+## Parking Information
+Free Saturday parking will be available in [Lot B1](https://www.parking.illinois.edu/maps/campus-parking-map) or at the [Campus Center Public Parking Deck](https://www.google.com/maps/place/Campus+Center+Public+Parking+Deck/@40.1113784,-88.2311801,15z/data=!4m6!3m5!1s0x880cd740a7e4a0ff:0xfdda8ab72b1e1da4!8m2!3d40.1113784!4d-88.2311801!16s%2Fg%2F11bw66brrt?entry=ttu). Both are nearby within walking distance to the Campus Instrucional Facility. 
 
 
 The 2024 Community Day schedule at the Campus Instructional Facility will be released closer to the event. Please see below for details of the 2019 schedule of events at the I-Hotel. 
