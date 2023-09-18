@@ -3,7 +3,7 @@ layout: secondary.liquid
 pageTitle: School Visits
 headerImage: /img/header/header-schools.jpg
 ---
-2024 Dates Coming Soon {.byline}
+October 3-4, 2024 {.byline}
 
 School visits are a huge part of the Youth Literature Festival. These visits reach thousands of children in area schools and form a unique aspect of the Festival that is particularly important to our community.
 
