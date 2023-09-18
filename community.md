@@ -3,7 +3,7 @@ layout: secondary.liquid
 pageTitle: Community Day Celebration
 headerImage: /img/header/header-community.jpg
 ---
-2024 Dates Coming Soon* 
+Saturday, October 5th, 2024
 
 ## A fun day for the entire family!
 
