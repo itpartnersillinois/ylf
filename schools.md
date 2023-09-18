@@ -21,6 +21,6 @@ More than half of the school children in Illinois now qualify as low-income stud
 
 Making literature accessible to all is a driving motivation behind the Festival. By bringing the authors to schools, we give entire student populations the opportunity to meet popular authors and share in their love of literature, which is inspiring for everyone involved.
 
-## Please contact Mackenzie Gillespie at dankle@illinois.edu with questions or to participate in a school day visit.
+## Please contact [Mackenzie Gillespie](dankle@illinois.edu) with questions or to participate in a school day visit.
 
 ![Children's artwork inspired by YLF](/img/schools/ylf_47.jpg)
