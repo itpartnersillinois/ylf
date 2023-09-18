@@ -8,10 +8,11 @@ Saturday October 5, 2024 {.byline}
 
 
 
-## A fun day for the entire family!
+## [Campus Instructional Facility](https://cif.illinois.edu/).
 
 Champaign-Urbana and surrounding area families and community members are invited to celebrate youth literature at the Festival's Community Day Celebration, a free event, open to the public. Author readings, book signings, puppet shows, live music, art displays, and a variety of hands-on activities for children will all be part of the fun!
 
+The 2024 Community Day schedule at the Campus Instructional Facility will be released closer to the event. Please see below for a preview of the 2019 schedule of events at the I-Hotel. 
 
 ![Community Day Schedule](/img/community/schedule-sessions-draft-12-revised_3-21-19.png)
 
