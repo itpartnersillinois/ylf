@@ -65,5 +65,3 @@ During the Festival, we will have some raffles for the children. We accept any k
 
 ### Become a Sponsor
 Are you interested in sponsoring an author or supporting the Festival? Please check out the [Sponsors page](/sponsors/index.html).
-
-
