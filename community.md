@@ -16,7 +16,6 @@ The 2024 Community Day schedule at the Campus Instructional Facility will be rel
 
 ![Community Day Schedule](/img/community/schedule-sessions-draft-12-revised_3-21-19.png)
 
-[View, download, and print the 2019 Community Day schedule PDF](/docs/schedule-sessions-draft-12-revised_3-21-19.pdf).
 
 ## See below for details on last event's entertainment! 
 
