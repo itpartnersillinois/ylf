@@ -3,6 +3,7 @@ layout: secondary.liquid
 pageTitle: Community Day Celebration
 headerImage: /img/header/header-community.jpg
 ---
+
 Saturday October 5, 2024 {.byline}
 
 
