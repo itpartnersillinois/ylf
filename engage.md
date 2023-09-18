@@ -48,6 +48,7 @@ To join us in hosting a literacy-related Activity Table, [click here](https://fo
 
 You can volunteer by driving an author during the school visits. Interested? [Click Here](https://forms.illinois.edu/sec/1081886971). 
 
+Parking: Free Saturday parking in Lot [B1](https://www.parking.illinois.edu/maps/campus-parking-map), or at the [Campus Center Public Parking Deck](https://www.google.com/maps/place/Campus+Center+Public+Parking+Deck/@40.1113784,-88.2311801,15z/data=!4m6!3m5!1s0x880cd740a7e4a0ff:0xfdda8ab72b1e1da4!8m2!3d40.1113784!4d-88.2311801!16s%2Fg%2F11bw66brrt?entry=ttu)
 
 ![Volunteers posing with signs](/img/engage/vivian-dixon-2016-oct_-dsc01481.jpg)
 
