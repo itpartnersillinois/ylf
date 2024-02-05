@@ -25,55 +25,17 @@ Because of these generous sponsors, the Youth Literature Festival is a reality f
 
 {{ "https://www.youtube.com/embed/_KRXBz_VxQM" | addVideo }}
 
-## Thank you for the amazing people who joined the 2019 Youth Literature Festival Committees   
+## Thank you for the amazing people who make the Youth Literature Festival Happen   
 
-### 2019 Core Committee 
+### 2024 Core Committee 
 
-* Carol Scharlau
-* Karla Jean Moller
-* Linda Tammen
-* Nancy O'Brien
 * Victor H Perez
-* Violet J Harris
-* Vivian Felicio Dixon
-* William Trent
+* Mackenzie Gillespie
+* Karla Jean Moller
+* Nancy O'Brien
+* Sarah Park Dahlen 
+* Aly Stephenson
+* Idalia Nuñez
+* Ashley Lawrence 
+* Heather Zorn 
  
-### 2019 Planning Committee 
-
-Community Day{ .noindent }	
-
-* Diane Gustafson
-* Kathy Bennett 
-* Betsy Su, retired Library 
-* Shih-Mei Carmody
-
-Hospitality{ .noindent }	
-
-* Nancy O’Brien
-* Lekisha Hall
-
-School Engagement / Preparedness{ .noindent }	
-
-* Christine Cahill
-* Tiffanie Bui
-* Melissa Payne
-
-School Scheduling and Volunteer Drivers{ .noindent }	
-
-* Linda Tammen
-* Deb Newell  
-* Alexandra Bell
- 
-Entertainment{ .noindent }
-	
-* Mike Rogalla 
-* Kathie Kading
-* Amanda Raklovits
-
-Publicity & Marketing{ .noindent }	
-
-* Kimberlie Ann Kranich 
-* Elaine Bearden
-* Ashley Lawrence
-
-![Yolunteers](/img/home/dsc04636.jpg)
