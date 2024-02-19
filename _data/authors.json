@@ -77,11 +77,11 @@ e [
         "title": "Tiny Thinkers Series"
     },
     {
-        "biography": "Greg Neri is the Coretta Scott King Honor-winning author of Yummy: the Last Days of a Southside Shorty and the recipient of the Lee Bennett Hopkins Promising Poet Award for his free-verse novella, Chess Rumble. His books have been translated into multiple languages in over 25 countries. They include the novels Tru & Nelle, A Christmas Tale, Ghetto Cowboy, Knockout Games, Surf Mules, and the free-verse picture book bios, Hello, I'm Johnny Cash and When Paul Met Artie. In 2017, he was awarded a National Science Foundation grant that sent him to Antarctica to research a new book. Neri currently writes full-time and lives on the Gulf Coast of Florida with his wife and daughter.",
-        "url": "http://www.gneri.com/",
+        "biography": "Concrete Cowboy, Yummy: The Last Days of a Southside Shorty",
+        "url": "https://www.gregneri.com",
         "name": "Greg Neri",
-        "image": "/img/authors/Greg_Neri.jpg",
-        "title": "Magnolia Book Award Finalist"
+        "image": "/img/authors/Author Headshots/Greg Neri.jpeg",
+        "title": "Author" 
     },
     {
         "biography": "Patricia Hruby Powell, formerly a dancer, storyteller, and librarian, is the author of Struttin' With Some Barbecue: Lil Hardin Armstrong Becomes the First Lady of Jazz (2018), a Junior Library Guild Selection as well as Josephine: The Dazzling Life of Josephine Baker (2014), which garnered Sibert, Boston Globe Horn Book, and Bologna Ragazzi Honors; and Loving vs. Virginia (2017), a Junior Library Guild Selection and Arnold Adoff Poetry Honor. Forthcoming are books about Ella Baker, and women's suffrage. She has been a mentor for organizations such as We Need Diverse Books (WNDB) and Society of Children's Book Writers-Michigan.",
@@ -180,13 +180,6 @@ e [
         "name": "Hannah Moushabeck",
         "image": "/img/authors/Author Headshots/Hannah Moushabeck.jpg",
         "title": "Author, Editor, Marketer"
-    }, 
-    {
-        "biography": "Concrete Cowboy, Yummy: The Last Days of a Southside Shorty",
-        "url": "https://www.gregneri.com",
-        "name": "Greg Neri",
-        "image": "/img/authors/Author Headshots/Greg Neri.jpeg",
-        "title": "Author"
     }, 
     {
         "biography": "The Magic Fish",
