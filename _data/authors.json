@@ -140,11 +140,11 @@
         "title": "Children's Author"
     }, 
     {
-        "biography": "Assistant Professor, Children's Writer",
+        "biography": "Vitamina T for Tacos, Vitimina C for Cultura",
         "url": "https://suzannemateus.com",
         "name": "Suzanne Garcia-Mateus",
         "image": "/img/authors/Author Headshots/Suzanne Mateus.jpg",
-        "title": "Vitamina T for Tacos, Vitimina C for Cultura"
+        "title": "Assistant Professor, Children's Writer"
     }, 
     {
         "biography": "Lucha Libra: The Man in the Silver Mask, La Llorona Can't Scare Me",
@@ -180,6 +180,15 @@
         "name": "Hannah Moushabeck",
         "image": "/img/authors/Author Headshots/Hannah Moushabeck.jpg",
         "title": "Author, Editor, Marketer"
+    }, 
+    {
+        "biography": "",
+        "url": "https://www.gregneri.com",
+        "name": "Greg Neri",
+        "image": "/img/authors/Author Headshots/Greg Neri.jpeg",
+        "title": "Author"
     }
+    
+
     
 ]
