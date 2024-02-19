@@ -124,5 +124,14 @@
         "name": "Chris Barton",
         "image": "/img/authors/Author Headshots/Chris Barton.png",
         "title": "Glitter Everywhere!"
+    }, 
+    {
+        "biography": "Picture Book Author",
+        "url": "https://tamekafryerbrown.com",
+        "name": "Tameka Fryer Brown",
+        "image": "/img/authors/Author Headshots/Tameka Fryer Brown.jpg",
+        "title": "Twelve Dinging Doorbells"
     }
+
+
 ]
