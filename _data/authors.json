@@ -119,25 +119,25 @@
         "title": "Bluestem Book Award Nominee"
     }, 
     {
-        "biography": "Children's Author",
+        "biography": "Glitter Everywhere!",
         "url": "https://chrisbarton.info",
         "name": "Chris Barton",
         "image": "/img/authors/Author Headshots/Chris Barton.png",
-        "title": "Glitter Everywhere!"
+        "title": "Children's Author"
     }, 
     {
-        "biography": "Picture Book Author",
+        "biography": "Twelve Dinging Doorbells",
         "url": "https://tamekafryerbrown.com",
         "name": "Tameka Fryer Brown",
         "image": "/img/authors/Author Headshots/Tameka Fryer Brown.jpg",
-        "title": "Twelve Dinging Doorbells"
+        "title": "Picture Book Author"
     }, 
     {
-        "biography": "Children's Author",
+        "biography": "Jasmine Toguchi",
         "url": "https://debbimichikoflorence.com",
         "name": "Debbi Michiko Florence",
         "image": "/img/authors/Author Headshots/Debbi Michiko Florence.jpg",
-        "title": "Jasmine Toguchi Series"
+        "title": "Children's Author"
     }, 
     {
         "biography": "Assistant Professor, Children's Writer",
@@ -147,27 +147,24 @@
         "title": "Vitamina T for Tacos, Vitimina C for Cultura"
     }, 
     {
-        "biography": "Author/Illustrator",
+        "biography": "Lucha Libra: The Man in the Silver Mask, La Llorona Can't Scare Me",
         "url": "https://www.goodreads.com/author/show/289361.Xavier_Garza",
         "name": "Xavier Garza",
         "image": "/img/authors/Author Headshots/Xavier Garza.jpg",
-        "title": "Lucha Libra: The Man in the Silver Mask, La Llorona Can't Scare Me"
+        "title": "Author/Illustrator"
     }, 
     {
-        "biography": "Writer, Educator, Activist",
+        "biography": "When We Become Ours, Same and the Incredible African American Food Fight",
         "url": "https://www.shannongibney.com",
         "name": "Shannon Gibney",
         "image": "/img/authors/Author Headshots/Shannon Gibney.jpg",
-        "title": "When We Become Ours, Same and the Incredible African American Food Fight"
+        "title": "Writer, Educator, Activist"
     }, 
     {
-        "biography": "Storyteller, Poet, Children's Writer",
+        "biography": "Hurry Kate, or You'll be Late, Rooting for Plants",
         "url": "https://janiceharrington.com",
         "name": "Janice Harrington",
         "image": "/img/authors/Author Headshots/Janice Harrington.jpg",
-        "title": "Hurry Kate, or You'll be Late, Rooting for Plants"
+        "title": "Storyteller, Poet, Children's Writer"
     }
-
-
-
 ]
