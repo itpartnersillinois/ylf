@@ -22,6 +22,10 @@
     { 
         "name": "Sponsors",
         "url": "/sponsors/index.html"
+    }, 
+    {
+        "name": "Contact", 
+        "url": "/contact/index.html"
     },
     { 
         "name": "News and Resources",
