@@ -3,3 +3,4 @@ layout: secondary.liquid
 pageTitle: Contact
 headerImage: 
 ---
+{{ committee | contactList }}
