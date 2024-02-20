@@ -1,6 +1,6 @@
 ---
 layout: secondary.liquid
 pageTitle: Contact
-headerImage: 
+headerImage: /img/header/header-contact.jpg
 ---
 {{ committee | contactList }}
