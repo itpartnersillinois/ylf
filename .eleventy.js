@@ -54,4 +54,13 @@ module.exports = (function (eleventyConfig) {
     returnValue = returnValue + '</ul>';
     return returnValue;
   });
+
+  eleventyConfig.addFilter("committeeList", function (author) {
+    var returnValue = '<ul class="authorlist">';
+    author.forEach(element => {
+      returnValue = returnValue + `<li><img src="${element.image}" alt="${element.name}" ></a><p class="header"><a href="${element.url}">${element.name}</a></p></li>`;
+    });
+    returnValue = returnValue + '</ul>';
+    return returnValue;
+  });
 });
