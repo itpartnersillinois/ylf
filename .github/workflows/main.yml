@@ -15,10 +15,8 @@ jobs:
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
-        aws-access-key-id: AKIAXNR47MADAISLEYYZ
-        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_FOR_AKIAXNR47MADAISLEYYZ }}
+        aws-access-key-id: AKIAUMW7555D6E532WNH
+        aws-secret-access-key: ${{ secrets.SECRET_AKIAUMW7555D6E532WNH }}
         aws-region: us-east-2
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync ./_site/ s3://youthlitfest.education.illinois.edu/content --delete --acl bucket-owner-full-control
-    - name: Invalidate Cloudfront cache
-      run: aws cloudfront create-invalidation --distribution-id E6ZUTVO9JT0TX --paths "/*"
+      run: aws s3 sync ./_site/ s3://uiuc-itpartners-ylf-decap --delete --acl bucket-owner-full-control
