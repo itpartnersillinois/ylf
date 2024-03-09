@@ -1,0 +1,133 @@
+backend:
+  name: github
+  repo: bryanjonker-illinois/ylf-decap
+  branch: main
+media_folder: "img/uploads"
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home"
+        name: "index"
+        file: "index.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown }
+      - label: "Schools"
+        name: "schools"
+        file: "schools.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown }
+      - label: "Author List"
+        name: "authors"
+        file: "authors.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown }
+    files:
+      - label: "Community Day"
+        name: "community"
+        file: "community.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown }
+    files:
+      - label: "Engage"
+        name: "engage"
+        file: "engage.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown }
+    files:
+      - label: "Sponsors"
+        name: "sponsors"
+        file: "sponsors.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown }
+    files:
+      - label: "Contact"
+        name: "contact"
+        file: "contact.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown }
+    files:
+      - label: "News and Resources"
+        name: "news"
+        file: "news.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown }
+  - label: "Raw Data and Lists"
+    name: "data"
+    files:
+      - label: "Author List"
+        name: "authorsjson"
+        file: "_data/authors.json"
+        fields: 
+          - label: Authors
+            name: authors
+            widget: list
+            fields:
+              - {label: Author Name, name: name, widget: string}
+              - {label: Author Url, name: url, widget: string}
+              - {label: Author Title, name: title, widget: string}
+              - {label: Book Name, name: biography, widget: string}
+              - {label: Image, name: image, widget: image}
+      - label: "Committee List"
+        name: "committeelist"
+        file: "_data/committee.json"
+        fields: 
+          - label: Committee Members
+            name: committees
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Url, name: url, widget: string}
+              - {label: Image, name: image, widget: image}  
+      - label: "Sponsor List"
+        name: "sponsorlist"
+        file: "_data/sponsors.json"
+        fields: 
+          - label: Sponsors
+            name: sponsors
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Category, name: category, widget: select, options: ["Book Reader", "Book Lover", "Community Supporter", "Community Leader", "Bestseller", "Premier Circle", "Festival Sponsor" ] }
+  - label: "Menu Options"
+    name: "menuoptions"
+    files:
+      - label: "Page List"
+        name: "pagelistjson"
+        file: "_data/pagelist.json"
+        fields: 
+          - label: Pages 
+            name: pages
+            widget: list
+            fields:
+              - {label: Title, name: name, widget: string}
+              - {label: Relative Path, name: url, widget: string}
+      - label: "Main Menu Circles"
+        name: "circlesjson"
+        file: "_data/circles.json"
+        fields: 
+          - label: Circles 
+            name: circles
+            widget: list
+            fields:
+              - {label: "Large Number", name: number, widget: string}
+              - {label: Subject, name: subject, widget: string}
+              - {label: Verb, name: verb, widget: string}
+              - {label: Flyout, name: flyout, widget: text }

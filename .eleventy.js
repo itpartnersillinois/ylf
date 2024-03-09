@@ -12,7 +12,7 @@ module.exports = (function (eleventyConfig) {
     rightDelimiter: '}',
     allowedAttributes: []
   });
-
+  eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.setLibrary("md", markdownIt);
 
   eleventyConfig.addFilter("addVideo", function (video) {
@@ -48,7 +48,7 @@ module.exports = (function (eleventyConfig) {
 
   eleventyConfig.addFilter("authorList", function (author) {
     var returnValue = '<ul class="authorlist">';
-    author.forEach(element => {
+    author.authors.forEach(element => {
       returnValue = returnValue + `<li><img src="${element.image}" alt="${element.name}" data-info="${element.biography}" onmouseover="authorOver(this)" onmouseout="authorOut(this)"></a><p class="header"><a href="${element.url}">${element.name}</a></p><p class="subheader">${element.title}</p></li>`;
     });
     returnValue = returnValue + '</ul>';
