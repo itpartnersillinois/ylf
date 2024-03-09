@@ -1,10 +1,6 @@
 {
   "menu": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
       "name": "Schools",
       "url": "/schools/index.html"
     },
