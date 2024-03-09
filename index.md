@@ -5,7 +5,13 @@ headerImage: /img/header/homepage.png
 ---
 The **Youth Literature Festival** brings award-winning authors of youth literature to area schools in a three-day event, culminating in a Community Day Celebration with author panels, activities for kids, and performances to share with the whole family. A bi-annual event, the Festival is provided without cost to participants or school districts thanks to volunteers and generous sponsors.
 
-{{ "https://www.youtube.com/embed/KkP6ooj7WtM" || addVideo }}
+
+    <div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='undefined' frameborder='0' allowfullscreen></iframe></div>
+
+
+
+    <div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='undefined' frameborder='0' allowfullscreen></iframe></div>
+
 
 ## Literature is at the heart of our lives
 
@@ -21,13 +27,17 @@ The Youth Literature Festival is supported by the College of Education and the U
 
 Because of these generous sponsors, the Youth Literature Festival is a reality for thousands of K-12 students throughout central Illinois. Bringing this experience to directly to students would not otherwise be possible. Please join us in patronizing and recognizing our Festival sponsors.
 
-{{ "https://www.youtube.com/embed/R9WtDCXzJsM" | addVideo }}
 
-{{ "https://www.youtube.com/embed/_KRXBz_VxQM" | addVideo }}
+    <div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='undefined' frameborder='0' allowfullscreen></iframe></div>
 
-## Thank you for the amazing people who make the Youth Literature Festival Happen   
 
-### 2024 Core Committee 
+
+    <div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='undefined' frameborder='0' allowfullscreen></iframe></div>
+
+
+## Thank you for the amazing people who make the Youth Literature Festival Happen
+
+### 2024 Core Committee
 
 * Victor H Perez
 * Mackenzie Gillespie
@@ -37,5 +47,4 @@ Because of these generous sponsors, the Youth Literature Festival is a reality f
 * Aly Stephenson
 * Idalia Nuñez
 * Ashley Lawrence 
-* Heather Zorn 
- 
+* Heather Zorn
