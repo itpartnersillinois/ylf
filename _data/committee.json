@@ -1,48 +1,49 @@
-[
-  {
-    "url": "https://ischool.illinois.edu/people/sarah-park-dahlen",
-    "name": "Sarah Park Dahlen",
-    "image": "/img/committee/sarah-park-dahlen.jpg"
-  }, 
-  {
-    "url": "https://education.illinois.edu/people/mackenzie-gillespie",
-    "name": "Mackenzie Gillespie",
-    "image": "/img/committee/mackenzie_gillespie.jpg"
-  }, 
-  {
-    "url": "https://internal.education.illinois.edu/units/communications-office/our-team",
-    "name": "Ashley Lawrence",
-    "image": "/img/committee/ashley_lawrence.jpg"
-  }, 
-  {
-    "url": "https://education.illinois.edu/faculty/karla-j-mller",
-    "name": "Karla Moller",
-    "image": "/img/committee/karla_moller.jpg"
-  },
-  {
-    "url": "https://education.illinois.edu/faculty/idalia-nunez-cortez",
-    "name": "Idalia Nuñez Cortez",
-    "image": "/img/committee/idalia_nunez.jpg"
-  },
-  
-  {
-    "url": "https://experts.illinois.edu/en/persons/nancy-patricia-obrien",
-    "name": "Nancy O’Brien",
-    "image": "/img/committee/_unknown.jpg"
-  }, 
-  {
-    "url": "https://education.illinois.edu/people/victor-perez",
-    "name": "Victor Perez",
-    "image": "/img/committee/victor_perez.jpg"
-  }, 
-  {
-    "url": "https://education.illinois.edu/people/aly-stephenson",
-    "name": "Aly Stephenson",
-    "image": "/img/committee/aly_stephenson.jpg"
-  }, 
-  {
-    "url": "https://education.illinois.edu/alumni",
-    "name": "Heather Zorn",
-    "image": "/img/committee/heather_zorn.jpg"
-  }   
-]
+{
+  "members": [
+    {
+      "url": "https://ischool.illinois.edu/people/sarah-park-dahlen",
+      "name": "Sarah Park Dahlen",
+      "image": "/img/committee/sarah-park-dahlen.jpg"
+    },
+    {
+      "url": "https://education.illinois.edu/people/mackenzie-gillespie",
+      "name": "Mackenzie Gillespie",
+      "image": "/img/committee/mackenzie_gillespie.jpg"
+    },
+    {
+      "url": "https://internal.education.illinois.edu/units/communications-office/our-team",
+      "name": "Ashley Lawrence",
+      "image": "/img/committee/ashley_lawrence.jpg"
+    },
+    {
+      "url": "https://education.illinois.edu/faculty/karla-j-mller",
+      "name": "Karla Moller",
+      "image": "/img/committee/karla_moller.jpg"
+    },
+    {
+      "url": "https://education.illinois.edu/faculty/idalia-nunez-cortez",
+      "name": "Idalia Nuñez Cortez",
+      "image": "/img/committee/idalia_nunez.jpg"
+    },
+    {
+      "url": "https://experts.illinois.edu/en/persons/nancy-patricia-obrien",
+      "name": "Nancy O’Brien",
+      "image": "/img/committee/_unknown.jpg"
+    },
+    {
+      "url": "https://education.illinois.edu/people/victor-perez",
+      "name": "Victor Perez",
+      "image": "/img/committee/victor_perez.jpg"
+    },
+    {
+      "url": "https://education.illinois.edu/people/aly-stephenson",
+      "name": "Aly Stephenson",
+      "image": "/img/committee/aly_stephenson.jpg"
+    },
+    {
+      "url": "https://education.illinois.edu/alumni",
+      "name": "Heather Zorn",
+      "image": "/img/committee/heather_zorn.jpg"
+    }
+  ]
+}

@@ -21,17 +21,18 @@ module.exports = (function (eleventyConfig) {
 
   eleventyConfig.addFilter("menu", function (items) {
     var returnValue = '<ul>';
-    items.forEach(element => {
+    items.menu.forEach(element => {
       returnValue = returnValue + `<li><a href="${element.url}">${element.name}</a></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
   });
 
-  eleventyConfig.addFilter("formatSponsors", function (items) {
+  eleventyConfig.addFilter("formatSponsors", function (items, category) {
     var returnValue = '<div class="sponsorsgrid"> ';
-    items.forEach(element => {
-      returnValue = returnValue + (element.img == '' ? `<div class="sponsortext">${element.name}</div>` : `<div><img src='/img/sponsors/${element.img}' alt='${element.name}'></div>`);
+    items.sponsors.forEach(element => {
+      if (element.category == category)
+          returnValue = returnValue + (element.img == '' ? `<div class="sponsortext">${element.name}</div>` : `<div><img src='/img/sponsors/${element.img}' alt='${element.name}'></div>`);
     });
     returnValue = returnValue + '</div>';
     return returnValue;
@@ -39,7 +40,7 @@ module.exports = (function (eleventyConfig) {
   
   eleventyConfig.addFilter("circleFormat", function (items) {
     var returnValue = '<div class="circlecol"> ';
-    items.forEach(element => {
+    items.circles.forEach(element => {
       returnValue = returnValue + `<div class="circle circ1 blue" onmouseover="circleOver(this)" onmouseout="circleOut(this)"> <div class="circle-normal-text" style="display: block;"> <span class="number">${element.number}</span> <span class="text" style="text-transform:uppercase;font-size:.8em;"> <strong>${element.subject}</strong><br>${element.verb}</span> </div> <div style="display: none;" class="circle-highlighted-text">${element.subject}</div> <div class="flyout1" style="display: none;"> ${element.flyout}</div> </div>`;
     });
     returnValue = returnValue + '</div>';
@@ -55,9 +56,9 @@ module.exports = (function (eleventyConfig) {
     return returnValue;
   });
 
-  eleventyConfig.addFilter("committeeList", function (author) {
+  eleventyConfig.addFilter("committeeList", function (committee) {
     var returnValue = '<ul class="authorlist">';
-    author.forEach(element => {
+    committee.members.forEach(element => {
       returnValue = returnValue + `<li><img src="${element.image}" alt="${element.name}" ></a><p class="header"><a href="${element.url}">${element.name}</a></p></li>`;
     });
     returnValue = returnValue + '</ul>';

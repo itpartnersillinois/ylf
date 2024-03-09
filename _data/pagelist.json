@@ -1,34 +1,36 @@
-[
-    { 
-        "name": "Home",
-        "url": "/"
-    },
-    { 
-        "name": "Schools",
-        "url": "/schools/index.html"
-    },
-    { 
-        "name": "Authors",
-        "url": "/authors/index.html"
-    },
-    { 
-        "name": "Community Day",
-        "url": "/community/index.html"
-    },
-    { 
-        "name": "Engage",
-        "url": "/engage/index.html"
-    },
-    { 
-        "name": "Sponsors",
-        "url": "/sponsors/index.html"
-    }, 
-    {
-        "name": "Contact", 
-        "url": "/contact/index.html"
-    },
-    { 
-        "name": "News and Resources",
-        "url": "/news/index.html"
-    }
-]
+{
+    "menu": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "Schools",
+            "url": "/schools/index.html"
+        },
+        {
+            "name": "Authors",
+            "url": "/authors/index.html"
+        },
+        {
+            "name": "Community Day",
+            "url": "/community/index.html"
+        },
+        {
+            "name": "Engage",
+            "url": "/engage/index.html"
+        },
+        {
+            "name": "Sponsors",
+            "url": "/sponsors/index.html"
+        },
+        {
+            "name": "Contact",
+            "url": "/contact/index.html"
+        },
+        {
+            "name": "News and Resources",
+            "url": "/news/index.html"
+        }
+    ]
+}
