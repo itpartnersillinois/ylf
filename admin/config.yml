@@ -13,7 +13,7 @@ collections:
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed"] }
       - label: "Schools"
         name: "schools"
         file: "schools.md"
@@ -34,35 +34,35 @@ collections:
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
       - label: "Engage"
         name: "engage"
         file: "engage.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
       - label: "Sponsors"
         name: "sponsors"
         file: "sponsors.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
       - label: "Contact"
         name: "contact"
         file: "contact.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
       - label: "News and Resources"
         name: "news"
         file: "news.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, required: false, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
   - label: "Raw Data and Lists"
     name: "data"
     files:
