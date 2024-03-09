@@ -114,7 +114,7 @@ collections:
         file: "_data/pagelist.json"
         fields: 
           - label: Pages 
-            name: pages
+            name: pagelist
             widget: list
             fields:
               - {label: Title, name: name, widget: string}
