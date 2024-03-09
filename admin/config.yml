@@ -28,7 +28,6 @@ collections:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
           - {label: Body, name: body, widget: markdown }
-    files:
       - label: "Community Day"
         name: "community"
         file: "community.md"
@@ -36,7 +35,6 @@ collections:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
           - {label: Body, name: body, widget: markdown }
-    files:
       - label: "Engage"
         name: "engage"
         file: "engage.md"
@@ -44,7 +42,6 @@ collections:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
           - {label: Body, name: body, widget: markdown }
-    files:
       - label: "Sponsors"
         name: "sponsors"
         file: "sponsors.md"
@@ -52,7 +49,6 @@ collections:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
           - {label: Body, name: body, widget: markdown }
-    files:
       - label: "Contact"
         name: "contact"
         file: "contact.md"
@@ -60,7 +56,6 @@ collections:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
           - {label: Body, name: body, widget: markdown }
-    files:
       - label: "News and Resources"
         name: "news"
         file: "news.md"
