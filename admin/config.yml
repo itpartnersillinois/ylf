@@ -6,6 +6,7 @@ media_folder: "img/uploads"
 collections:
   - label: "Pages"
     name: "pages"
+    description: "The page list is hardcoded to a specific set. If you need a new page added, please contact support@education.illinois.edu"
     files:
       - label: "Home"
         name: "index"
@@ -65,6 +66,7 @@ collections:
           - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
   - label: "Raw Data and Lists"
     name: "data"
+    description: "This contains the raw data that feeds the author page, the sponsor page, and the committee page."
     files:
       - label: "Author List"
         name: "authorsjson"
@@ -103,6 +105,7 @@ collections:
               - {label: Category, name: category, widget: select, options: ["Book Reader", "Book Lover", "Community Supporter", "Community Leader", "Bestseller", "Premier Circle", "Festival Sponsor" ] }
   - label: "Menu Options"
     name: "menuoptions"
+    description: "This contains the page list for the menu structure and the circles that display on the home page."
     files:
       - label: "Page List"
         name: "pagelistjson"
@@ -114,7 +117,7 @@ collections:
             fields:
               - {label: Title, name: name, widget: string}
               - {label: Relative Path, name: url, widget: string}
-      - label: "Main Menu Circles"
+      - label: "Circles"
         name: "circlesjson"
         file: "_data/circles.json"
         fields: 
