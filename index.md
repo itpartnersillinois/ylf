@@ -6,7 +6,7 @@ headerImage: /img/header/homepage.png
 The **Youth Literature Festival** brings award-winning authors of youth literature to area schools in a three-day event, culminating in a Community Day Celebration with author panels, activities for kids, and performances to share with the whole family. A bi-annual event, the Festival is provided without cost to participants or school districts thanks to volunteers and generous sponsors.
 
 
-    <div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='undefined' frameborder='0' allowfullscreen></iframe></div>
+    https://www.youtube.com/embed/zgBTwtg7H8E?si=Jim9D2bGGi6FXZu4 | addVideo 
 
 
 ## Literature is at the heart of our lives
