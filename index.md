@@ -9,10 +9,6 @@ The **Youth Literature Festival** brings award-winning authors of youth literatu
     <div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='undefined' frameborder='0' allowfullscreen></iframe></div>
 
 
-
-    <div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='undefined' frameborder='0' allowfullscreen></iframe></div>
-
-
 ## Literature is at the heart of our lives
 
 The mission of The Youth Literature Festival is to place literature, and all the arts, at the heart of youths' lives. Started by the College of Education at the University of Illinois at Urbana-Champaign in 2008, the event celebrates the value of literature in the lives of youth by bringing together nationally known authors, illustrators, poets, and storytellers to share their stories, their craft, and their enthusiasm for books with children and teens.
@@ -26,14 +22,6 @@ The Festival, held every two years since 2008, leads off with authors visiting n
 The Youth Literature Festival is supported by the College of Education and the University Library at the University of Illinois at Urbana-Champaign, and happens thanks to the generosity of various businesses and individuals.
 
 Because of these generous sponsors, the Youth Literature Festival is a reality for thousands of K-12 students throughout central Illinois. Bringing this experience to directly to students would not otherwise be possible. Please join us in patronizing and recognizing our Festival sponsors.
-
-
-    <div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='undefined' frameborder='0' allowfullscreen></iframe></div>
-
-
-
-    <div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='undefined' frameborder='0' allowfullscreen></iframe></div>
-
 
 ## Thank you for the amazing people who make the Youth Literature Festival Happen
 
