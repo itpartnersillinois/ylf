@@ -3,17 +3,15 @@ layout: secondary.liquid
 pageTitle: Community Day Celebration
 headerImage: /img/header/header-community.jpg
 ---
-
 Saturday October 5, 2024 {.byline}
-
-
 
 ## [Campus Instructional Facility](https://cif.illinois.edu/)
 
 Champaign-Urbana and surrounding area families and community members are invited to celebrate youth literature at the Festival's Community Day Celebration, a free event, open to the public. Author readings, book signings, puppet shows, live music, art displays, and a variety of hands-on activities for children will all be part of the fun!
 
 ## Parking Information
-Free Saturday parking will be available in [Lot B1](https://www.parking.illinois.edu/maps/campus-parking-map) or at the [Campus Center Public Parking Deck](https://www.google.com/maps/place/Campus+Center+Public+Parking+Deck/@40.1113784,-88.2311801,15z/data=!4m6!3m5!1s0x880cd740a7e4a0ff:0xfdda8ab72b1e1da4!8m2!3d40.1113784!4d-88.2311801!16s%2Fg%2F11bw66brrt?entry=ttu). Both are nearby within walking distance to the Campus Instrucional Facility. 
+
+Free Saturday parking will be available in [Lot B1](https://www.parking.illinois.edu/maps/campus-parking-map) or at the [Campus Center Public Parking Deck](https://www.google.com/maps/place/Campus+Center+Public+Parking+Deck/@40.1113784,-88.2311801,15z/data=!4m6!3m5!1s0x880cd740a7e4a0ff:0xfdda8ab72b1e1da4!8m2!3d40.1113784!4d-88.2311801!16s%2Fg%2F11bw66brrt?entry=ttu). Both are nearby within walking distance to the Campus Instructional Facility. 
 
 ## Community Day Schedule of Events
 
@@ -21,8 +19,7 @@ The 2024 Community Day schedule at the Campus Instructional Facility will be rel
 
 ![Community Day Schedule](/img/community/schedule-sessions-draft-12-revised_3-21-19.png)
 
-
-## Entertainment 
+## Entertainment
 
 Details on the 2024 event entertainment will be available soon. See below for details on last event's entertainment! 
 
@@ -32,13 +29,11 @@ Details on the 2024 event entertainment will be available soon. See below for de
 
 ![Girls holding portaits down](/img/community/vivian-dixon-2016-oct_-dsc01498.jpg?sfvrsn=57121188_0)
 
-
 ## Dan Wild
 
 Dan Wild is a published illustrator, award winning designer, and caricaturist with 15 years of experience in the fields of advertising, marketing and commercial art. Come to the Youth Literature Festival on Saturday, March 30th, Dan Wild would love to do your caricature! 
 
  For more information about the Dan Wild, [visit the website](http://www.danwild.com/caricature.html).
-
 
 ### Banks Bridgewater Lewis (BBL) Fine Arts Academy Performance
 
@@ -86,13 +81,13 @@ Elizabeth Goldsmith-Conley’s Portable Poppets Playhouse will present The Three
 
 For more information about the Portable Poppets Playhouse, [visit their website](http://www.portablepoppets.com/).
 
-### Kim Sheahan, Storyteller 
+### Kim Sheahan, Storyteller
 
 ![Kim Sheahan](/img/community/kim-sheahan-storyteller-1.jpg){.left} Sheahan has been a central Illinois educator since 1991, incorporating oral traditions into her multicultural programs at the University of Illinois' Spurlock Museum. She is a storyteller for about ten years and has performed folktales and one-woman shows at storytelling festivals, school assemblies, city-wide celebrations, personal parties, and gatherings of all kinds ever since. 
 
 Her enthusiasm is both unmistakable and contagious. Come to the Youth Literature Festival and let Kim Sheahan share the joy and power of the tale with you! 
 
-For more information about the Kim Sheahan, [visit the website](https://www.kimsheahan.com/default.html).
+[Learn more about Kim Sheahan](https://www.kimsheahan.com/default.html).
 
 ## THANK YOU to all our Activity Room Partners!
 
@@ -101,4 +96,3 @@ For more information about the Kim Sheahan, [visit the website](https://www.kims
 If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs.
 
 {{ "https://www.youtube.com/embed/R9WtDCXzJsM" | addVideo }}
-
