@@ -14,56 +14,56 @@ collections:
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed"] }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
       - label: "Schools"
         name: "schools"
         file: "schools.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
       - label: "Author List"
         name: "authors"
         file: "authors.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
       - label: "Community Day"
         name: "community"
         file: "community.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
       - label: "Engage"
         name: "engage"
         file: "engage.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
       - label: "Sponsors"
         name: "sponsors"
         file: "sponsors.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
       - label: "Contact"
         name: "contact"
         file: "contact.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
       - label: "News and Resources"
         name: "news"
         file: "news.md"
         fields:
           - {label: Title, name: pageTitle, widget: string}
           - {label: "Heading Image", name: headerImage, widget: image, required: false, allow_multiple: false }
-          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "codeblock", "youtube-embed"] }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
   - label: "Raw Data and Lists"
     name: "data"
     description: "This contains the raw data that feeds the author page, the sponsor page, and the committee page."
@@ -86,7 +86,7 @@ collections:
         file: "_data/committee.json"
         fields: 
           - label: Committee Members
-            name: committees
+            name: members
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
@@ -116,7 +116,7 @@ collections:
             widget: list
             fields:
               - {label: Title, name: name, widget: string}
-              - {label: Relative Path, name: url, widget: string}
+              - {label: Relative Path, name: url, widget: string, hint: "Can be a relative path for internal links, or an external url"}
       - label: "Circles"
         name: "circlesjson"
         file: "_data/circles.json"
