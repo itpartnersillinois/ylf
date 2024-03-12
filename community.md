@@ -3,7 +3,9 @@ layout: secondary.liquid
 pageTitle: Community Day Celebration
 headerImage: /img/header/header-community.jpg
 ---
+
 Saturday October 5, 2024 {.byline}
+
 
 ## [Campus Instructional Facility](https://cif.illinois.edu/)
 
@@ -23,7 +25,9 @@ The 2024 Community Day schedule at the Campus Instructional Facility will be rel
 
 Details on the 2024 event entertainment will be available soon. See below for details on last event's entertainment! 
 
+
 {{ "https://www.youtube.com/embed/_KRXBz_VxQM" || addVideo }}
+
 
 ![Girls holding portaits over their faces](/img/community/vivian-dixon-2016-oct_-dsc01497.jpg?sfvrsn=57121188_0)
 
@@ -46,6 +50,8 @@ Now, Banks Bridgewater Lewis Fine Arts Academy (BBL Fine Arts Academy). The name
 The objective is to offer jazz and popular music enrichment activities that encourage school age, low-income students in upper elementary through high school of all races, genders, and economic statuses to strive for excellence so they can participate and compete in their local school bands and choirs.
 
 For more information about the BBL Fine Arts Academy, [visit their website](https://www.bblfineartsacademy.com/gallery.html).
+
+![Cute cats sleeping](/img/uploads/dsc_0400.jpg)
 
 ### Centro LCV Capoeira
 
@@ -95,4 +101,5 @@ Her enthusiasm is both unmistakable and contagious. Come to the Youth Literature
 
 If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs.
 
-{{ "https://www.youtube.com/embed/R9WtDCXzJsM" | addVideo }}
+
+{{ "https://www.youtube.com/embed/R9WtDCXzJsM" || addVideo }}
