@@ -51,8 +51,6 @@ The objective is to offer jazz and popular music enrichment activities that enco
 
 For more information about the BBL Fine Arts Academy, [visit their website](https://www.bblfineartsacademy.com/gallery.html).
 
-![Cute cats sleeping](/img/uploads/dsc_0400.jpg)
-
 ### Centro LCV Capoeira
 
 ![Centro LCV Capoeira](/img/community/capoeira-angola-lcv-3.jpg)
