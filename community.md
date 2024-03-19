@@ -4,6 +4,7 @@ pageTitle: Community Day Celebration
 headerImage: /img/header/header-community.jpg
 ---
 
+
 Saturday October 5, 2024 {.byline}
 
 
@@ -17,9 +18,9 @@ Free Saturday parking will be available in [Lot B1](https://www.parking.illinois
 
 ## Community Day Schedule of Events
 
-The 2024 Community Day schedule at the Campus Instructional Facility will be released closer to the event. Please see below for details of the 2019 schedule of events at the I-Hotel. 
+The 2024 Community Day schedule at the Campus Instructional Facility will be released closer to the event. 
 
-![Community Day Schedule](/img/community/schedule-sessions-draft-12-revised_3-21-19.png)
+![Community Day Schedule]()
 
 ## Entertainment
 
