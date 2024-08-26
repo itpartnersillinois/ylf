@@ -5,6 +5,7 @@ headerImage: /img/header/header-community.jpg
 ---
 
 
+
 Saturday October 5, 2024, 9:30am - 3:00pm {.byline}
 
 
@@ -22,9 +23,7 @@ A limited number of prepaid, bagged meter spots will be available outside of the
 
 **S﻿aturday, October 5th, 9:30am-3pm**
 
-The final 2024 Community Day schedule at the Campus Instructional Facility will be released soon!
-
-![Community Day Schedule]()
+![Community Day Schedule](/img/uploads/community-day-schedule-2024.jpg)
 
 ## Entertainment
 
