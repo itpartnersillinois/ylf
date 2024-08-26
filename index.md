@@ -36,3 +36,4 @@ Because of these generous sponsors, the Youth Literature Festival is a reality f
 * Idalia Nuñez
 * Ashley Lawrence 
 * Heather Zorn
+* E﻿mily Stone
