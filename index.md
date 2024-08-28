@@ -25,7 +25,7 @@ Because of these generous sponsors, the Youth Literature Festival is a reality f
 
 ## Thank you for the amazing people who make the Youth Literature Festival Happen
 
-### 2024 Core Committee
+### 2024 Planning Committee
 
 * Victor H Perez
 * Mackenzie Gillespie
@@ -36,3 +36,4 @@ Because of these generous sponsors, the Youth Literature Festival is a reality f
 * Idalia Nuñez
 * Ashley Lawrence 
 * Heather Zorn
+* E﻿mily Stone
