@@ -1,192 +1,22 @@
 {
   "sponsors": [
     {
-      "name": "Brilliance Publishing",
-      "img": "brilliance_publishing.png",
-      "category": "Bestseller"
-    },
-    {
-      "name": "WILL TV",
-      "img": "will-tv-logo-250.png",
-      "category": "Bestseller"
-    },
-    {
       "name": "Dr. Janis Chadsey & Mr. Alfred S. Davis",
       "img": "",
-      "category": "Bestseller"
+      "category": "Community Supporter"
     },
     {
       "name": "Prof. Katherine Ryan",
       "img": "",
-      "category": "Bestseller"
-    },
-    {
-      "name": "Amazon Publishing",
-      "img": "amazon-publishing_300px.png",
-      "category": "Book Lover"
-    },
-    {
-      "name": "Chronicle Books",
-      "img": "cb_kids_logo_300px.jpg",
-      "category": "Book Lover"
-    },
-    {
-      "name": "Simon & Schuster Children's Publishing",
-      "img": "sands-childrens-publishing-logo_200px.png",
-      "category": "Book Lover"
-    },
-    {
-      "name": "Rosen Publishing",
-      "img": "rosen_publishing-200.jpg",
-      "category": "Book Lover"
-    },
-    {
-      "name": "U of I Community Credit Union",
-      "img": "uiccu_horiz-cmyk.png",
-      "category": "Book Lover"
-    },
-    {
-      "name": "MTD Champaign-Urbana Mass Transit District",
-      "img": "cumtd-logo-with-name-copy-200.jpg",
-      "category": "Book Lover"
-    },
-    {
-      "name": "Arte Public Press",
-      "img": "app_horizontal_book-lover.jpg",
-      "category": "Book Lover"
-    },
-    {
-      "name": "Rare Bird",
-      "img": "rare-bird-logo_200px.jpg",
-      "category": "Book Lover"
-    },
-    {
-      "name": "Champaign West Rotary",
-      "img": "champaign-west-rotary-200.png",
-      "category": "Book Lover"
-    },
-    {
-      "name": "Cinco Puntos Press",
-      "img": "cincopuntospress_250px.jpg",
-      "category": "Book Lover"
-    },
-    {
-      "name": "Dr. Chia-Chun Chang",
-      "img": "",
-      "category": "Book Lover"
-    },
-    {
-      "name": "Marland D. Williams Jr. Elementary School",
-      "img": "williams.jpg",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Countryside School",
-      "img": "countryside-logo.jpg",
-      "category": "Book Reader"
+      "category": "Community Leader"
     },
     {
       "name": "Cozad Asset Management, Inc.",
       "img": "cozad-asset-200.png",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Houlihan's Restaurant + Bar",
-      "img": "houlihans_logo_200px.jpg",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Hamilton Walker's",
-      "img": "hamiltonwalker_logo_200px.png",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Biaggi's Ristorante Italiano",
-      "img": "biaggis_logo_200px.jpg",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Human Kinetics",
-      "img": "hk-logo_color.jpg",
-      "category": "Book Reader"
-    },
-    {
-      "name": "August House",
-      "img": "august-house.png",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Roost",
-      "img": "roost-logo_9-9_refined.jpg",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Lesa & Ben Brandt",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Gregory & Kristin Cozad",
-      "img": "",
-      "category": "Book Reader"
+      "category": "Community Supporter"
     },
     {
       "name": "Linda Darr",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Dr. Robert & Cheryl Easter",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "David & Kay Grabow",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Dr. Margaret G. and J.L. Jobe",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Dr. Jame & Robin Leonard",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Louis & Mary Liay",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Gina Manola",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Rainer & Julie Marten",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Linda Moore",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Cheryl Nims",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Dr. Rity Radhakrishnan",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Rosalie Schmitt",
       "img": "",
       "category": "Book Reader"
     },
@@ -196,129 +26,14 @@
       "category": "Book Reader"
     },
     {
-      "name": "Gerry Smith",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Dr. Angela & Evan Tammen",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Gayle Wildman",
-      "img": "",
-      "category": "Book Reader"
-    },
-    {
-      "name": "Altrusa International",
-      "img": "altrusa-international-250.jpg",
-      "category": "Community Leader"
-    },
-    {
-      "name": "Boyds Mills Press",
-      "img": "boyds_mill_press-250.png",
-      "category": "Community Leader"
-    },
-    {
-      "name": "Cricket Media, Magazines for Kids",
-      "img": "cricket-media-logo-250.png",
-      "category": "Community Leader"
-    },
-    {
-      "name": "Lerner",
-      "img": "lerner-logo-250.jpg",
-      "category": "Community Leader"
-    },
-    {
-      "name": "Vanguard Charitable",
-      "img": "vanguard-250px.jpg",
-      "category": "Community Leader"
-    },
-    {
-      "name": "Great News Radio, Prime Life Times",
-      "img": "great-news-radio-250.png",
-      "category": "Community Leader"
-    },
-    {
-      "name": "Timothy L. & Roberta M. Killeen",
-      "img": "",
-      "category": "Community Leader"
-    },
-    {
       "name": "Nancy O'Brien",
       "img": "",
       "category": "Community Leader"
     },
     {
-      "name": "Edwin A. & Carol A. Scharlau",
-      "img": "",
-      "category": "Community Leader"
-    },
-    {
-      "name": "Christie Clinic",
-      "img": "christie-clinic_200px.jpg",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Charlesbridge",
-      "img": "charlesbridge-logo_200px.png",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Disney Publishing Worldwide",
-      "img": "disney-publishing_300.png",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Candlewick Press",
-      "img": "c-flame_300px.jpg",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Creston Books",
-      "img": "creston_publishing-250.jpg",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Busey Bank",
-      "img": "busey-bank-logo.jpg",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Harper Collins Publishers",
-      "img": "harper-colllins-publishers.png",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Kiwanis",
-      "img": "kiwanis_logo-250.png",
-      "category": "Community Supporter"
-    },
-    {
       "name": "Kalah L. Babbs",
       "img": "",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Dr. W.C. & Kathryn L. Pettus",
-      "img": "",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Margaret P. Stillwell",
-      "img": "",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Linda M. Tammen",
-      "img": "",
-      "category": "Community Supporter"
-    },
-    {
-      "name": "Prof. William Trent",
-      "img": "",
-      "category": "Community Supporter"
+      "category": "Book Lover"
     },
     {
       "name": "Illinois College of Education",
@@ -336,9 +51,72 @@
       "category": "Festival Sponsor"
     },
     {
-      "name": "The News-Gazette",
-      "img": "news_gazette.png",
-      "category": "Premier Circle"
+      "name": "Urbana Arts and Culture Program",
+      "image": "/img/uploads/urbana-arts-and-culture.png",
+      "category": "Community Leader"
+    },
+    {
+      "name": "Dixon Graphics",
+      "image": "/img/uploads/dixon-graphics.png",
+      "category": "Community Leader"
+    },
+    {
+      "name": "Dr. Mackenzie and Mr. Alec Gillespie",
+      "category": "Community Supporter"
+    },
+    {
+      "name": "United way of Champaign County",
+      "image": "/img/uploads/united-way-champaign.png",
+      "category": "Community Supporter"
+    },
+    {
+      "name": "Russian, East European, & Eurasian Center",
+      "category": "Community Supporter"
+    },
+    {
+      "name": "2 Girls in the Garden",
+      "image": "/img/uploads/2-girls-in-the-garden.jpg",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Dankle, Brunson, and Lee Family Dentistry",
+      "image": "/img/uploads/dankle_brunson_lee.png",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Asian American Cultural Center",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Prairie State Bank",
+      "image": "/img/uploads/prairie-state-bank.png",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Dr. Sarah and Mr. Jeffrey Dahlen",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Smile Politely",
+      "image": "/img/uploads/smile-politely.jpg",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Watson's Shack and Rail",
+      "image": "/img/uploads/watson-s-shack-and-rail.png",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Chambana Moms",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Donna Reichmann",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Mr. Michael Ross & Mrs. Taya Luderowski-Ross",
+      "category": "Book Reader"
     }
   ]
 }
