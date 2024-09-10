@@ -32,7 +32,7 @@ module.exports = (function (eleventyConfig) {
     var returnValue = '<div class="sponsorsgrid"> ';
     items.sponsors.forEach(element => {
       if (element.category == category)
-          returnValue = returnValue + (element.img == '' ? `<div class="sponsortext">${element.name}</div>` : `<div><img src='/img/sponsors/${element.img}' alt='${element.name}'></div>`);
+          returnValue = returnValue + (element.img === undefined && element.image != '' ? `<div><img src='${element.image}' alt='${element.name}'></div>` : element.img == '' ? `<div class="sponsortext">${element.name}</div>` : `<div><img src='/img/sponsors/${element.img}' alt='${element.name}'></div>`);
     });
     returnValue = returnValue + '</div>';
     return returnValue;
