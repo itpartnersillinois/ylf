@@ -7,6 +7,7 @@ headerImage: /img/header/header-community.jpg
 
 
 
+
 Saturday October 5, 2024, 9:30am - 3:00pm {.byline}
 
 
@@ -30,10 +31,6 @@ S﻿ee below for the 2024 schedule of events. The building layout for the Campus
 
 ## Entertainment
 
-
-{{ "https://www.youtube.com/embed/_KRXBz_VxQM" || addVideo }}
-
-
 ![Girls holding portaits over their faces](/img/community/vivian-dixon-2016-oct_-dsc01497.jpg?sfvrsn=57121188_0)
 
 ![Girls holding portaits down](/img/community/vivian-dixon-2016-oct_-dsc01498.jpg?sfvrsn=57121188_0)
@@ -52,19 +49,13 @@ Performers will be a [1st Choice Music Services](https://urldefense.com/v3/__ht
 \
 This program is supported by the [Urbana Arts and Culture Commission](https://urldefense.com/v3/__https://urbanaillinois.us/boards/urbana-arts-and-culture-commission__;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfk4Ux-h4$ "https\://urldefense.com/v3/\_\_https\://urbanaillinois.us/boards/urbana-arts-and-culture-commission\_\_;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfk4Ux-h4$") and a [State of Illinois Back to Business Grant.](https://urldefense.com/v3/__https://dceo.illinois.gov/smallbizassistance/b2b.html__;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfo5AzGrM$ "https\://urldefense.com/v3/\_\_https\://dceo.illinois.gov/smallbizassistance/b2b.html\_\_;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfo5AzGrM$")  
 
-![Puppetry Performances ](/img/community/eliz-p-j.jpg)
+![Puppetry Performances ](/img/uploads/418898602_399151999437630_8537933908705267986_n.jpg)
 
-Elizabeth Goldsmith-Conley is a puppeteer with a long career in education. She has taught at all levels from nursery school through college and has worked with both gifted and struggling students in inner city schools as well in exclusive private schools. She is a talented performer who has used her special expertise in reading and literacy to enrich her performances and workshops.
 
-Elizabeth Goldsmith-Conley’s Portable Poppets Playhouse will present The Three Wishes, an amusing update of a classic folktale. Come see the show to find out why Hedwig has sausages hanging from her nose and what Ludwig plans to do with his axe.
-
-For more information about the Portable Poppets Playhouse, [visit their website](http://www.portablepoppets.com/).
-
-[Learn more about Kim Sheahan](https://www.kimsheahan.com/default.html).
 
 ## Activity Room Partners
 
-A﻿long with our entertainment performers this year, the festival will welcome a number of local community organizations and centers to offer a selection of fun, literacy-based activity tables for children and their families. Among this year's activity table partners is United Way of Champaign County, bringing a pop-up of their [Dolly Parton Imagination Library](https://www.unitedwaychampaign.org/ImaginationLibrary); the Champaign Public Library, and more! 
+A﻿long with our entertainment performers this year, the festival will welcome a number of local community organizations and centers to offer a selection of fun, literacy-based activity tables for children and their families. Among this year's activity table partners is United Way of Champaign County, bringing a pop-up of their [Dolly Parton Imagination Library](https://www.unitedwaychampaign.org/ImaginationLibrary); the Urbana Free Library; The Illinois Board on Books for Young People; Fun Faces and Balloons doing face painting, and more!
 
 ![Students sitting around a table talking about the IDEA store](/img/community/2016-community-day-5.jpg)
 
