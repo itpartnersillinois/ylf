@@ -31,8 +31,15 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("formatSponsors", function (items, category) {
     var returnValue = '<div class="sponsorsgrid"> ';
     items.sponsors.forEach(element => {
-      if (element.category == category)
-          returnValue = returnValue + (element.img === undefined && element.image != '' ? `<div><img src='${element.image}' alt='${element.name}'></div>` : element.img == '' ? `<div class="sponsortext">${element.name}</div>` : `<div><img src='/img/sponsors/${element.img}' alt='${element.name}'></div>`);
+      if (element.category == category) {
+        let imagePath = '';
+        if (element.img !== undefined && element.img != '') {
+          imagePath = '/img/sponsors/' + element.img;
+        } else if (element.image !== undefined && element.image != '') {
+          imagePath = element.image;
+        }
+        returnValue = returnValue + (imagePath != '' ? `<div><img src='${imagePath}' alt='${element.name}'></div>` : `<div class="sponsortext">${element.name}</div>`);
+      }
     });
     returnValue = returnValue + '</div>';
     return returnValue;
