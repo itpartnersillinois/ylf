@@ -8,6 +8,7 @@ headerImage: /img/header/header-community.jpg
 
 
 
+
 Saturday October 5, 2024, 9:30am - 3:00pm {.byline}
 
 
@@ -24,6 +25,8 @@ A limited number of prepaid, bagged meter spots will be available outside of the
 ## Community Day Schedule of Events
 
 **S﻿aturday, October 5th, 9:30am-3pm**
+
+**[C﻿lick here for downloadable PDF. ](img/uploads/community-day-schedule-2024.pdf)**
 
 S﻿ee below for the 2024 schedule of events. The building layout for the Campus Instructional Facility can be found [here](https://cif.illinois.edu/building-layout/). 
 
@@ -50,8 +53,6 @@ Performers will be a [1st Choice Music Services](https://urldefense.com/v3/__ht
 This program is supported by the [Urbana Arts and Culture Commission](https://urldefense.com/v3/__https://urbanaillinois.us/boards/urbana-arts-and-culture-commission__;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfk4Ux-h4$ "https\://urldefense.com/v3/\_\_https\://urbanaillinois.us/boards/urbana-arts-and-culture-commission\_\_;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfk4Ux-h4$") and a [State of Illinois Back to Business Grant.](https://urldefense.com/v3/__https://dceo.illinois.gov/smallbizassistance/b2b.html__;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfo5AzGrM$ "https\://urldefense.com/v3/\_\_https\://dceo.illinois.gov/smallbizassistance/b2b.html\_\_;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfo5AzGrM$")  
 
 ![Puppetry Performances ](/img/uploads/418898602_399151999437630_8537933908705267986_n.jpg)
-
-
 
 ## Activity Room Partners
 
