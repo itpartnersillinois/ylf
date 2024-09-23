@@ -8,7 +8,8 @@ headerImage: /img/header/header-community.jpg
 
 
 
-Saturday October 5, 2024, 9:30am - 3:00pm {.byline}
+
+Saturday October 5, 2024, 9:30am - 3:30pm {.byline}
 
 
 ## [Campus Instructional Facility](https://cif.illinois.edu/)
@@ -19,11 +20,13 @@ Champaign-Urbana and surrounding area families and community members are invited
 
 Free weekend parking is available in [Lot B1](https://maps.app.goo.gl/AL7ZxnzsSvhUCZh39) at the corner of Springfield and Matthews. Additional metered parking is available at the [Campus Center Public Parking Deck](https://maps.app.goo.gl/CU1wcmxoUWay7NS97), at the meters along Springfield Ave and Wright Street, and any other open meters surrounding the building area. 
 
-A limited number of prepaid, bagged meter spots will be available outside of the building on Springfield Avenue for those with disability and mobility-related issues. If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs.
+A limited number of prepaid, bagged meter spots will be available outside of the Grainger Library on Springfield Avenue (East of the cross-walk) for those with disability and mobility-related issues. If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs
 
 ## Community Day Schedule of Events
 
-**S﻿aturday, October 5th, 9:30am-3pm**
+**S﻿aturday, October 5th, 9:30am-3:30pm**
+
+**[C﻿lick here for downloadable PDF. ](img/uploads/community-day-schedule-2024.pdf)**
 
 S﻿ee below for the 2024 schedule of events. The building layout for the Campus Instructional Facility can be found [here](https://cif.illinois.edu/building-layout/). 
 
@@ -50,8 +53,6 @@ Performers will be a [1st Choice Music Services](https://urldefense.com/v3/__ht
 This program is supported by the [Urbana Arts and Culture Commission](https://urldefense.com/v3/__https://urbanaillinois.us/boards/urbana-arts-and-culture-commission__;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfk4Ux-h4$ "https\://urldefense.com/v3/\_\_https\://urbanaillinois.us/boards/urbana-arts-and-culture-commission\_\_;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfk4Ux-h4$") and a [State of Illinois Back to Business Grant.](https://urldefense.com/v3/__https://dceo.illinois.gov/smallbizassistance/b2b.html__;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfo5AzGrM$ "https\://urldefense.com/v3/\_\_https\://dceo.illinois.gov/smallbizassistance/b2b.html\_\_;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfo5AzGrM$")  
 
 ![Puppetry Performances ](/img/uploads/418898602_399151999437630_8537933908705267986_n.jpg)
-
-
 
 ## Activity Room Partners
 
