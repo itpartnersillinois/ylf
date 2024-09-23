@@ -9,7 +9,7 @@ headerImage: /img/header/header-community.jpg
 
 
 
-Saturday October 5, 2024, 9:30am - 3:00pm {.byline}
+Saturday October 5, 2024, 9:30am - 3:30pm {.byline}
 
 
 ## [Campus Instructional Facility](https://cif.illinois.edu/)
@@ -20,11 +20,11 @@ Champaign-Urbana and surrounding area families and community members are invited
 
 Free weekend parking is available in [Lot B1](https://maps.app.goo.gl/AL7ZxnzsSvhUCZh39) at the corner of Springfield and Matthews. Additional metered parking is available at the [Campus Center Public Parking Deck](https://maps.app.goo.gl/CU1wcmxoUWay7NS97), at the meters along Springfield Ave and Wright Street, and any other open meters surrounding the building area. 
 
-A limited number of prepaid, bagged meter spots will be available outside of the building on Springfield Avenue for those with disability and mobility-related issues. If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs.
+A limited number of prepaid, bagged meter spots will be available outside of the Grainger Library on Springfield Avenue (East of the cross-walk) for those with disability and mobility-related issues. If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs
 
 ## Community Day Schedule of Events
 
-**S﻿aturday, October 5th, 9:30am-3pm**
+**S﻿aturday, October 5th, 9:30am-3:30pm**
 
 **[C﻿lick here for downloadable PDF. ](img/uploads/community-day-schedule-2024.pdf)**
 
