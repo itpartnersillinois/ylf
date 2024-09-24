@@ -10,6 +10,7 @@ headerImage: /img/header/header-community.jpg
 
 
 
+
 Saturday October 5, 2024, 9:30am - 3:30pm {.byline}
 
 
@@ -31,7 +32,7 @@ A limited number of prepaid, bagged meter spots will be available outside of the
 
 S﻿ee below for the 2024 schedule of events. The building layout for the Campus Instructional Facility can be found [here](https://cif.illinois.edu/building-layout/). 
 
-![Community Day Schedule](/img/uploads/community-day-schedule-2024.jpg)
+![Community Day Schedule](/img/uploads/community_day.png)
 
 ## Entertainment
 
