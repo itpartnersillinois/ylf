@@ -122,6 +122,36 @@
       "name": "EZ 99.7 FM",
       "image": "/img/uploads/ez997.png",
       "category": "Book Reader"
+    },
+    {
+      "name": "Mix 94.5 FM",
+      "image": "/img/uploads/mix-94.5-color.png",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Rewind 92.5 FM",
+      "image": "/img/uploads/rewind-925-notag.png",
+      "category": "Book Reader"
+    },
+    {
+      "name": "97.9 FM The Vibe",
+      "image": "/img/uploads/the-vibe-no-tag.png",
+      "category": "Book Reader"
+    },
+    {
+      "name": "WIXY 100.3 FM",
+      "image": "/img/uploads/wixy-color.png",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Xtra 96.9 FM",
+      "image": "/img/uploads/wixy-hd2-rgb.png",
+      "category": "Book Reader"
+    },
+    {
+      "image": "/img/uploads/wyxy-color.png",
+      "name": "WYXY 99.1 FM",
+      "category": "Book Reader"
     }
   ]
 }
