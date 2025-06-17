@@ -1,22 +1,22 @@
 {
-    "circles": [
-        {
-            "number": "19,245+",
-            "subject": "Students",
-            "verb": "Served",
-            "flyout": "We have reached 19,000+ students, within 90+ schools and 16 School Districts. More than half of the school children in Illinois now qualify as low-income students and some of the schools our authors’ visit have as high as 99 percent low income student populations. By bringing authors to the schools, we give entire student populations the opportunity to meet famous authors and share in their love of literature, which is inspiring for all."
-        },
-        {
-            "number": "20+",
-            "subject": "Authors",
-            "verb": "Invited",
-            "flyout": "61 authors have visited our Festival since 2008. These authors have received a combined total of over 275 awards and special recognitions for their published works."
-        },
-        {
-            "number": "120+",
-            "subject": "Community",
-            "verb": "Volunteers",
-            "flyout": "120+ Community Members, Local Business, and Organizations from our community and hundreds of volunteers have supported the Festival and the Community Day Celebration since 2008."
-        }
-    ]
+  "circles": [
+    {
+      "number": "20,000+",
+      "subject": "Students",
+      "verb": "Served",
+      "flyout": "We have reached 20,000+ students, within 90+ schools and 16 School Districts. More than half of the school children in Illinois now qualify as low-income students and some of the schools our authors’ visit have as high as 99 percent low income student populations. By bringing authors to the schools, we give entire student populations the opportunity to meet famous authors and share in their love of literature, which is inspiring for all."
+    },
+    {
+      "number": "30+",
+      "subject": "Authors",
+      "verb": "Invited",
+      "flyout": "71 authors have visited our Festival since 2008. These authors have received a combined total of over 300 awards and special recognitions for their published works."
+    },
+    {
+      "number": "150+",
+      "subject": "Community",
+      "verb": "Volunteers",
+      "flyout": "150+ community members, local businesses, and organizations have supported and/or volunteered for the Festival since 2008."
+    }
+  ]
 }
