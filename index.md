@@ -7,7 +7,7 @@ headerImage: /img/header/homepage.png
 
 [](https://cif.illinois.edu/)
 
-The Youth Literature Festival brings award-winning authors of youth literature to area schools in a three-day event, culminating in a Community Day Celebration with author panels, activities for kids, and performances to share with the whole family. A bi-annual event, the Festival is provided without cost to participants or school districts thanks to volunteers and generous sponsors.  
+The **Youth Literature Festival** brings award-winning authors of youth literature to area schools in a three-day event, culminating in a Community Day Celebration with author panels, activities for kids, and performances to share with the whole family. A bi-annual event, the Festival is provided without cost to participants or school districts thanks to volunteers and generous sponsors.  
 
 
 {{ "https://www.youtube.com/embed/KkP6ooj7WtM" || addVideo }}
