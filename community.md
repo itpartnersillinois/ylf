@@ -1,8 +1,9 @@
 ---
 layout: secondary.liquid
 pageTitle: Community Day Celebration
-headerImage: /img/header/header-community.jpg
+headerImage: /img/uploads/img_3464.jpg
 ---
+
 
  {.byline}
 
@@ -19,7 +20,7 @@ S﻿ee below for the 2024 schedule of events.
 
 ![](/img/uploads/img_3497.jpg)
 
-![](/img/uploads/img_3503.jpg)
+![](/img/uploads/img_3554.jpg)
 
 ### [Ballet Folklorico UIUC](https://balletfolkloricomitotiani.weebly.com/)
 
@@ -37,11 +38,15 @@ This program is supported by the [Urbana Arts and Culture Commission](https://u
 
 ![Puppetry Performances ](/img/uploads/img_3707.jpg)
 
-## 2024 Activity Room Partners 
+## 2024 Activity Room Partners
 
 A﻿long with our entertainment performers, the festival welcomed a number of local community organizations and centers to offer a selection of fun, literacy-based activity tables for children and their families. Among the 2024 activity table partners was United Way of Champaign County, bringing a pop-up of their [Dolly Parton Imagination Library](https://www.unitedwaychampaign.org/ImaginationLibrary); the Urbana Free Library; The Illinois Board on Books for Young People; Fun Faces and Balloons doing face painting, and more!
 
 ![United Way Activity Table](/img/uploads/img_3488.jpg)
+
+![](/img/uploads/img_3475.jpg)
+
+![](/img/uploads/img_3543.jpg)
 
 If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs.
 
