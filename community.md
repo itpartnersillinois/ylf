@@ -4,47 +4,26 @@ pageTitle: Community Day Celebration
 headerImage: /img/header/header-community.jpg
 ---
 
+ {.byline}
 
 
-
-
-
-
-
-
-
-Saturday October 5, 2024, 9:30am - 3:30pm {.byline}
-
-
-## [Campus Instructional Facility](https://cif.illinois.edu/)
-
-Champaign-Urbana and surrounding area families and community members are invited to celebrate youth literature at the Festival's Community Day Celebration, a free event, open to the public. Author readings, book signings, puppet shows, live music, art displays, and a variety of hands-on activities for children will all be part of the fun!
-
-## Parking Information
-
-Free weekend parking is available in [Lot B1](https://maps.app.goo.gl/AL7ZxnzsSvhUCZh39) at the corner of Springfield and Matthews. Additional metered parking is available at the [Campus Center Public Parking Deck](https://maps.app.goo.gl/CU1wcmxoUWay7NS97), at the meters along Springfield Ave and Wright Street, and any other open meters surrounding the building area. 
-
-A limited number of prepaid, bagged meter spots will be available outside of the Grainger Library on Springfield Avenue (East of the cross-walk) for those with disability and mobility-related issues. If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs
-
-## Community Day Schedule of Events
-
-**S﻿aturday, October 5th, 9:30am-3:30pm**
+## Stay tuned for information on the 2026 Community Day celebration
 
 **[C﻿lick here for downloadable PDF. ](/img/uploads/community-day-schedule-2024.pdf)**
 
-S﻿ee below for the 2024 schedule of events. The building layout for the Campus Instructional Facility can be found [here](https://cif.illinois.edu/building-layout/). 
+S﻿ee below for the 2024 schedule of events.
 
 ![Community Day Schedule](/img/uploads/community-day-schedule-2024.jpg)
 
 ## Entertainment
 
-![Girls holding portaits over their faces](/img/community/vivian-dixon-2016-oct_-dsc01497.jpg?sfvrsn=57121188_0)
+![](/img/uploads/img_3497.jpg)
 
-![Girls holding portaits down](/img/community/vivian-dixon-2016-oct_-dsc01498.jpg?sfvrsn=57121188_0)
+![](/img/uploads/img_3503.jpg)
 
 ### [Ballet Folklorico UIUC](https://balletfolkloricomitotiani.weebly.com/)
 
-![Ballet Folklorico UIUC Dance and Music Group](/img/uploads/img-0180-2.png)
+![Ballet Folklorico UIUC Dance and Music Group](/img/uploads/img_3767.jpg)
 
 [Ballet Folklorico Mitotiani](https://balletfolkloricomitotiani.weebly.com/) is an organization focusing on the cultural aspect of Mexico. Ballet Folklorico has been a long tradition of dancing depending on the different regions of Mexico. The dances include colorful dresses that stem mainly from Jalisco, Nuevo León, Veracruz, Michoacán, Nayarit, Guerrero, Yucatán, San Luis Potosi, and Puebla. Each region developing a different, yet similar style of dancing. For these dances to be heard, heels for women and boots for men have nails on the tip and the heel. This requires a vast range of dancing techniques that we are prepared to show you. Although these physical logistics are important to know, Ballet Folklorico is a cultural enhancement to this campus, bringing lively color to many events that promote Latinx culture. Our mission is to increase a deeper understanding and connection to Latinx culture on campus and demonstrate the broad variety of regions that Mexico has to offer.
 
@@ -56,13 +35,13 @@ Performers will be a [1st Choice Music Services](https://urldefense.com/v3/__ht
 \
 This program is supported by the [Urbana Arts and Culture Commission](https://urldefense.com/v3/__https://urbanaillinois.us/boards/urbana-arts-and-culture-commission__;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfk4Ux-h4$ "https\://urldefense.com/v3/\_\_https\://urbanaillinois.us/boards/urbana-arts-and-culture-commission\_\_;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfk4Ux-h4$") and a [State of Illinois Back to Business Grant.](https://urldefense.com/v3/__https://dceo.illinois.gov/smallbizassistance/b2b.html__;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfo5AzGrM$ "https\://urldefense.com/v3/\_\_https\://dceo.illinois.gov/smallbizassistance/b2b.html\_\_;!!DZ3fjg!7Lqaz-3idAfqXgzO488-IsGtXeAeWkVX_hpX0leJy9LW-CVdj9VTJ55b7RRPJg7HL0HTIboJHEQfo5AzGrM$")  
 
-![Puppetry Performances ](/img/uploads/418898602_399151999437630_8537933908705267986_n.jpg)
+![Puppetry Performances ](/img/uploads/img_3707.jpg)
 
-## Activity Room Partners
+## 2024 Activity Room Partners 
 
-A﻿long with our entertainment performers this year, the festival will welcome a number of local community organizations and centers to offer a selection of fun, literacy-based activity tables for children and their families. Among this year's activity table partners is United Way of Champaign County, bringing a pop-up of their [Dolly Parton Imagination Library](https://www.unitedwaychampaign.org/ImaginationLibrary); the Urbana Free Library; The Illinois Board on Books for Young People; Fun Faces and Balloons doing face painting, and more!
+A﻿long with our entertainment performers, the festival welcomed a number of local community organizations and centers to offer a selection of fun, literacy-based activity tables for children and their families. Among the 2024 activity table partners was United Way of Champaign County, bringing a pop-up of their [Dolly Parton Imagination Library](https://www.unitedwaychampaign.org/ImaginationLibrary); the Urbana Free Library; The Illinois Board on Books for Young People; Fun Faces and Balloons doing face painting, and more!
 
-![Students sitting around a table talking about the IDEA store](/img/community/2016-community-day-5.jpg)
+![United Way Activity Table](/img/uploads/img_3488.jpg)
 
 If you will need disability-related accommodations in order to participate in the Youth Literature Festival, please contact Mackenzie Gillespie at dankle@illinois.edu or call (217) 300-1774. Early requests are strongly encouraged to allow sufficient time to meet your accessibility needs.
 
