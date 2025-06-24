@@ -4,16 +4,17 @@ pageTitle: School Visits
 headerImage: /img/header/header-schools.jpg
 ---
 
+
  {.byline}
 
 
 School visits are a huge part of the Youth Literature Festival. These visits reach thousands of children in area schools and form a unique aspect of the Festival that is particularly important to our community.
 
-![Author Keiko Kasza at a school visit](/img/schools/ylf_41.jpg)
+![Author Justin Reynolds at a school visit](/img/uploads/img_3727.jpg)
 
 Festival organizers have scheduled more than 70 author visits at schools in and around Champaign-Urbana. School visits provide opportunities for children of all ages to interact with authors and ask questions about their books and about the writing process. Preparation for author visits begins months in advance, with teachers creating curriculum incorporating the books written by the author scheduled to visit their school. Activities at the schools include assemblies, book discussions, readings, and writing workshops.
 
-![Girl holding signs saying Super Reader and I Love Books](/img/schools/kidlovebooks.jpg)
+![](/img/uploads/img_3836.jpg)
 
 ## Growth in Youth Literature Festival impact:
 
@@ -24,5 +25,3 @@ More than half of the school children in Illinois now qualify as low-income stud
 Making literature accessible to all is a driving motivation behind the Festival. By bringing the authors to schools, we give entire student populations the opportunity to meet popular authors and share in their love of literature, which is inspiring for everyone involved.
 
 ## Please [contact us](dankle@illinois.edu) with questions or to participate in a school day visit.
-
-![Children's artwork inspired by YLF](/img/schools/ylf_47.jpg)
