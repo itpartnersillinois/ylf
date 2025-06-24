@@ -15,7 +15,9 @@ The mission of The **Youth Literature Festival** is to place literature, and all
 
 The Festival, held every two years since 2008, leads off with authors visiting numerous area schools. The popular and free-to-the-public Community Day celebration caps the event. Festivities during Community Day include author presentations and panels, hands-on activities, puppetry, storytelling, and musical performances.
 
-![Display of Festival Authors](/img/home/dsc_0106.jpg)
+![](/img/uploads/img_3573.jpg)
+
+![](/img/uploads/img_3835.jpg)
 
 ## Sponsors make the magic happen
 
@@ -24,6 +26,8 @@ The Youth Literature Festival is supported by the College of Education and the U
 Because of these generous sponsors, the Youth Literature Festival is a reality for thousands of K-12 students throughout central Illinois. Bringing this experience to directly to students would not otherwise be possible. Please join us in patronizing and recognizing our Festival sponsors.
 
 ## Thank you for the amazing people who make the Youth Literature Festival Happen
+
+![](/img/uploads/img_3603.jpg)
 
 ### 2024 Planning Committee
 
