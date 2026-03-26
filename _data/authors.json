@@ -1,114 +1,94 @@
-[
+{
+  "authors": [
     {
-        "biography": "Glitter Everywhere!",
-        "url": "https://chrisbarton.info",
-        "name": "Chris Barton",
-        "image": "/img/authors/Author Headshots/Chris Barton.png",
-        "title": "Children's Author"
-    }, 
+      "biography": "",
+      "url": "https://saraharonson.com/",
+      "name": "Sarah Aronson",
+      "image": "/img/uploads/708364.jpg",
+      "title": "Just Like Rube Goldberg"
+    },
     {
-        "biography": "Twelve Dinging Doorbells",
-        "url": "https://tamekafryerbrown.com",
-        "name": "Tameka Fryer Brown",
-        "image": "/img/authors/Author Headshots/Tameka Fryer Brown.jpg",
-        "title": "Picture Book Author"
-    }, 
+      "biography": "",
+      "url": "https://chrisbarton.info",
+      "name": "Chris Barton",
+      "image": "/img/authors/Author Headshots/Chris Barton.png",
+      "title": "We Match!"
+    },
     {
-        "biography": "Jasmine Toguchi",
-        "url": "https://debbimichikoflorence.com",
-        "name": "Debbi Michiko Florence",
-        "image": "/img/authors/Author Headshots/Debbi Michiko Florence.jpg",
-        "title": "Children's Author"
-    }, 
+      "biography": "",
+      "url": "https://davidbowles.us/",
+      "name": "David Bowles",
+      "image": "/img/uploads/714784.jpeg",
+      "title": "The Hero Twins in the Realm of Fright"
+    },
     {
-        "biography": "Vitamina T for Tacos, Vitimina C for Cultura",
-        "url": "https://suzannemateus.com",
-        "name": "Suzanne Garcia-Mateus",
-        "image": "/img/authors/Author Headshots/Suzanne Mateus.jpg",
-        "title": "Assistant Professor, Children's Writer"
-    }, 
+      "biography": "",
+      "url": "https://www.cozbi.com/",
+      "name": "Cozbi A. Cabrera",
+      "image": "/img/uploads/705829.jpg",
+      "title": "Me & Mama"
+    },
     {
-        "biography": "Lucha Libra: The Man in the Silver Mask, La Llorona Can't Scare Me",
-        "url": "https://www.goodreads.com/author/show/289361.Xavier_Garza",
-        "name": "Xavier Garza",
-        "image": "/img/authors/Author Headshots/Xavier Garza.jpg",
-        "title": "Author/Illustrator"
-    }, 
+      "biography": "",
+      "url": "https://www.joecepeda.com/",
+      "name": "Joe Cepeda",
+      "image": "/img/uploads/718492.jpg",
+      "title": "Rafa Counts on Papá"
+    },
     {
-        "biography": "When We Become Ours, Same and the Incredible African American Food Fight",
-        "url": "https://www.shannongibney.com",
-        "name": "Shannon Gibney",
-        "image": "/img/authors/Author Headshots/Shannon Gibney.jpg",
-        "title": "Writer, Educator, Activist"
-    }, 
+      "biography": "",
+      "url": "https://saadiafaruqi.com/",
+      "name": "Saadia Faruqi ",
+      "image": "/img/uploads/716108.jpg",
+      "title": "Don't Be Scared"
+    },
     {
-        "biography": "Hurry Kate, or You'll be Late, Rooting for Plants",
-        "url": "https://janiceharrington.com",
-        "name": "Janice Harrington",
-        "image": "/img/authors/Author Headshots/Janice Harrington.jpg",
-        "title": "Storyteller, Poet, Children's Writer"
-    }, 
+      "biography": "",
+      "url": "https://janiceharrington.com",
+      "name": "Janice Harrington",
+      "image": "/img/authors/Author Headshots/Janice Harrington.jpg",
+      "title": "Hurry Kate, or You'll be Late; Rooting for Plants"
+    },
     {
-        "biography": "Feasts and Festivals around the World, Pancakes to Parathas: Breakfast Around the World",
-        "url": "https://www.alicebmcginty.com/",
-        "name": "Alice McGinty",
-        "image": "/img/authors/Author Headshots/Alice McGinty.jpg",
-        "title": "Children’s Writer"
-    }, 
+      "name": "Pablo Leon",
+      "url": "https://artsypabster.com/",
+      "title": "Silenced Voices; Miles Morales Shock Waves",
+      "image": "/img/uploads/707055.jpg"
+    },
     {
-        "biography": "The Fish of Small Wishes, Barrio Rising: The Protest that Built Chicano Park",
-        "url": "https://www.magdalenamora.com",
-        "name": "Magdalena Mora",
-        "image": "/img/authors/Author Headshots/Magdalena Mora.jpg",
-        "title": "Illustrator"
-    }, 
+      "biography": "",
+      "url": "https://miapmanansala.com/",
+      "name": "Mia P. Manansala ",
+      "image": "/img/uploads/705847.jpg",
+      "title": "Death in the Cards"
+    },
     {
-        "biography": "Homeland",
-        "url": "https://hannahmoushabeck.com",
-        "name": "Hannah Moushabeck",
-        "image": "/img/authors/Author Headshots/Hannah Moushabeck.jpg",
-        "title": "Author, Editor, Marketer"
-    }, 
+      "biography": "",
+      "url": "https://www.justinareynolds.com",
+      "name": "Justin A. Reynolds",
+      "image": "/img/authors/Author Headshots/justin reynolds.jpg",
+      "title": "Miles Morales Series"
+    },
     {
-        "biography": "",
-        "url": "https://www.gregneri.com/",
-        "name": "Greg Neri",
-        "image": "/img/authors/Author Headshots/Greg Neri.jpg",
-        "title": "Author"
-    }, 
+      "biography": "",
+      "url": "https://lauraruby.com/",
+      "name": "Laura Ruby",
+      "image": "/img/uploads/715915.png",
+      "title": "YORK; Me & Ms. Too"
+    },
     {
-        "biography": "The Magic Fish",
-        "url": "https://www.trungles.com",
-        "name": "Trung Le Nguyen",
-        "image": "/img/authors/Author Headshots/Trung Le Nguyen.jpg",
-        "title": "American Cartoonist"
-    }, 
+      "biography": "",
+      "url": "https://www.tracisorell.com/",
+      "name": "Traci Sorell ",
+      "image": "/img/uploads/706307.jpg",
+      "title": "Indigenous from A to Z; Riding the Trail: Cherokees Remember the Removal"
+    },
     {
-        "biography": "Dragon King Chronicles",
-        "url": "https://www.ellenoh.com",
-        "name": "Ellen Oh",
-        "image": "/img/authors/Author Headshots/Ellen Oh.jpg",
-        "title": "Author"
-    }, 
-    {
-        "biography": "Anger is a Gift, The sun and the Star",
-        "url": "https://www.markoshiro.com",
-        "name": "Mark Oshiro",
-        "image": "/img/authors/Author Headshots/mark oshiro.jpg",
-        "title": "Author"
-    }, 
-    {
-        "biography": "Miles Morales Series",
-        "url": "https://www.justinareynolds.com",
-        "name": "Justin A. Reynolds",
-        "image": "/img/authors/Author Headshots/justin reynolds.jpg",
-        "title": "Author, Screenwriter"
-    }, 
-    {
-        "biography": "Apple in the middle, Jo Jo Makoons Series",
-        "url": "https://dawnquigley.com/bio/",
-        "name": "Dawn Quigley",
-        "image": "/img/authors/Author Headshots/dawn quigley.png",
-        "title": "Author, Educator"
+      "biography": "",
+      "url": "https://bettyctang.com/",
+      "name": "Betty Tang",
+      "image": "/img/uploads/705919.jpg",
+      "title": "Parachute Kids"
     }
-]
+  ]
+}

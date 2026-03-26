@@ -1,0 +1,131 @@
+backend:
+  name: github
+  repo: bryanjonker-illinois/ylf-decap
+  branch: main
+media_folder: "img/uploads"
+collections:
+  - label: "Pages"
+    name: "pages"
+    description: "The page list is hardcoded to a specific set. If you need a new page added, please contact support@education.illinois.edu"
+    files:
+      - label: "Home"
+        name: "index"
+        file: "index.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
+      - label: "Schools"
+        name: "schools"
+        file: "schools.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
+      - label: "Author List"
+        name: "authors"
+        file: "authors.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
+      - label: "Community Day"
+        name: "community"
+        file: "community.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
+      - label: "Engage"
+        name: "engage"
+        file: "engage.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
+      - label: "Sponsors"
+        name: "sponsors"
+        file: "sponsors.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
+      - label: "Contact"
+        name: "contact"
+        file: "contact.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
+      - label: "News and Resources"
+        name: "news"
+        file: "news.md"
+        fields:
+          - {label: Title, name: pageTitle, widget: string}
+          - {label: "Heading Image", name: headerImage, widget: image, required: false, allow_multiple: false }
+          - {label: Body, name: body, widget: markdown, buttons: [ "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "quote", "bulleted-list", "numbered-list"], editor_components: ["image", "code-block", "youtube-embed", "byline", "button", "list"] }
+  - label: "Raw Data and Lists"
+    name: "data"
+    description: "This contains the raw data that feeds the author page, the sponsor page, and the committee page."
+    files:
+      - label: "Author List"
+        name: "authorsjson"
+        file: "_data/authors.json"
+        fields: 
+          - label: Authors
+            name: authors
+            widget: list
+            fields:
+              - {label: Author Name, name: name, widget: string}
+              - {label: Author Url, name: url, widget: string}
+              - {label: Author Title, name: title, widget: string}
+              - {label: Book Name, name: biography, widget: string, required: false}
+              - {label: Image, name: image, widget: image}
+      - label: "Committee List"
+        name: "committeelist"
+        file: "_data/committee.json"
+        fields: 
+          - label: Committee Members
+            name: members
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Url, name: url, widget: string}
+              - {label: Image, name: image, widget: image, required: false}  
+      - label: "Sponsor List"
+        name: "sponsorlist"
+        file: "_data/sponsors.json"
+        fields: 
+          - label: Sponsors
+            name: sponsors
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string }
+              - {label: Image, name: image, widget: image, required: false }
+              - {label: Category, name: category, widget: select, options: ["Book Reader", "Book Lover", "Community Supporter", "Community Leader", "Bestseller", "Premier Circle", "Festival Sponsor" ] }
+  - label: "Menu Options"
+    name: "menuoptions"
+    description: "This contains the page list for the menu structure and the circles that display on the home page."
+    files:
+      - label: "Page List"
+        name: "pagelistjson"
+        file: "_data/pagelist.json"
+        fields: 
+          - label: "Menu Information" 
+            name: menu
+            widget: list
+            fields:
+              - {label: Title, name: name, widget: string}
+              - {label: Relative Path, name: url, widget: string, hint: "Can be a relative path for internal links, or an external url"}
+      - label: "Circles"
+        name: "circlesjson"
+        file: "_data/circles.json"
+        fields: 
+          - label: Circles 
+            name: circles
+            widget: list
+            fields:
+              - {label: "Large Number", name: number, widget: string}
+              - {label: Subject, name: subject, widget: string}
+              - {label: Verb, name: verb, widget: string}
+              - {label: Flyout, name: flyout, widget: text }

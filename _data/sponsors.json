@@ -1,0 +1,157 @@
+{
+  "sponsors": [
+    {
+      "name": "Dr. Janis Chadsey & Mr. Alfred S. Davis",
+      "img": "",
+      "category": "Community Supporter"
+    },
+    {
+      "name": "Prof. Katherine Ryan",
+      "img": "",
+      "category": "Community Leader"
+    },
+    {
+      "name": "Cozad Asset Management, Inc.",
+      "img": "cozad-asset-200.png",
+      "category": "Community Supporter"
+    },
+    {
+      "name": "Linda Darr",
+      "img": "",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Dawn Schultz",
+      "img": "",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Nancy O'Brien",
+      "img": "",
+      "category": "Community Leader"
+    },
+    {
+      "name": "Kalah L. Babbs",
+      "img": "",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Illinois College of Education",
+      "img": "education_logo.jpg",
+      "category": "Festival Sponsor"
+    },
+    {
+      "name": "Illinois University Library",
+      "img": "library_logo.jpg",
+      "category": "Festival Sponsor"
+    },
+    {
+      "name": "Glenna S. Udre Program in Literacy",
+      "img": "",
+      "category": "Festival Sponsor"
+    },
+    {
+      "name": "Urbana Arts and Culture Program",
+      "image": "/img/uploads/urbana-arts-and-culture.png",
+      "category": "Community Leader"
+    },
+    {
+      "name": "Dixon Graphics",
+      "image": "/img/uploads/dixon-graphics.png",
+      "category": "Community Leader"
+    },
+    {
+      "name": "Dr. Mackenzie and Mr. Alec Gillespie",
+      "category": "Community Supporter"
+    },
+    {
+      "name": "United way of Champaign County",
+      "image": "/img/uploads/united-way-champaign.png",
+      "category": "Community Supporter"
+    },
+    {
+      "name": "Russian, East European, & Eurasian Center",
+      "category": "Community Supporter"
+    },
+    {
+      "name": "2 Girls in the Garden",
+      "image": "/img/uploads/2-girls-in-the-garden.jpg",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Dankle, Brunson, and Lee Family Dentistry",
+      "image": "/img/uploads/dankle_brunson_lee.png",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Asian American Cultural Center",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Prairie State Bank",
+      "image": "/img/uploads/prairie-state-bank.png",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Dr. Sarah and Mr. Jeffrey Dahlen",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Smile Politely",
+      "image": "/img/uploads/smile-politely.jpg",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Watson's Shack and Rail",
+      "image": "/img/uploads/watson-s-shack-and-rail.png",
+      "category": "Book Lover"
+    },
+    {
+      "name": "Chambana Moms",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Donna Reichmann",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Mr. Michael Ross & Mrs. Taya Luderowski-Ross",
+      "category": "Book Reader"
+    },
+    {
+      "name": "EZ 99.7 FM",
+      "image": "/img/uploads/ez997.png",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Mix 94.5 FM",
+      "image": "/img/uploads/mix-94.5-color.png",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Rewind 92.5 FM",
+      "image": "/img/uploads/rewind-925-notag.png",
+      "category": "Book Reader"
+    },
+    {
+      "name": "97.9 FM The Vibe",
+      "image": "/img/uploads/the-vibe-no-tag.png",
+      "category": "Book Reader"
+    },
+    {
+      "name": "WIXY 100.3 FM",
+      "image": "/img/uploads/wixy-color.png",
+      "category": "Book Reader"
+    },
+    {
+      "name": "Xtra 96.9 FM",
+      "image": "/img/uploads/wixy-hd2-rgb.png",
+      "category": "Book Reader"
+    },
+    {
+      "image": "/img/uploads/wyxy-color.png",
+      "name": "WYXY 99.1 FM",
+      "category": "Book Reader"
+    }
+  ]
+}
