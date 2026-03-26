@@ -19,6 +19,7 @@
         align-items: center;
         justify-content: center;
         background: $blue_base;
+        font-family: var(--il-menu-font);
 
         &.orange {
             background: $orange_base;
@@ -46,6 +47,7 @@
         font-size: 1em;
         line-height: 1.35em;
         color: black;
+        font-family: "Source Sans Pro", sans-serif;
     }
 }
 
