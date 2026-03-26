@@ -2,45 +2,45 @@
   "authors": [
     {
       "biography": "",
+      "url": "https://saraharonson.com/",
+      "name": "Sarah Aronson",
+      "image": "/img/uploads/708364.jpg",
+      "title": "Just Like Rube Goldberg"
+    },
+    {
+      "biography": "",
       "url": "https://chrisbarton.info",
       "name": "Chris Barton",
       "image": "/img/authors/Author Headshots/Chris Barton.png",
-      "title": "Glitter Everywhere!"
-    },
-    {
-      "biography": "Twelve Dinging Doorbells",
-      "url": "https://tamekafryerbrown.com",
-      "name": "Tameka Fryer Brown",
-      "image": "/img/authors/Author Headshots/Tameka Fryer Brown.jpg",
-      "title": "Twelve Dinging Doorbells"
+      "title": "We Match!"
     },
     {
       "biography": "",
-      "url": "https://debbimichikoflorence.com",
-      "name": "Debbi Michiko Florence",
-      "image": "/img/authors/Author Headshots/Debbi Michiko Florence.jpg",
-      "title": "Jasmine Toguchi Series"
+      "url": "https://davidbowles.us/",
+      "name": "David Bowles",
+      "image": "/img/uploads/714784.jpeg",
+      "title": "The Hero Twins in the Realm of Fright"
     },
     {
       "biography": "",
-      "url": "https://suzannegarcia.com/",
-      "name": "Suzanne Garcia-Mateus",
-      "image": "/img/authors/Author Headshots/Suzanne Mateus.jpg",
-      "title": "Vitamina T for Tacos; Vitimina C for Cultura"
+      "url": "https://www.cozbi.com/",
+      "name": "Cozbi A. Cabrera",
+      "image": "/img/uploads/705829.jpg",
+      "title": "Me & Mama"
     },
     {
       "biography": "",
-      "url": "https://www.goodreads.com/author/show/289361.Xavier_Garza",
-      "name": "Xavier Garza",
-      "image": "/img/authors/Author Headshots/Xavier Garza.jpg",
-      "title": "Lucha Libra: The Man in the Silver Mask; La Llorona Can't Scare Me"
+      "url": "https://www.joecepeda.com/",
+      "name": "Joe Cepeda",
+      "image": "/img/uploads/718492.jpg",
+      "title": "Rafa Counts on Papá"
     },
     {
       "biography": "",
-      "url": "https://www.shannongibney.com",
-      "name": "Shannon Gibney",
-      "image": "/img/authors/Author Headshots/Shannon Gibney.jpg",
-      "title": "When We Become Ours; Sam and the Incredible African American Food Fight"
+      "url": "https://saadiafaruqi.com/",
+      "name": "Saadia Faruqi ",
+      "image": "/img/uploads/716108.jpg",
+      "title": "Don't Be Scared"
     },
     {
       "biography": "",
@@ -50,45 +50,17 @@
       "title": "Hurry Kate, or You'll be Late; Rooting for Plants"
     },
     {
-      "name": "Anna Lapera ",
-      "url": "https://www.annalaperawriter.com/",
-      "title": "Mani Semilla Finds Her Quetzal Voice",
-      "image": "/img/uploads/571359.jpg"
+      "name": "Pablo Leon",
+      "url": "https://artsypabster.com/",
+      "title": "Silenced Voices; Miles Morales Shock Waves",
+      "image": "/img/uploads/707055.jpg"
     },
     {
       "biography": "",
-      "url": "https://www.alicebmcginty.com/",
-      "name": "Alice McGinty",
-      "image": "/img/authors/Author Headshots/Alice McGinty.jpg",
-      "title": "Bathe the Cat"
-    },
-    {
-      "biography": "",
-      "url": "https://www.magdalenamora.com",
-      "name": "Magdalena Mora, Illustrator ",
-      "image": "/img/authors/Author Headshots/Magdalena Mora.jpg",
-      "title": "The Fish of Small Wishes; Barrio Rising: The Protest that Built Chicano Park"
-    },
-    {
-      "biography": "",
-      "url": "https://hannahmoushabeck.com",
-      "name": "Hannah Moushabeck",
-      "image": "/img/authors/Author Headshots/Hannah Moushabeck.jpg",
-      "title": "Homeland"
-    },
-    {
-      "biography": "",
-      "url": "https://www.gregneri.com/",
-      "name": "Greg Neri",
-      "image": "/img/uploads/564467.jpg",
-      "title": "My Antarctica"
-    },
-    {
-      "biography": "",
-      "url": "https://www.ellenoh.com",
-      "name": "Ellen Oh",
-      "image": "/img/authors/Author Headshots/Ellen Oh.jpg",
-      "title": "Colliding Worlds of Mina Lee; You are Here, Allida; Zombie Dog Hero"
+      "url": "https://miapmanansala.com/",
+      "name": "Mia P. Manansala ",
+      "image": "/img/uploads/705847.jpg",
+      "title": "Death in the Cards"
     },
     {
       "biography": "",
@@ -99,10 +71,24 @@
     },
     {
       "biography": "",
-      "url": "https://dawnquigley.com/bio/",
-      "name": "Dawn Quigley",
-      "image": "/img/authors/Author Headshots/dawn quigley.png",
-      "title": "Apple in the Middle; Jo Jo Makoons Series"
+      "url": "https://lauraruby.com/",
+      "name": "Laura Ruby",
+      "image": "/img/uploads/715915.png",
+      "title": "YORK; Me & Ms. Too"
+    },
+    {
+      "biography": "",
+      "url": "https://www.tracisorell.com/",
+      "name": "Traci Sorell ",
+      "image": "/img/uploads/706307.jpg",
+      "title": "Indigenous from A to Z; Riding the Trail: Cherokees Remember the Removal"
+    },
+    {
+      "biography": "",
+      "url": "https://bettyctang.com/",
+      "name": "Betty Tang",
+      "image": "/img/uploads/705919.jpg",
+      "title": "Parachute Kids"
     }
   ]
 }

@@ -5,16 +5,13 @@ headerImage: /img/uploads/img_3464.jpg
 ---
 
 
+
  {.byline}
 
 
-## Stay tuned for information on the 2026 Community Day celebration
+## Saturday, September 26th at the [I-Hotel & Conference Center](https://stayatthei.com/)
 
-**[C﻿lick here for downloadable PDF. ](/img/uploads/community-day-schedule-2024.pdf)**
-
-S﻿ee below for the 2024 schedule of events.
-
-![Community Day Schedule](/img/uploads/community-day-schedule-2024.jpg)
+D﻿etails on the 2026 Community Day Celebration will be announced soon. For an idea of what you can expect during the event, please see information below on our 2024 Entertainment and Activity Table Partners!
 
 ## Entertainment
 

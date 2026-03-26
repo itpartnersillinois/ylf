@@ -29,7 +29,7 @@ Because of these generous sponsors, the Youth Literature Festival is a reality f
 
 ![](/img/uploads/img_3603.jpg)
 
-### 2024 Planning Committee
+### 2026 Planning Committee
 
 * Victor H Perez
 * Mackenzie Gillespie
@@ -37,7 +37,7 @@ Because of these generous sponsors, the Youth Literature Festival is a reality f
 * Nancy O'Brien
 * Sarah Park Dahlen 
 * Aly Stephenson
-* Idalia Nuñez
 * Ashley Lawrence 
 * Heather Zorn
-* E﻿mily Stone
+* Emily Stone
+
