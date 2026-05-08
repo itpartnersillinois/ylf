@@ -1,9 +1,4 @@
-{
-  "menu": [
-    {
-      "name": "Home",
-      "url": "/"
-    },
+[
     {
       "name": "Schools",
       "url": "/schools/index.html"
@@ -28,5 +23,4 @@
       "name": "Contact",
       "url": "/contact/index.html"
     }
-  ]
-}
+]

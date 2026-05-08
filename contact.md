@@ -3,4 +3,4 @@ layout: secondary.liquid
 pageTitle: Contact
 headerImage: /img/header/header-contact.jpg
 ---
-{{ committee | committeeList }}
+<div><ilw-grid class="committee"></ilw-grid></div>

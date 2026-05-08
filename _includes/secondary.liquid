@@ -1,26 +1,26 @@
 <!doctype html>
 <html lang="en">
     <head>
-        {% include head.liquid %}
+        {% render 'renders/head' %}
     </head>
     <body class="{{ bodyClass }}">
-        <header>
-        {% include header.liquid %}
-            <div class="bannerPhoto" style="background-image: url({{ headerImage }});"> </div>
-        </header>
-        {% include menu.liquid %}
-        <div class="main">
-        <main>
-        <h1>{{ pageTitle }} </h1>
-        {{ content }}
-        </main>
-        <aside>
-            {% include sidebar.liquid %}
-        </aside>
-        </div>
-        {% include call.liquid %}
-        <footer>
-            {% include footer.liquid %}
-        </footer>
+         <ilw-page>
+            {% render 'renders/header' with pagelist as pagelist %}
+            <div class="main">
+                <main>
+                    <ilw-content>
+                    <h1>{{ pageTitle }} </h1>
+                    {{ content }}
+                    </ilw-content>
+                </main>
+                <aside>
+                    <ilw-content transparent="true">
+                    {% render 'renders/sidebar' %} 
+                    </ilw-content>
+                </aside>
+            </div>
+            <ilw-footer slot="footer">
+                {% render 'renders/footer' %}
+         </ilw-page>
     </body>
 </html>
