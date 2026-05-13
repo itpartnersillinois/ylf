@@ -88,7 +88,8 @@ This file is rendered by `_includes/renders/header.liquid` into the main navigat
 - Secondary page layout: `_includes/secondary.liquid`
 - Shared head: `_includes/renders/head.liquid`
 - Header/navigation: `_includes/renders/header.liquid`
-- Sidebar/footer: `_includes/renders/sidebar.liquid`, `_includes/renders/footer.liquid`
+- Sidebar: `_includes/renders/sidebar.liquid`
+- Footer: `_includes/renders/footer.liquid`
 
 ### 4) Update images and media
 
@@ -100,11 +101,17 @@ This file is rendered by `_includes/renders/header.liquid` into the main navigat
 
 `scripts/main.js` loads Authors, Sponsors, and Committee content from external API endpoints at runtime.
 
+Author, Sponsor, and Committee content can be edited at https://resource.wigg.illinois.edu/. Authors and committee members are managed under "People" and Sponsors are managed under "Resources".
+
 If these sections are missing or incorrect, verify:
 
 - API endpoint availability
 - source/tag parameters in `scripts/main.js`
 - matching HTML containers in page content
+
+### 6) Update circles
+
+Circles on the main page are managed through the `_data/circles.json` file. 
 
 ## Build and validation checklist
 
