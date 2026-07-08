@@ -1,6 +1,16 @@
-# Youth Literature Festival Website (Developer README)
+# Youth Literature Festival Website
 
 This repository contains the Youth Literature Festival website built with Eleventy (11ty), Liquid templates, Markdown content, and static assets.
+
+## Maintenance
+
+Author, Sponsor, and Committee content can be edited at https://resource.wigg.illinois.edu/. 
+
+Authors and committee members are managed under "People" and Sponsors are managed under "Resources".
+
+* https://youthlitfest.education.illinois.edu/authors/index.html
+* https://youthlitfest.education.illinois.edu/sponsors/index.html
+* https://youthlitfest.education.illinois.edu/contact/index.html
 
 ## Tech stack
 
@@ -100,8 +110,6 @@ This file is rendered by `_includes/renders/header.liquid` into the main navigat
 ### 5) Update dynamic data-driven sections
 
 `scripts/main.js` loads Authors, Sponsors, and Committee content from external API endpoints at runtime.
-
-Author, Sponsor, and Committee content can be edited at https://resource.wigg.illinois.edu/. Authors and committee members are managed under "People" and Sponsors are managed under "Resources".
 
 If these sections are missing or incorrect, verify:
 
