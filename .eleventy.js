@@ -12,7 +12,6 @@ module.exports = (function (eleventyConfig) {
     rightDelimiter: '}',
     allowedAttributes: []
   });
-  eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.setLibrary("md", markdownIt);
 
   eleventyConfig.addFilter("addVideo", function (video) {
@@ -55,11 +54,11 @@ module.exports = (function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("authorList", function (author) {
-    var returnValue = '<ul class="authorlist">';
+    var returnValue = '<ilw-grid>';
     author.authors.forEach(element => {
-      returnValue = returnValue + `<li><img src="${element.image}" alt="${element.name}" data-info="${element.biography}" onmouseover="authorOver(this)" onmouseout="authorOut(this)"></a><p class="header"><a href="${element.url}">${element.name}</a></p><p class="subheader">${element.title}</p></li>`;
+      returnValue = returnValue + `<ilw-card clickable='true'><img style="max-width: 100%;" src="${element.image}" alt="${element.name}" slot="image"><h2><a href="${element.url}">${element.name}</a></h2><p class="subheader">${element.title}</p></ilw-card>`;
     });
-    returnValue = returnValue + '</ul>';
+    returnValue = returnValue + '</ilw-grid>';
     return returnValue;
   });
 

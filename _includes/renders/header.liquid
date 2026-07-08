@@ -1,0 +1,19 @@
+<ilw-header slot="header">
+  <a slot="primary-unit" href="https://education.illinois.edu">College of Education</a>
+  <a slot="site-name" href="/">Youth Literature Festival</a>
+  <nav slot="links" aria-label="Utility">
+    <ul>
+      <li><a href="http://go.illinois.edu/giveYLF">Give</a></li>
+    </ul>
+  </nav>
+  <ilw-header-menu slot="navigation">
+    <ul>
+        <li><a href="/">Home</a></li>
+    {%- for item in pagelist %}
+      <li>
+        <a href="{{ item.url }}">{{ item.name }}</a>
+      </li>
+    {% endfor -%}
+    </ul>
+  </ilw-header-menu>
+</ilw-header>
