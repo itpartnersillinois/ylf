@@ -38,6 +38,6 @@ Because of these generous sponsors, the Youth Literature Festival is a reality f
 * Sarah Park Dahlen 
 * Aly Stephenson
 * Ashley Lawrence 
-* Heather Zorn
 * Emily Stone
+* Nathan Castillo
 
