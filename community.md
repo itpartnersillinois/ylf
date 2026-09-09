@@ -11,7 +11,9 @@ headerImage: /img/uploads/img_3464.jpg
 
 ## Saturday, September 26th at the [I-Hotel & Conference Center](https://stayatthei.com/)
 
-D﻿etails on the 2026 Community Day Celebration will be announced soon. For an idea of what you can expect during the event, please see information below on our 2024 Entertainment and Activity Table Partners!
+See below for the 2026 Schedule of Events, as well as information on our Entertainment and Activity Table hosts this year.
+
+![schedule](/img/community/schedule.jpg)
 
 ## Entertainment
 
