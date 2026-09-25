@@ -14,3 +14,5 @@ Thank you to our generous sponsors who make the Youth Literature Festival a real
 
 This button will direct you to a donation page for the College of Education. Please select Youth Literature Festival under 'Invest in Research and Outreach' to donate. For questions regarding sponsorships and donations, please contact Mackenzie Gillespie at **dankle@illinois.edu**. 
 
+## Sponsor List
+<div><ilw-grid class="sponsors"></ilw-grid></div>
