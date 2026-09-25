@@ -20,6 +20,10 @@ See below for the 2026 Schedule of Events, a map of the building, and informatio
 
 ## 36th Annual Mortenson Center Distinguished Lecture
 ### Jeff Chiba Stearns - ANIMATION MEDITATION: 25 Years of Exploring Mixed-Race Identity and Japanese Canadian History Through Visual Storytelling
+1PM - 2:30PM in the Alma Mater Room
+![](/img/authors/jeff.jpg)
+
+
 
 
 ## Entertainment
